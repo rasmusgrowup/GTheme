@@ -6,20 +6,21 @@
         "text": {
           "type": "text",
           "settings": {
-          }
-        },
-        "image": {
-          "type": "image",
-          "settings": {
+            "text_title": "Titel",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "url": "",
+            "url_text": "Link text",
+            "center": false
           }
         }
       },
       "block_order": [
-        "text",
-        "image"
+        "text"
       ],
       "settings": {
-        "top_element": "true"
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
       }
     }
   },
