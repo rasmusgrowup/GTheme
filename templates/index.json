@@ -180,19 +180,19 @@
         "story": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "url": "",
-            "url_text": "Link text",
-            "center": false
+            "text_title": "We are",
+            "text": "<p>a small innovative family owned company with offices situated in the heart of Denmark. We set out to create a product to revive old record collections the world over. Read how we’re doing.<\/p>",
+            "url": "#",
+            "url_text": "Read our story",
+            "center": true
           }
         },
         "amazon": {
           "type": "review",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "center": false
+            "text_title": "4.6 in average rating on Amazon",
+            "text": "<p>“This did exactly what I needed it to. It displays my records subtly without marring my walls too much. It was easy to mount and use.”<br\/><br\/>— A. Flynn<\/p>",
+            "center": true
           }
         }
       },
