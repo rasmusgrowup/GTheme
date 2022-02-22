@@ -36,7 +36,7 @@
         "16455206713bf15783-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-11_xd.jpg"
+            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8597_xd.jpg"
           }
         },
         "16455206713bf15783-0": {
@@ -67,7 +67,7 @@
           "type": "text",
           "settings": {
             "text_title": "Second",
-            "text": "<p>INSERT THE ADAPTER DISC INTO THE MIDDLE OF THE RECORD<\/p>",
+            "text": "<p>CAREFULLY INSERT THE RING-DISC INTO THE BACK OF YOUR COVER.<\/p>",
             "url": "",
             "url_text": "",
             "center": false
@@ -76,7 +76,7 @@
         "164552076463403ed5-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-15_xd.jpg"
+            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8615_xd.jpg"
           }
         }
       },
@@ -96,14 +96,14 @@
         "1645520811849b9b21-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-17_xd.jpg"
+            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd_585fa6e7-6fc6-4052-a20d-ffd12af49303.jpg"
           }
         },
         "1645520811849b9b21-0": {
           "type": "text",
           "settings": {
-            "text_title": "Third",
-            "text": "<p>LOCK THE RECORD BY SCREWING ON THE ADAPTER-LOOKING GEAR<\/p>",
+            "text_title": "LASTLY",
+            "text": "<p>HOLD THE ALBUM UP AGAINST THE MAGNET. ADJUST AND CAREFULLY LET GO OF THE ALBUM. ET VOILA, YOUR ALBUM IS NOW DISPLAYED ON THE WALL<\/p>",
             "url": "",
             "url_text": "",
             "center": false
@@ -120,43 +120,13 @@
         "column_ratio": "equal_widths"
       }
     },
-    "16455208451e5c9128": {
-      "type": "flexSection",
-      "blocks": {
-        "164552084558254ee7-0": {
-          "type": "text",
-          "settings": {
-            "text_title": "Lastly",
-            "text": "<p>ALL THAT'S LEFT NOW, IS TO WALL MOUNT YOUR RECORD. THE MAGNETIC PULL FORCE WILL TAKE CARE OF HOLDING THE RECORD<\/p>",
-            "url": "",
-            "url_text": "",
-            "center": false
-          }
-        },
-        "164552084558254ee7-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-18_xd.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "164552084558254ee7-0",
-        "164552084558254ee7-1"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
-    },
     "16455208905bfea052": {
       "type": "flexSection",
       "blocks": {
         "1645520890f05c0f6d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020_xd.jpg"
+            "image": "shopify:\/\/shop_images\/EmptyName-60_xd.jpg"
           }
         }
       },
@@ -175,7 +145,6 @@
     "16455206711894e94b",
     "1645520764c60a38b4",
     "164552081190d8790c",
-    "16455208451e5c9128",
     "16455208905bfea052"
   ]
 }
