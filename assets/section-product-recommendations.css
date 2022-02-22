@@ -1,0 +1,27 @@
+.product-recommendations {
+  display: block;
+}
+
+.product-recommendations::after {
+  bottom: 0;
+  content: '';
+  display: block;
+  left: 0;
+  outline: 1px solid rgba(var(--color-foreground), 1);
+  pointer-events: none;
+  position: absolute;
+  right: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.product-recommendations:not(.product-recommendations--loaded) {
+  padding: 0;
+  margin: 0;
+}
+
+.product-recommendations__heading {
+  margin-bottom: 1.2rem;
+  text-align: center;
+  text-transform: uppercase;
+}

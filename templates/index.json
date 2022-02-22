@@ -1,0 +1,142 @@
+{
+  "sections": {
+    "hero": {
+      "type": "flexSection",
+      "settings": {
+        "top_element": "true"
+      },
+      "blocks": {
+        "text": {
+          "type": "text"
+        },
+        "image": {
+          "type": "image"
+        }
+      },
+      "block_order": [
+        "text",
+        "image"
+      ]
+    },
+    "collection": {
+      "type": "flexCollection"
+    },
+    "adapter": {
+      "type": "flexSection",
+      "blocks": {
+        "image": {
+          "type": "image"
+        },
+        "text": {
+          "type": "text"
+        }
+      },
+      "block_order": [
+        "image",
+        "text"
+      ]
+    },
+    "original": {
+      "type": "flexSection",
+      "blocks": {
+        "text": {
+          "type": "text"
+        },
+        "image": {
+          "type": "image"
+        }
+      },
+      "block_order": [
+        "text",
+        "image"
+      ]
+    },
+    "frameless": {
+      "type": "flexSection",
+      "blocks": {
+        "image": {
+          "type": "image"
+        },
+        "text": {
+          "type": "text"
+        }
+      },
+      "block_order": [
+        "image",
+        "text"
+      ]
+    },
+    "full_width_first": {
+      "type": "flexSection",
+      "blocks": {
+        "text": {
+          "type": "text"
+        }
+      },
+      "block_order": [
+        "text"
+      ]
+    },
+    "full_width_second": {
+      "type": "flexSection",
+      "blocks": {
+        "image": {
+          "type": "image"
+        }
+      },
+      "block_order": [
+        "image"
+      ]
+    },
+    "story_and_amazon": {
+      "type": "flexSection",
+      "blocks": {
+        "story": {
+          "type": "text",
+          "settings": {
+            "center": "true"
+          }
+        },
+        "amazon": {
+          "type": "review",
+          "settings": {
+            "center": "true"
+          }
+        }
+      },
+      "block_order": [
+        "story",
+        "amazon"
+      ]
+    },
+    "support_and_image": {
+      "type": "flexSection",
+      "blocks": {
+        "support": {
+          "type": "support",
+          "settings": {
+            "center": "true"
+          }
+        },
+        "image": {
+          "type": "image"
+        }
+      },
+      "block_order": [
+        "support",
+        "image"
+      ]
+    }
+  },
+  "order": [
+    "hero",
+    "collection",
+    "adapter",
+    "original",
+    "frameless",
+    "full_width_first",
+    "full_width_second",
+    "story_and_amazon",
+    "support_and_image"
+  ]
+}
