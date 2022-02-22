@@ -1,0 +1,25 @@
+.flex_page_inner {
+  margin: 4.8rem auto;
+  max-width: 50vw;
+}
+
+@media only screen and (max-width: 749px) {
+  .flex_page_inner {
+    max-width: 100%;
+    padding: 0 2.4rem;
+  }
+}
+
+.flex_page_title_wrapper h1 {
+  font-size: max(2.6vw, 21px);
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.flex_page_text_wrapper {
+  color: rgb(var(--color-foreground));
+}
+
+.flex_page_image_wrapper {
+  margin: 3.6rem auto;
+}

@@ -1,8 +1,13 @@
 {
   "sections": {
     "main": {
-      "type": "flexSection",
+      "type": "flexPage",
       "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
         "text": {
           "type": "text",
           "settings": {
@@ -15,7 +20,9 @@
         }
       },
       "block_order": [
-        "text"
+        "title",
+        "text",
+        "image"
       ],
       "settings": {
         "top_element": false,
