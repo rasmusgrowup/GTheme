@@ -138,10 +138,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_title": "Show the full art work of any album",
+            "text": "<p>COMBINE OUR PRODUCTS TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES<\/p>",
             "url": "",
-            "url_text": "Link text",
+            "url_text": "",
             "center": false
           }
         }
