@@ -2,21 +2,25 @@
   "sections": {
     "main": {
       "type": "flexSection",
-      "settings":{
-        "top_element": "true"
-      },
       "blocks": {
         "text": {
-          "type": "text"
+          "type": "text",
+          "settings": {
+          }
         },
         "image": {
-          "type": "image"
+          "type": "image",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "text",
         "image"
-      ]
+      ],
+      "settings": {
+        "top_element": "true"
+      }
     }
   },
   "order": [

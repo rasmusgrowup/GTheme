@@ -2,21 +2,32 @@
   "sections": {
     "main": {
       "type": "flexSection",
-      "settings":{
-        "top_element": "true"
-      },
       "blocks": {
         "text": {
-          "type": "text"
+          "type": "text",
+          "settings": {
+            "text_title": "With the Adapter, you can",
+            "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-SPLATTERED-BOUGHT-AT-THE-CONCERT VINYL RECORDS<\/p>",
+            "url": "",
+            "url_text": "Link text",
+            "center": false
+          }
         },
         "image": {
-          "type": "image"
+          "type": "image",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "text",
         "image"
-      ]
+      ],
+      "settings": {
+        "top_element": true,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
     }
   },
   "order": [
