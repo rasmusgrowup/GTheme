@@ -42,10 +42,10 @@
         "16455206713bf15783-0": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_title": "First",
+            "text": "<p>ATTACH THE MAGNETIC DISC TO YOUR WALL, WITH THE INCLUDED SCREW. USE A SUITABLE RAW PLUG<\/p>",
             "url": "",
-            "url_text": "Link text",
+            "url_text": "",
             "center": false
           }
         }
@@ -56,13 +56,75 @@
       ],
       "settings": {
         "top_element": false,
+        "flip_direction": true,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "1645520764c60a38b4": {
+      "type": "flexSection",
+      "blocks": {
+        "164552076463403ed5-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Second",
+            "text": "<p>INSERT THE ADAPTER DISC INTO THE MIDDLE OF THE RECORD<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false
+          }
+        },
+        "164552076463403ed5-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-15_xd.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "164552076463403ed5-0",
+        "164552076463403ed5-1"
+      ],
+      "settings": {
+        "top_element": false,
         "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "164552081190d8790c": {
+      "type": "flexSection",
+      "blocks": {
+        "1645520811849b9b21-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-17_xd.jpg"
+          }
+        },
+        "1645520811849b9b21-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Third",
+            "text": "<p>LOCK THE RECORD BY SCREWING ON THE ADAPTER-LOOKING GEAR<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false
+          }
+        }
+      },
+      "block_order": [
+        "1645520811849b9b21-1",
+        "1645520811849b9b21-0"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": true,
         "column_ratio": "equal_widths"
       }
     }
   },
   "order": [
     "main",
-    "16455206711894e94b"
+    "16455206711894e94b",
+    "1645520764c60a38b4",
+    "164552081190d8790c"
   ]
 }
