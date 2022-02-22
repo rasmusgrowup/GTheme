@@ -80,7 +80,7 @@
           "settings": {
             "text_title": "Display your albums with The Original",
             "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
-            "url": "#",
+            "url": "shopify:\/\/pages\/original",
             "url_text": "Learn more",
             "center": false
           }
