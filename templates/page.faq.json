@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "main": {
+      "type": "flexSection",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+          }
+        },
+        "image": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "text",
+        "image"
+      ],
+      "settings": {
+        "top_element": "true"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}
