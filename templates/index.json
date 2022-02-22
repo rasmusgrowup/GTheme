@@ -55,7 +55,7 @@
           "type": "text",
           "settings": {
             "text_title": "Display your records with The Adapter",
-            "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-SPLATTERED-BOUGHT-AT-THE-CONCERT VINYL RECORDS<\/p>",
+            "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-SPLATTERED-BOUGHT-AT-THE-CONCERT VINYL RECORDS.<\/p>",
             "url": "shopify:\/\/pages\/adapter",
             "url_text": "Learn more",
             "center": false
