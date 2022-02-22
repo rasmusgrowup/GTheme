@@ -1,29 +1,37 @@
 {
   "sections": {
-    "main": {
-      "type": "flexSection",
+    "16455349439efdc423": {
+      "type": "flexPage",
       "blocks": {
-        "text": {
-          "type": "text",
+        "16455349432f0977fe-0": {
+          "type": "title",
           "settings": {
+            "title": "Frequently asked questions"
           }
         },
-        "image": {
+        "16455349432f0977fe-1": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p>We’ll try to answer all of your questions below, but if we are unsuccessful, please do not hesitate to reach out to us on the mail below.<\/p><p>Borgervænget 14, 1sal<br\/>5000, Odense C, Denmark<br\/><a href=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a><\/p>"
+          }
+        },
+        "16455349432f0977fe-2": {
           "type": "image",
           "settings": {
           }
         }
       },
       "block_order": [
-        "text",
-        "image"
+        "16455349432f0977fe-0",
+        "16455349432f0977fe-1",
+        "16455349432f0977fe-2"
       ],
       "settings": {
-        "top_element": "true"
       }
     }
   },
   "order": [
-    "main"
+    "16455349439efdc423"
   ]
 }
