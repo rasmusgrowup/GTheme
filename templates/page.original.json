@@ -138,6 +138,32 @@
         "flip_direction": false,
         "column_ratio": "equal_widths"
       }
+    },
+    "16455405851d48aad8": {
+      "type": "flexSection",
+      "blocks": {
+        "164554058555cfc07e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
+          }
+        },
+        "aee86f5c-a43d-41b2-b511-844f70548eb8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Twelve_inch_Original_and_Twelve_Inch_Adapter_used_to_display_records_on_the_wall.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "164554058555cfc07e-1",
+        "aee86f5c-a43d-41b2-b511-844f70548eb8"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
     }
   },
   "order": [
@@ -145,6 +171,7 @@
     "16455206711894e94b",
     "1645520764c60a38b4",
     "164552081190d8790c",
-    "16455208905bfea052"
+    "16455208905bfea052",
+    "16455405851d48aad8"
   ]
 }
