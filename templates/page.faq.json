@@ -15,23 +15,58 @@
             "text_title": "",
             "text": "<p>We’ll try to answer all of your questions below, but if we are unsuccessful, please do not hesitate to reach out to us on the mail below.<\/p><p>Borgervænget 14, 1sal<br\/>5000, Odense C, Denmark<br\/><a href=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a><\/p>"
           }
-        },
-        "16455349432f0977fe-2": {
-          "type": "image",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "16455349432f0977fe-0",
-        "16455349432f0977fe-1",
-        "16455349432f0977fe-2"
+        "16455349432f0977fe-1"
       ],
       "settings": {
+      }
+    },
+    "1645534990e17696aa": {
+      "type": "collapsible-content",
+      "blocks": {
+        "164553499095b352c2-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where can I buy your products?",
+            "icon": "none",
+            "row_content": "<p>You can buy them directly on our web-shop on this site, on most Amazon market places and in some brick and mortar record shops.<\/p>",
+            "page": ""
+          }
+        },
+        "164553499095b352c2-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does your product work?",
+            "icon": "none",
+            "row_content": "<p>Our products use magnetism and clever design to secure your records to the wall. The magnetic component is secured to the wall with a screw and looks like a black disc. A large 12” disc looking like a vinyl record with a metal disc fitted in the middle is then inserted into your record, thus creating a magnetic attraction.  If you want to wall mount your vinyl records, with it’s cover on, you will have to use the <a href=\"https:\/\/twelve-inch.com\/how-to\/how-to-original\">Twelve Inch Original<\/a>. If you wish to mount only the vinyl record itself, you should use the <a href=\"https:\/\/twelve-inch.com\/how-to\/how-to-adapter\">Twelve Inch Adapter<\/a>.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "164553499095b352c2-0",
+        "164553499095b352c2-1"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
-    "16455349439efdc423"
+    "16455349439efdc423",
+    "1645534990e17696aa"
   ]
 }
