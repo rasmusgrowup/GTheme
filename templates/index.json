@@ -214,12 +214,12 @@
           "settings": {
             "text_title": "Support",
             "text": "<p>Do you need help? Check out the resources below, or get in direct contact with us<\/p>",
-            "first_url": "#",
-            "first_link_text": "Learn how to use the products",
-            "second_url": "#",
-            "second_link_text": "see frequently asked questions",
+            "first_url": "shopify:\/\/pages\/faq",
+            "first_link_text": "see frequently asked questions",
+            "second_url": "shopify:\/\/pages\/contact",
+            "second_link_text": "get in contact",
             "third_url": "#",
-            "third_link_text": "Get in contact",
+            "third_link_text": "",
             "center": true
           }
         },
