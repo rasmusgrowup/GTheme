@@ -161,6 +161,7 @@
         "image": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/EmptyName-60_xd.jpg"
           }
         }
       },
