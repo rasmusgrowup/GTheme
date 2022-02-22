@@ -119,12 +119,42 @@
         "flip_direction": true,
         "column_ratio": "equal_widths"
       }
+    },
+    "16455208451e5c9128": {
+      "type": "flexSection",
+      "blocks": {
+        "164552084558254ee7-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Lastly",
+            "text": "<p>ALL THAT'S LEFT NOW, IS TO WALL MOUNT YOUR RECORD. THE MAGNETIC PULL FORCE WILL TAKE CARE OF HOLDING THE RECORD<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false
+          }
+        },
+        "164552084558254ee7-1": {
+          "type": "image",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "164552084558254ee7-0",
+        "164552084558254ee7-1"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
     }
   },
   "order": [
     "main",
     "16455206711894e94b",
     "1645520764c60a38b4",
-    "164552081190d8790c"
+    "164552081190d8790c",
+    "16455208451e5c9128"
   ]
 }
