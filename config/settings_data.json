@@ -23,10 +23,11 @@
       "footer": {
         "type": "footer",
         "settings": {
+          "logo": "shopify:\/\/shop_images\/Logo_registered.png",
           "logo_width": 100,
-          "company_text": "",
-          "menu": "footer",
-          "details": "",
+          "company_text": "<p>We are a small innovative family owned company with offices and production situated in the heart of Denmark. We design and produce what we think is the worlds greatest products for displaying records in the home like you do with art and paintings. You can read our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Return Policy<\/a> and <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Cookie Policy<\/a> here.<\/p>",
+          "menu": "hovedmenu-v2",
+          "details": "<p><strong>Company Information<br\/><\/strong>Twelve Inch Aps<br\/>Borgervænget 14, Odense C<br\/>info@twelve-inch.com<\/p>",
           "color_scheme": "background-1",
           "show_social": true,
           "enable_country_selector": true,
