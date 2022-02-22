@@ -6,17 +6,17 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "With The Adapter, you can",
-            "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-SPLATTERED-BOUGHT-AT-THE-CONCERT VINYL RECORDS<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-adapter-v2",
-            "url_text": "BUY THE ADAPTER",
+            "text_title": "With The Original, you can",
+            "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
+            "url": "shopify:\/\/products\/twelve-inch-original-v2",
+            "url_text": "BUY THE ORIGINAL",
             "center": false
           }
         },
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-46_xd.jpg"
+            "image": "shopify:\/\/shop_images\/ny7841_xd.jpg"
           }
         }
       },
