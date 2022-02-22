@@ -6,10 +6,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "With the Adapter, you can",
+            "text_title": "With The Adapter, you can",
             "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-SPLATTERED-BOUGHT-AT-THE-CONCERT VINYL RECORDS<\/p>",
-            "url": "",
-            "url_text": "Link text",
+            "url": "shopify:\/\/products\/twelve-inch-adapter-v2",
+            "url_text": "BUY THE ADAPTER",
             "center": false
           }
         },
@@ -136,12 +136,32 @@
         "164552084558254ee7-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-18_xd.jpg"
           }
         }
       },
       "block_order": [
         "164552084558254ee7-0",
         "164552084558254ee7-1"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "16455208905bfea052": {
+      "type": "flexSection",
+      "blocks": {
+        "1645520890f05c0f6d-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020_xd.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1645520890f05c0f6d-1"
       ],
       "settings": {
         "top_element": false,
@@ -155,6 +175,7 @@
     "16455206711894e94b",
     "1645520764c60a38b4",
     "164552081190d8790c",
-    "16455208451e5c9128"
+    "16455208451e5c9128",
+    "16455208905bfea052"
   ]
 }
