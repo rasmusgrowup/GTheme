@@ -168,6 +168,32 @@
         "flip_direction": false,
         "column_ratio": "equal_widths"
       }
+    },
+    "1645540724c8530e5c": {
+      "type": "flexSection",
+      "blocks": {
+        "1645540724605d95aa-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EmptyName-60_xd.jpg"
+          }
+        },
+        "628df104-2973-4a81-97df-99120e5846ff": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Twelve_inch_Original_and_Twelve_Inch_Adapter_used_to_display_records_on_the_wall.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1645540724605d95aa-1",
+        "628df104-2973-4a81-97df-99120e5846ff"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
     }
   },
   "order": [
@@ -176,6 +202,7 @@
     "1645520764c60a38b4",
     "164552081190d8790c",
     "16455208451e5c9128",
-    "16455208905bfea052"
+    "16455208905bfea052",
+    "1645540724c8530e5c"
   ]
 }
