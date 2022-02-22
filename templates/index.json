@@ -108,15 +108,16 @@
         "image": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "url": "",
-            "url_text": "Link text",
+            "text_title": "Flexible and ever-changing",
+            "text": "<p>BECAUSE OUR DESIGN IS FRAMELESS, YOU CAN CHANGE THE ALBUM WHENEVER YOU LIKE. STORE THE RECORD INSIDE THE COVER FOR QUICK ACCESS<\/p>",
+            "url": "#",
+            "url_text": "Shop now",
             "center": false
           }
         }
