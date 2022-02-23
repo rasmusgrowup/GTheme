@@ -90,6 +90,15 @@
             "row_content": "<p>Our products doesn’t have any permanent or long term effect on your records, either their antistatic properties or sound qualities. It’s correct that magnetism effects vinyl records, especially their antistatic load. However, as soon as you remove the record from the magnetic display component, the antistatic load will return to normal within milliseconds.<\/p>",
             "page": ""
           }
+        },
+        "26c41e29-7591-402c-abe8-0480d0ed5919": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Any other useful tips?",
+            "icon": "none",
+            "row_content": "<p>One tip is to make sure that you slide the record off of the magnetic disc, when you want to take down the record. Always handle your records with care.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -99,7 +108,8 @@
         "164553499095b352c2-1",
         "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722",
         "dc978d92-2aea-4bae-a5c7-883dd9733d5e",
-        "a7a150ea-02bc-4e26-88c4-5ed6f025a749"
+        "a7a150ea-02bc-4e26-88c4-5ed6f025a749",
+        "26c41e29-7591-402c-abe8-0480d0ed5919"
       ],
       "settings": {
         "caption": "",
