@@ -57,7 +57,7 @@
 
 @media only screen and (max-width: 749px) {
   .flex_text_content {
-    padding: 3.6rem 1.2rem;
+    padding: 3.6rem 1.5rem;
   }
 }
 
@@ -188,8 +188,8 @@
 
 @media only screen and (max-width: 749px) {
   .full_column .flex_text_content {
-    padding-left: 1.2rem;
-    padding-right: 1.2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
   }
 }
 
