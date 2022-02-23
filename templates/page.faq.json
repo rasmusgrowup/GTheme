@@ -44,11 +44,31 @@
             "row_content": "<p>Our products use magnetism and clever design to secure your records to the wall. The magnetic component is secured to the wall with a screw and looks like a black disc. A large 12” disc looking like a vinyl record with a metal disc fitted in the middle is then inserted into your record, thus creating a magnetic attraction.  If you want to wall mount your vinyl records, with it’s cover on, you will have to use the <a href=\"\/pages\/original\" title=\"Twelve Inch Original | The greatest way to display albums on the wall\">Twelve Inch Original<\/a>. If you wish to mount only the vinyl record itself, you should use the <a href=\"\/pages\/adapter\" title=\"Twelve Inch Adapter | The easiest way to display records on the wall\">Twelve Inch Adapter<\/a>.<\/p>",
             "page": ""
           }
+        },
+        "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you mount the products to the wall?",
+            "icon": "none",
+            "row_content": "<p>With a screw. In our product packaging, we include a screw for you to use when mounting the products on the wall. We recommend using a suitable raw plug as well.<\/p>",
+            "page": ""
+          }
+        },
+        "dc978d92-2aea-4bae-a5c7-883dd9733d5e": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I use double sided tape, instead of the provided screw?",
+            "icon": "none",
+            "row_content": "<p>Please don’t. Our experience is, that the tape will at some point let go of the wall or the product.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "164553499095b352c2-0",
-        "164553499095b352c2-1"
+        "164553499095b352c2-1",
+        "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722",
+        "dc978d92-2aea-4bae-a5c7-883dd9733d5e"
       ],
       "settings": {
         "caption": "",
