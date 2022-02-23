@@ -62,13 +62,23 @@
             "row_content": "<p>Please don’t. Our experience is, that the tape will at some point let go of the wall or the product.<\/p>",
             "page": ""
           }
+        },
+        "2bfe3979-1667-47d3-9f38-0680ec9350ad": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can your products hold 180 grams records?",
+            "icon": "none",
+            "row_content": "<p>Our products are designed to hold single record albums, gatefold albums and double record albums. You have to mount the product correctly on the wall, and insert the 12” disc nearest the magnet to ensure a maximum strength and hold. See our instructions of use for further information.<\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "164553499095b352c2-0",
         "164553499095b352c2-1",
         "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722",
-        "dc978d92-2aea-4bae-a5c7-883dd9733d5e"
+        "dc978d92-2aea-4bae-a5c7-883dd9733d5e",
+        "2bfe3979-1667-47d3-9f38-0680ec9350ad"
       ],
       "settings": {
         "caption": "",
