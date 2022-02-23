@@ -195,22 +195,22 @@
     "1645540724c8530e5c": {
       "type": "flexSection",
       "blocks": {
-        "1645540724605d95aa-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1573_xd_93ba0ad2-c5f4-4ebf-9512-cb5ae2b67fd3.jpg"
-          }
-        },
         "628df104-2973-4a81-97df-99120e5846ff": {
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
           }
+        },
+        "1645540724605d95aa-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Overordnet-Session1573_xd_93ba0ad2-c5f4-4ebf-9512-cb5ae2b67fd3.jpg"
+          }
         }
       },
       "block_order": [
-        "1645540724605d95aa-1",
-        "628df104-2973-4a81-97df-99120e5846ff"
+        "628df104-2973-4a81-97df-99120e5846ff",
+        "1645540724605d95aa-1"
       ],
       "settings": {
         "top_element": false,
