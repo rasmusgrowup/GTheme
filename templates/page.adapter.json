@@ -179,7 +179,7 @@
         "1645520890f05c0f6d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020_xd.jpg"
+            "image": "shopify:\/\/shop_images\/EmptyName-62_wide.jpg"
           }
         }
       },
@@ -192,23 +192,12 @@
         "column_ratio": "equal_widths"
       }
     },
-    "1645608739fd0ff06f": {
-      "type": "flexCollection",
-      "settings": {
-        "title": "Our products",
-        "collection": "v2",
-        "products_to_show": 3,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "show_secondary_image": false,
-        "show_rating": false
-      }
-    },
     "1645540724c8530e5c": {
       "type": "flexSection",
       "blocks": {
         "1645540724605d95aa-1": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/EmptyName-60_xd.jpg"
           }
@@ -229,6 +218,18 @@
         "flip_direction": false,
         "column_ratio": "equal_widths"
       }
+    },
+    "1645608739fd0ff06f": {
+      "type": "flexCollection",
+      "settings": {
+        "title": "Our products",
+        "collection": "v2",
+        "products_to_show": 3,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "show_secondary_image": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
@@ -239,7 +240,7 @@
     "16455208451e5c9128",
     "16456087235da6e6c8",
     "16455208905bfea052",
-    "1645608739fd0ff06f",
-    "1645540724c8530e5c"
+    "1645540724c8530e5c",
+    "1645608739fd0ff06f"
   ]
 }
