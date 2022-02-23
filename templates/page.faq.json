@@ -29,6 +29,7 @@
       "blocks": {
         "164553499095b352c2-0": {
           "type": "collapsible_row",
+          "disabled": true,
           "settings": {
             "heading": "Where can I buy your products?",
             "icon": "none",
@@ -75,7 +76,7 @@
         "361fbbd6-04c8-4a6f-b0f5-a28b8dfecded": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I use gatefold records with your products?",
+            "heading": "Does your product work with gatefolded ablums?",
             "icon": "none",
             "row_content": "<p>You absolutely can! There are different ways to do so, depending on the actual gatefold album, and wether it is closed in the left side or not.<br\/><br\/>If you have a gatefold album that has a left side wing that is closed, you can either a) display the album with the back showing or b) display the album in a clear plastic sleeve.<br\/><br\/>If you have a gatefold that has both wings open, you can either a) display the record opened up using two Twelve Inch Original, b) store the vinyl records somewhere else (perhaps using the Twelve Inch packaging cover) and mount the Twelve Inch disc in the outer wing or c) display the album in a clear plastic sleeve.<\/p>",
             "page": ""
