@@ -27,6 +27,24 @@
     "1645534990e17696aa": {
       "type": "collapsible-content",
       "blocks": {
+        "2bfe3979-1667-47d3-9f38-0680ec9350ad": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can your products hold 180 grams records?",
+            "icon": "none",
+            "row_content": "<p>Our products are designed to hold single record albums, gatefold albums and double record albums. You have to mount the product correctly on the wall, and insert the 12” disc nearest the magnet to ensure a maximum strength and hold. See our instructions of use for further information.<\/p>",
+            "page": ""
+          }
+        },
+        "361fbbd6-04c8-4a6f-b0f5-a28b8dfecded": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Does your product work with gatefolded ablums?",
+            "icon": "none",
+            "row_content": "<p>You absolutely can! There are different ways to do so, depending on the actual gatefold album, and wether it is closed in the left side or not.<br\/><br\/>If you have a gatefold album that has a left side wing that is closed, you can either a) display the album with the back showing or b) display the album in a clear plastic sleeve.<br\/><br\/>If you have a gatefold that has both wings open, you can either a) display the record opened up using two Twelve Inch Original, b) store the vinyl records somewhere else (perhaps using the Twelve Inch packaging cover) and mount the Twelve Inch disc in the outer wing or c) display the album in a clear plastic sleeve.<\/p>",
+            "page": ""
+          }
+        },
         "164553499095b352c2-0": {
           "type": "collapsible_row",
           "disabled": true,
@@ -64,32 +82,24 @@
             "page": ""
           }
         },
-        "2bfe3979-1667-47d3-9f38-0680ec9350ad": {
+        "a7a150ea-02bc-4e26-88c4-5ed6f025a749": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can your products hold 180 grams records?",
+            "heading": "Does magnetism affect my records in any harmful way?",
             "icon": "none",
-            "row_content": "<p>Our products are designed to hold single record albums, gatefold albums and double record albums. You have to mount the product correctly on the wall, and insert the 12” disc nearest the magnet to ensure a maximum strength and hold. See our instructions of use for further information.<\/p>",
-            "page": ""
-          }
-        },
-        "361fbbd6-04c8-4a6f-b0f5-a28b8dfecded": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Does your product work with gatefolded ablums?",
-            "icon": "none",
-            "row_content": "<p>You absolutely can! There are different ways to do so, depending on the actual gatefold album, and wether it is closed in the left side or not.<br\/><br\/>If you have a gatefold album that has a left side wing that is closed, you can either a) display the album with the back showing or b) display the album in a clear plastic sleeve.<br\/><br\/>If you have a gatefold that has both wings open, you can either a) display the record opened up using two Twelve Inch Original, b) store the vinyl records somewhere else (perhaps using the Twelve Inch packaging cover) and mount the Twelve Inch disc in the outer wing or c) display the album in a clear plastic sleeve.<\/p>",
+            "row_content": "<p>Our products doesn’t have any permanent or long term effect on your records, either their antistatic properties or sound qualities. It’s correct that magnetism effects vinyl records, especially their antistatic load. However, as soon as you remove the record from the magnetic display component, the antistatic load will return to normal within milliseconds.<\/p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "2bfe3979-1667-47d3-9f38-0680ec9350ad",
+        "361fbbd6-04c8-4a6f-b0f5-a28b8dfecded",
         "164553499095b352c2-0",
         "164553499095b352c2-1",
         "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722",
         "dc978d92-2aea-4bae-a5c7-883dd9733d5e",
-        "2bfe3979-1667-47d3-9f38-0680ec9350ad",
-        "361fbbd6-04c8-4a6f-b0f5-a28b8dfecded"
+        "a7a150ea-02bc-4e26-88c4-5ed6f025a749"
       ],
       "settings": {
         "caption": "",
