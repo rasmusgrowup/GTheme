@@ -169,6 +169,29 @@
         "column_ratio": "equal_widths"
       }
     },
+    "16456087235da6e6c8": {
+      "type": "flexSection",
+      "blocks": {
+        "1645608723b073a786-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Show the full art work of any album",
+            "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES. HAven't checked out the original yet? Do it below<\/strong><\/p>",
+            "url": "",
+            "url_text": "Learn more",
+            "center": true
+          }
+        }
+      },
+      "block_order": [
+        "1645608723b073a786-0"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "1645540724c8530e5c": {
       "type": "flexSection",
       "blocks": {
@@ -203,6 +226,7 @@
     "164552081190d8790c",
     "16455208451e5c9128",
     "16455208905bfea052",
+    "16456087235da6e6c8",
     "1645540724c8530e5c"
   ]
 }
