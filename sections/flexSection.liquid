@@ -52,7 +52,7 @@
                 </a>
               {% endif%}
               {% if block.settings.second_link_text != empty %}
-                <a href="{{ block.settings.url }}" class='flex_link {% if section.settings.top_element %}top_section_button{% endif %}'>
+                <a href="{{ block.settings.second_url }}" class='flex_link {% if section.settings.top_element %}top_section_button{% endif %}'>
                   {{ block.settings.second_link_text }}
                   {% unless section.settings.top_element %}
                     {% render 'custom-icon-arrow-forward' %}
@@ -60,7 +60,7 @@
                 </a>
               {% endif%}
               {% if block.settings.third_link_text != empty %}
-                <a href="{{ block.settings.url }}" class='flex_link {% if section.settings.top_element %}top_section_button{% endif %}'>
+                <a href="{{ block.settings.third_url }}" class='flex_link {% if section.settings.top_element %}top_section_button{% endif %}'>
                   {{ block.settings.third_link_text }}
                   {% unless section.settings.top_element %}
                     {% render 'custom-icon-arrow-forward' %}
