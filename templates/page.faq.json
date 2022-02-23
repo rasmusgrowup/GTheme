@@ -99,6 +99,15 @@
             "row_content": "<p>One tip is to make sure that you slide the record off of the magnetic disc, when you want to take down the record. Always handle your records with care.<\/p>",
             "page": ""
           }
+        },
+        "7cc45a31-2a0f-498c-8471-4f401e38464c": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Is there any situations I must avoid?",
+            "icon": "none",
+            "row_content": "<p>Yes. You must absolutely avoid mounting your records on a spot on the wall where direct sunlight will hit the records for an extended period of time. The rays of the sun can warm a record to temperatures that harm the vinyl records, making them crooked. And while we all know that warped records sound funny, it would be a shame to lose your favourite records to the heat of the sun.<br\/><br\/>On the contrary, you must avoid really humid conditions as well, as the humidity will cause the covers of your album to warp.<br\/><br\/>In general we recommend that you change the records on display often, as to avoid any warping of the cover, and off course, to keep the display collection exciting and new. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -109,7 +118,8 @@
         "f64ee1a9-04f7-4cdc-8b5c-0aa3286a2722",
         "dc978d92-2aea-4bae-a5c7-883dd9733d5e",
         "a7a150ea-02bc-4e26-88c4-5ed6f025a749",
-        "26c41e29-7591-402c-abe8-0480d0ed5919"
+        "26c41e29-7591-402c-abe8-0480d0ed5919",
+        "7cc45a31-2a0f-498c-8471-4f401e38464c"
       ],
       "settings": {
         "caption": "",
