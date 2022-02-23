@@ -189,7 +189,7 @@
           "settings": {
             "text_title": "Show the full art work of any album",
             "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES. HAven't checked out the original yet? Do it below<\/strong><\/p>",
-            "url": "",
+            "url": "shopify:\/\/pages\/original",
             "url_text": "Learn more",
             "center": true
           }
