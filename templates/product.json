@@ -54,7 +54,7 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Packaging Dimensions",
             "icon": "ruler",
             "content": "<p>{{ product.metafields.my_fields.width | metafield_tag }} x {{ product.metafields.my_fields.height | metafield_tag }} x {{ product.metafields.my_fields.thickness | metafield_tag }}<\/p>",
             "page": ""
