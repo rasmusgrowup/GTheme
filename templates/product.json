@@ -3,16 +3,16 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields.usecase.value }}",
-            "text_style": "subtitle"
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
           }
         },
         "price": {
@@ -83,8 +83,8 @@
         }
       },
       "block_order": [
-        "title",
         "caption",
+        "title",
         "price",
         "variant_picker",
         "quantity_selector",
