@@ -2,6 +2,8 @@
   "current": {
     "colors_accent_2": "#ff6666",
     "type_header_font": "assistant_n7",
+    "spacing_grid_horizontal": 12,
+    "spacing_grid_vertical": 12,
     "card_text_alignment": "center",
     "sections": {
       "announcement-bar": {
