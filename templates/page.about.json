@@ -62,10 +62,21 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/EmptyName-94.jpg"
           }
+        },
+        "27856c95-8c85-4f35-9c9f-9ca572b72aa4": {
+          "type": "text",
+          "settings": {
+            "text_title": "Twelve Inch Original",
+            "text": "<p>Decorate your rooms with the art work from your favourite albums and artists<\/p>",
+            "url": "shopify:\/\/pages\/original",
+            "url_text": "Learn more",
+            "center": false
+          }
         }
       },
       "block_order": [
-        "1645689719d4d32802-1"
+        "1645689719d4d32802-1",
+        "27856c95-8c85-4f35-9c9f-9ca572b72aa4"
       ],
       "settings": {
         "top_element": false,
