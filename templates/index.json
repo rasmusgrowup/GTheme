@@ -55,7 +55,7 @@
           "type": "text",
           "settings": {
             "text_title": "Display your records with The Adapter",
-            "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-INFUSED VINYL RECORDS.<\/p>",
+            "text": "<p>Decorate your rooms with you records, in a way that's dynamic and beautiful<\/p>",
             "url": "shopify:\/\/pages\/adapter",
             "url_text": "Learn more",
             "center": false
@@ -213,7 +213,7 @@
           "type": "support",
           "settings": {
             "text_title": "Support",
-            "text": "<p>Do you need help? Check out the resources below, or get in direct contact with us<\/p>",
+            "text": "<p>Do you need help? Check out the resources below or contact us directly<\/p>",
             "first_url": "shopify:\/\/pages\/faq",
             "first_link_text": "see frequently asked questions",
             "second_url": "shopify:\/\/pages\/contact",
