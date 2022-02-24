@@ -72,7 +72,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "<p>{{ product.metafields.my_fields.dimensions | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.my_fields.dimensions.value }}<\/p>",
             "page": ""
           }
         },
