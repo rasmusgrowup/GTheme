@@ -60,7 +60,7 @@
         "1645689719d4d32802-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-94.jpg"
+            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
           }
         },
         "27856c95-8c85-4f35-9c9f-9ca572b72aa4": {
@@ -84,6 +84,36 @@
         "column_ratio": "equal_widths"
       }
     },
+    "16456918831bd68dce": {
+      "type": "flexSection",
+      "blocks": {
+        "1645691883d2f7807f-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Twelve Inch Apater",
+            "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful<\/p>",
+            "url": "shopify:\/\/pages\/adapter",
+            "url_text": "Learn more",
+            "center": false
+          }
+        },
+        "1645691883d2f7807f-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EmptyName-62_wide.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1645691883d2f7807f-0",
+        "1645691883d2f7807f-1"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "1645689696ddeaf14c": {
       "type": "flexCollection",
       "settings": {
@@ -100,6 +130,7 @@
   "order": [
     "main",
     "1645689719e47e8bde",
+    "16456918831bd68dce",
     "1645689696ddeaf14c"
   ]
 }
