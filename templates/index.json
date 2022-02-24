@@ -206,6 +206,25 @@
         "column_ratio": "equal_widths"
       }
     },
+    "1645691232dd860aea": {
+      "type": "flexSection",
+      "blocks": {
+        "16456912329ebc676e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EmptyName-94.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "16456912329ebc676e-1"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "support_and_image": {
       "type": "flexSection",
       "blocks": {
@@ -250,6 +269,7 @@
     "full_width_first",
     "full_width_second",
     "story_and_amazon",
+    "1645691232dd860aea",
     "support_and_image"
   ]
 }
