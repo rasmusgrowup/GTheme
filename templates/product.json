@@ -63,7 +63,7 @@
         "collapsible-row-3": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care Instructions",
+            "heading": "Good to know",
             "icon": "heart",
             "content": "<p>{{ product.metafields.my_fields.care.value }}<\/p>",
             "page": ""
