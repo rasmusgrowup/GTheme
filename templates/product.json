@@ -74,6 +74,12 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "70000078-0769-4569-90d6-9878facf9013": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
@@ -87,7 +93,8 @@
         "collapsible-row-0",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share"
+        "share",
+        "70000078-0769-4569-90d6-9878facf9013"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -106,7 +113,7 @@
         "heading": "You may also like",
         "color_scheme": "background-1",
         "image_ratio": "square",
-        "show_secondary_image": true,
+        "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
         "padding_top": 36,
