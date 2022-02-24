@@ -162,29 +162,6 @@
         "column_ratio": "equal_widths"
       }
     },
-    "164569032465a89d60": {
-      "type": "flexSection",
-      "blocks": {
-        "164569032431442686-0": {
-          "type": "text",
-          "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "url": "",
-            "url_text": "Link text",
-            "center": false
-          }
-        }
-      },
-      "block_order": [
-        "164569032431442686-0"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
-    },
     "16455405851d48aad8": {
       "type": "flexSection",
       "blocks": {
@@ -217,10 +194,10 @@
         "164569040333e61e6c-0": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "url": "",
-            "url_text": "Link text",
+            "text_title": "Haven't checked out The Adapter yet?",
+            "text": "<p><strong>DECORATE YOUR SPACE WITH YOUR RECORDS, IN A WAY THAT'S DYNAMIC AND BEAUTIFUL<\/strong><\/p>",
+            "url": "shopify:\/\/pages\/adapter",
+            "url_text": "Learn more",
             "center": false
           }
         },
@@ -261,7 +238,6 @@
     "164552081190d8790c",
     "1645609012f5ccfb78",
     "16455208905bfea052",
-    "164569032465a89d60",
     "16455405851d48aad8",
     "16456904031bb6f786",
     "1645609026a560cffd"
