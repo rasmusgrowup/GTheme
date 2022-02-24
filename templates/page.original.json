@@ -164,6 +164,7 @@
     },
     "16455405851d48aad8": {
       "type": "flexSection",
+      "disabled": true,
       "blocks": {
         "164554058555cfc07e-1": {
           "type": "image",
