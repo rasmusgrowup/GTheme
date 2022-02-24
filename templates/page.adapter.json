@@ -195,10 +195,14 @@
     "1645540724c8530e5c": {
       "type": "flexSection",
       "blocks": {
-        "628df104-2973-4a81-97df-99120e5846ff": {
-          "type": "image",
+        "0b6cf709-c998-45b3-9670-9f2db2fd42fb": {
+          "type": "text",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
+            "text_title": "Don't know what The Original can do?",
+            "text": "<p><strong>The Original makes it easy to decorate with your album covers<\/strong><\/p>",
+            "url": "shopify:\/\/pages\/original",
+            "url_text": "Learn more",
+            "center": false
           }
         },
         "1645540724605d95aa-1": {
@@ -209,7 +213,7 @@
         }
       },
       "block_order": [
-        "628df104-2973-4a81-97df-99120e5846ff",
+        "0b6cf709-c998-45b3-9670-9f2db2fd42fb",
         "1645540724605d95aa-1"
       ],
       "settings": {
