@@ -109,6 +109,7 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
+      "disabled": true,
       "settings": {
         "heading": "Frequently bought together with",
         "color_scheme": "background-1",
