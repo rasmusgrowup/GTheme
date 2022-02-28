@@ -119,10 +119,23 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
+    },
+    "1646064250c7134bad": {
+      "type": "flexCollection",
+      "settings": {
+        "title": "Our Products",
+        "collection": "our-products",
+        "products_to_show": 3,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "show_secondary_image": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
     "main",
-    "product-recommendations"
+    "product-recommendations",
+    "1646064250c7134bad"
   ]
 }
