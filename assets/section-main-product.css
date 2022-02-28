@@ -3,6 +3,7 @@
 }
 
 .product.grid {
+  border-bottom: 1px solid rgba(var(--color-foreground), 1);
   gap: 0;
 }
 
@@ -26,7 +27,6 @@
 @media only screen and (max-width: 749px) {
   .product__info-wrapper {
     border-left: none;
-    border-top: 1px solid rgba(var(--color-foreground), 1);
     padding-left: 2.4rem;
     padding-right: 2.4rem;
     padding-top: 0;
