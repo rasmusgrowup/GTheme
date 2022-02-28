@@ -110,7 +110,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Frequently bought together with",
         "color_scheme": "background-1",
         "image_ratio": "square",
         "show_secondary_image": false,
