@@ -8,7 +8,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_registered.png",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#FFFFFF",
-    "checkout_accent_color": "#000",
+    "checkout_accent_color": "#454545",
     "checkout_button_color": "#000",
     "sections": {
       "announcement-bar": {
