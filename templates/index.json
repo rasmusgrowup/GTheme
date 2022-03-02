@@ -42,21 +42,21 @@
         "show_rating": false
       }
     },
-    "adapter": {
+    "original": {
       "type": "flexSection",
       "blocks": {
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
+            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd.jpg"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Display your records with The Adapter",
-            "text": "<p>Decorate your rooms with your colored special-edition records or picture discs, in a way that's flexible and fun<\/p>",
-            "url": "shopify:\/\/pages\/adapter",
+            "text_title": "Display your albums with The Original",
+            "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
+            "url": "shopify:\/\/pages\/original",
             "url_text": "Learn more",
             "center": false
           }
@@ -72,15 +72,15 @@
         "column_ratio": "equal_widths"
       }
     },
-    "original": {
+    "adapter": {
       "type": "flexSection",
       "blocks": {
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Display your albums with The Original",
-            "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
-            "url": "shopify:\/\/pages\/original",
+            "text_title": "Display your records with The Adapter",
+            "text": "<p>Decorate your rooms with your colored special-edition records or picture discs, in a way that's flexible and fun<\/p>",
+            "url": "shopify:\/\/pages\/adapter",
             "url_text": "Learn more",
             "center": false
           }
@@ -88,7 +88,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd.jpg"
+            "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
           }
         }
       },
@@ -244,8 +244,8 @@
   "order": [
     "hero",
     "collection",
-    "adapter",
     "original",
+    "adapter",
     "frameless",
     "full_width_first",
     "full_width_second",
