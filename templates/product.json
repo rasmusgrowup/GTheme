@@ -74,12 +74,6 @@
           "settings": {
             "share_label": "Share"
           }
-        },
-        "70000078-0769-4569-90d6-9878facf9013": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": ""
-          }
         }
       },
       "block_order": [
@@ -93,8 +87,7 @@
         "collapsible-row-0",
         "collapsible-row-2",
         "collapsible-row-3",
-        "share",
-        "70000078-0769-4569-90d6-9878facf9013"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
