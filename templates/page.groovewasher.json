@@ -1,29 +1,37 @@
 {
   "sections": {
-    "main": {
-      "type": "flexSection",
+    "164674916244cbcdb2": {
+      "type": "flexPage",
       "blocks": {
-        "text": {
-          "type": "text",
+        "16467491628f664f54-0": {
+          "type": "title",
           "settings": {
+            "title": "Titel"
           }
         },
-        "image": {
+        "16467491628f664f54-1": {
+          "type": "text",
+          "settings": {
+            "text_title": "Make a title for the text. Delete if undesired",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "16467491628f664f54-2": {
           "type": "image",
           "settings": {
           }
         }
       },
       "block_order": [
-        "text",
-        "image"
+        "16467491628f664f54-0",
+        "16467491628f664f54-1",
+        "16467491628f664f54-2"
       ],
       "settings": {
-        "top_element": "true"
       }
     }
   },
   "order": [
-    "main"
+    "164674916244cbcdb2"
   ]
 }
