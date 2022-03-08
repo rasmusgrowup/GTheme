@@ -113,8 +113,8 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Why can I not see any Groovewasher products?",
-            "icon": "check_mark",
-            "row_content": "",
+            "icon": "none",
+            "row_content": "<p>We have decided to stop our importer\/distributor of Groovewasher products, due to a few factors.<br\/><br\/>First, we are a small family business, and we feel that we do not have the ressources and capacity to further expand the Groovewasher business. And it really deserves a good organisation, because we love the product. Over the last three years we have seen a steady interest in their products and we are sure that they will be big in Europe too.<br\/><br\/>Secondly, The present shipping unpredictability makes it very difficult for us and we have seen the rates draining our cash, so we are taking the conservative approach to downsize the operation.<br\/><br\/>We will however, assist Groovewasher and the present dealer network, to maintain and develop a supply chain. More news later on this.<\/p>",
             "page": ""
           }
         }
