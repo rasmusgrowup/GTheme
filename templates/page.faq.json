@@ -108,6 +108,15 @@
             "row_content": "<p>Yes. You must absolutely avoid mounting your records on a spot on the wall where direct sunlight will hit the records for an extended period of time. The rays of the sun can warm a record to temperatures that harm the vinyl records, making them crooked.<br\/><br\/>On the contrary, you must avoid really humid conditions as well, as the humidity will cause the covers of your album to warp.<br\/><br\/>In general we recommend that you change the records on display often, as to avoid any warping of the cover, and off course, to keep the display collection exciting and new. <\/p>",
             "page": ""
           }
+        },
+        "546064ea-abdb-4f9b-ae52-09154dcc225f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why can I not see any Groovewasher products?",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -119,7 +128,8 @@
         "dc978d92-2aea-4bae-a5c7-883dd9733d5e",
         "a7a150ea-02bc-4e26-88c4-5ed6f025a749",
         "26c41e29-7591-402c-abe8-0480d0ed5919",
-        "7cc45a31-2a0f-498c-8471-4f401e38464c"
+        "7cc45a31-2a0f-498c-8471-4f401e38464c",
+        "546064ea-abdb-4f9b-ae52-09154dcc225f"
       ],
       "settings": {
         "caption": "",
