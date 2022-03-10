@@ -6,7 +6,7 @@
         "16467491628f664f54-0": {
           "type": "title",
           "settings": {
-            "title": "Groovewasher"
+            "title": "Groovewasher + G-Sonic"
           }
         },
         "16467491628f664f54-1": {
@@ -21,12 +21,27 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/GrooveWasher_Walnut_Kit_B072XYQJ8T_1024x1024_0579f682-bf4a-44bf-9e35-591ad788f014.jpg"
           }
+        },
+        "34129df0-1322-4296-8318-373262a7a42a": {
+          "type": "title",
+          "settings": {
+            "title": "G-Sonic update"
+          }
+        },
+        "76d77e8a-dcda-444b-878f-edb581cd3719": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p>We have been waiting for the delivery for the G-Sonic for a long time now, and we thank all for their patience. Groovewasher has explained that this delay is due to missing supply of their packaging boxes for the bottle.<br\/><br\/>Even though we will stop importing Groovewasher products, we will deliver the G-Sonic to all on our 'list'.<br\/><br\/>If you want to be on the list, be sure to write to <a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a> so we can inform you, when the unit is on sale again.<\/p>"
+          }
         }
       },
       "block_order": [
         "16467491628f664f54-0",
         "16467491628f664f54-1",
-        "16467491628f664f54-2"
+        "16467491628f664f54-2",
+        "34129df0-1322-4296-8318-373262a7a42a",
+        "76d77e8a-dcda-444b-878f-edb581cd3719"
       ],
       "settings": {
       }
