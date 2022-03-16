@@ -14,6 +14,15 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
+          "241acc6c-9c30-4ca9-8f63-61c87d36150d": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome! 👏 Enjoy 15% off for a limited time period with the code: 15OFF",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
+          },
           "35e806db-2c75-4f74-b128-e75f7ce811a9": {
             "type": "announcement",
             "settings": {
@@ -24,6 +33,7 @@
           }
         },
         "block_order": [
+          "241acc6c-9c30-4ca9-8f63-61c87d36150d",
           "35e806db-2c75-4f74-b128-e75f7ce811a9"
         ],
         "settings": {
