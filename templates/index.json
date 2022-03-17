@@ -132,6 +132,36 @@
         "column_ratio": "equal_widths"
       }
     },
+    "16475055508970c092": {
+      "type": "flexSection",
+      "blocks": {
+        "1647505550e3f5f10a-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Works with gatefolded albums",
+            "text": "<p>Use a pair of Twelve Inch Original to showcase gatefolded albums opened up on the wall<\/p>",
+            "url": "",
+            "url_text": "Link text",
+            "center": false
+          }
+        },
+        "1647505550e3f5f10a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Overordnet-Session8718.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "1647505550e3f5f10a-0",
+        "1647505550e3f5f10a-1"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "full_width_first": {
       "type": "flexSection",
       "blocks": {
@@ -247,6 +277,7 @@
     "original",
     "adapter",
     "frameless",
+    "16475055508970c092",
     "full_width_first",
     "full_width_second",
     "story_and_amazon",
