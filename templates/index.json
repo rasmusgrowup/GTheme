@@ -8,7 +8,7 @@
           "settings": {
             "text_title": "With Twelve Inch, you can",
             "text": "<p>DECORATE YOUR WALLS WITH THE BLACK KEYS, GRIZZLY BEAR, KINGS OF LEON OR WHOEVER YOU FANCY<\/p>",
-            "url": "shopify:\/\/collections\/our-products",
+            "url": "shopify:\/\/collections\/twelve-inch-retail",
             "url_text": "Shop now",
             "center": false
           }
@@ -56,7 +56,7 @@
           "settings": {
             "text_title": "Display your albums with The Original",
             "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
-            "url": "shopify:\/\/pages\/original",
+            "url": "shopify:\/\/products\/twelve-inch-original",
             "url_text": "Learn more",
             "center": false
           }
@@ -80,7 +80,7 @@
           "settings": {
             "text_title": "Display your records with The Adapter",
             "text": "<p>Decorate your rooms with your colored special-edition records or picture discs, in a way that's flexible and fun<\/p>",
-            "url": "shopify:\/\/pages\/adapter",
+            "url": "shopify:\/\/products\/twelve-inch-adapter",
             "url_text": "Learn more",
             "center": false
           }
@@ -116,7 +116,7 @@
           "settings": {
             "text_title": "Flexible and ever-changing",
             "text": "<p>BECAUSE OUR DESIGN IS FRAMELESS, YOU CAN CHANGE THE ALBUM on display in a moment. STORE THE RECORD INSIDE THE COVER FOR QUICK ACCESS<\/p>",
-            "url": "shopify:\/\/collections\/our-products",
+            "url": "shopify:\/\/collections\/twelve-inch-retail",
             "url_text": "Shop now",
             "center": false
           }
