@@ -92,7 +92,7 @@
           "settings": {
             "text_title": "Twelve Inch Apater",
             "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful<\/p>",
-            "url": "shopify:\/\/pages\/adapter",
+            "url": "shopify:\/\/products\/twelve-inch-adapter",
             "url_text": "Learn more",
             "center": false
           }
@@ -118,7 +118,7 @@
       "type": "flexCollection",
       "settings": {
         "title": "Our products",
-        "collection": "our-products",
+        "collection": "twelve-inch-retail",
         "products_to_show": 3,
         "show_view_all": true,
         "swipe_on_mobile": true,
