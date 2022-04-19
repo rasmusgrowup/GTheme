@@ -9,6 +9,13 @@
             "title": "Finally it is here!"
           }
         },
+        "2ad8a8bf-2941-486d-b98f-2fc05e781f03": {
+          "type": "text",
+          "settings": {
+            "text_title": "We have been waiting for the G-Sonic to arrive and finally we have a limited amount in stock",
+            "text": "<p>Groovewasher has informed us that this delay was due to a chain of misfortunate events. First, a packaging supplier misplaced a shipment of boxes for the G-Sonic, and secondly, being pushed back in the queue made it even worse.<br\/><br\/>But the wait is over and go right ahead and order here:<\/p>"
+          }
+        },
         "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac": {
           "type": "image",
           "settings": {
@@ -37,6 +44,7 @@
       },
       "block_order": [
         "6ae4df75-31ed-4c65-aa3d-a335ea526137",
+        "2ad8a8bf-2941-486d-b98f-2fc05e781f03",
         "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac",
         "16467491628f664f54-0",
         "16467491628f664f54-1",
