@@ -1,5 +1,29 @@
 {
   "sections": {
+    "164674916244cbcdb2": {
+      "type": "flexPage",
+      "blocks": {
+        "6ae4df75-31ed-4c65-aa3d-a335ea526137": {
+          "type": "title",
+          "settings": {
+            "title": "Finally it is here!"
+          }
+        },
+        "2ad8a8bf-2941-486d-b98f-2fc05e781f03": {
+          "type": "text",
+          "settings": {
+            "text_title": "We have been waiting for the G-Sonic to arrive and finally we have a limited amount in stock",
+            "text": "<p>Groovewasher has informed us that this delay was due to a chain of misfortunate events. First, a packaging supplier misplaced a shipment of boxes for the G-Sonic, and secondly, being pushed back in the queue made it even worse.<br\/><br\/>But the wait is over and go right ahead and order here:<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "6ae4df75-31ed-4c65-aa3d-a335ea526137",
+        "2ad8a8bf-2941-486d-b98f-2fc05e781f03"
+      ],
+      "settings": {
+      }
+    },
     "1650373279db3f744d": {
       "type": "featured-product",
       "blocks": {
@@ -70,34 +94,10 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "164674916244cbcdb2": {
-      "type": "flexPage",
-      "blocks": {
-        "6ae4df75-31ed-4c65-aa3d-a335ea526137": {
-          "type": "title",
-          "settings": {
-            "title": "Finally it is here!"
-          }
-        },
-        "2ad8a8bf-2941-486d-b98f-2fc05e781f03": {
-          "type": "text",
-          "settings": {
-            "text_title": "We have been waiting for the G-Sonic to arrive and finally we have a limited amount in stock",
-            "text": "<p>Groovewasher has informed us that this delay was due to a chain of misfortunate events. First, a packaging supplier misplaced a shipment of boxes for the G-Sonic, and secondly, being pushed back in the queue made it even worse.<br\/><br\/>But the wait is over and go right ahead and order here:<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "6ae4df75-31ed-4c65-aa3d-a335ea526137",
-        "2ad8a8bf-2941-486d-b98f-2fc05e781f03"
-      ],
-      "settings": {
-      }
     }
   },
   "order": [
-    "1650373279db3f744d",
-    "164674916244cbcdb2"
+    "164674916244cbcdb2",
+    "1650373279db3f744d"
   ]
 }
