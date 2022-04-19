@@ -3,6 +3,18 @@
     "164674916244cbcdb2": {
       "type": "flexPage",
       "blocks": {
+        "6ae4df75-31ed-4c65-aa3d-a335ea526137": {
+          "type": "title",
+          "settings": {
+            "title": "Finally it is here!"
+          }
+        },
+        "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/G-Sonic_Bottle.jpg"
+          }
+        },
         "16467491628f664f54-0": {
           "type": "title",
           "settings": {
@@ -21,34 +33,14 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/GrooveWasher_Walnut_Kit_B072XYQJ8T_1024x1024_0579f682-bf4a-44bf-9e35-591ad788f014.jpg"
           }
-        },
-        "34129df0-1322-4296-8318-373262a7a42a": {
-          "type": "title",
-          "settings": {
-            "title": "G-Sonic update"
-          }
-        },
-        "76d77e8a-dcda-444b-878f-edb581cd3719": {
-          "type": "text",
-          "settings": {
-            "text_title": "",
-            "text": "<p>We have been waiting for the delivery of the G-Sonic for a long time now, and we thank all for their patience. Groovewasher has explained that this delay is due to a missing supply of their packaging boxes for the bottle.<br\/><br\/>Even though we will stop importing Groovewasher products, we will deliver the G-Sonic to all on our 'list'.<br\/><br\/>If you want to be on the list, be sure to write to <a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a> so we can inform you, when the unit is on sale again.<\/p>"
-          }
-        },
-        "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/G-Sonic_Bottle.jpg"
-          }
         }
       },
       "block_order": [
+        "6ae4df75-31ed-4c65-aa3d-a335ea526137",
+        "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac",
         "16467491628f664f54-0",
         "16467491628f664f54-1",
-        "16467491628f664f54-2",
-        "34129df0-1322-4296-8318-373262a7a42a",
-        "76d77e8a-dcda-444b-878f-edb581cd3719",
-        "e4fd79e1-1bf5-4ab7-ae0d-89e29b9786ac"
+        "16467491628f664f54-2"
       ],
       "settings": {
       }
