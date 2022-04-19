@@ -86,40 +86,11 @@
             "text_title": "We have been waiting for the G-Sonic to arrive and finally we have a limited amount in stock",
             "text": "<p>Groovewasher has informed us that this delay was due to a chain of misfortunate events. First, a packaging supplier misplaced a shipment of boxes for the G-Sonic, and secondly, being pushed back in the queue made it even worse.<br\/><br\/>But the wait is over and go right ahead and order here:<\/p>"
           }
-        },
-        "16467491628f664f54-0": {
-          "type": "title",
-          "settings": {
-            "title": "Groovewasher + G-Sonic"
-          }
-        },
-        "16467491628f664f54-1": {
-          "type": "text",
-          "settings": {
-            "text_title": "Twelve Inch no longer distributor in Europe",
-            "text": "<p>We have decided to focus on our Twelve Inch line of products and this means Groovewasher products will no longer be available in our webshop. This has been a difficult decision to make as we love their products. We use it every day playing our records.<br\/><br\/>One of the reasons behind this is the challenges with shipping from the US to Europe. High rates and administration, make it more than difficult to maintain a sound business.<br\/><br\/>We will continue our good relationship with Groovewasher and support them until a new import setup is in place. Until then, we recommend you to find the Groovewasher products at the following dealers and webshops:<br\/><br\/>UK - Juno Records - <a href=\"https:\/\/www.juno.co.uk\" target=\"_blank\" title=\"https:\/\/www.juno.co.uk\">https:\/\/www.juno.co.uk<\/a><\/p><p>UK - Walvis - <a href=\"http:\/\/www.walvisproducts.co.uk\/\">www.walvisproducts.co.uk<\/a><br\/><br\/>DE - VinylNerds - <a href=\"https:\/\/vinylnerds.de\" title=\"https:\/\/vinylnerds.de\">https:\/\/vinylnerds.de<\/a><\/p><p>EU - Amazon - search for it.<a href=\"https:\/\/vinylnerds.de\" title=\"https:\/\/vinylnerds.de\"><br\/><\/a><br\/>NL - Walvis - <a href=\"http:\/\/www.walvisproducts.nl\/\">www.walvisproducts.nl<\/a><\/p>"
-          }
-        },
-        "16467491628f664f54-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GrooveWasher_Walnut_Kit_B072XYQJ8T_1024x1024_0579f682-bf4a-44bf-9e35-591ad788f014.jpg"
-          }
-        },
-        "2ea5077b-205d-4419-8280-d0d4bb3e27dd": {
-          "type": "title",
-          "settings": {
-            "title": "GROOVEWASHER"
-          }
         }
       },
       "block_order": [
         "6ae4df75-31ed-4c65-aa3d-a335ea526137",
-        "2ad8a8bf-2941-486d-b98f-2fc05e781f03",
-        "16467491628f664f54-0",
-        "16467491628f664f54-1",
-        "16467491628f664f54-2",
-        "2ea5077b-205d-4419-8280-d0d4bb3e27dd"
+        "2ad8a8bf-2941-486d-b98f-2fc05e781f03"
       ],
       "settings": {
       }
