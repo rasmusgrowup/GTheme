@@ -52,9 +52,22 @@
       ],
       "settings": {
       }
+    },
+    "165037255406a2526a": {
+      "type": "flexCollection",
+      "settings": {
+        "title": "G-Sonic",
+        "collection": "groovewasher-record-cleaning-products",
+        "products_to_show": 2,
+        "show_view_all": false,
+        "swipe_on_mobile": false,
+        "show_secondary_image": false,
+        "show_rating": false
+      }
     }
   },
   "order": [
-    "164674916244cbcdb2"
+    "164674916244cbcdb2",
+    "165037255406a2526a"
   ]
 }
