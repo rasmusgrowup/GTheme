@@ -5,6 +5,7 @@
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
     "card_text_alignment": "center",
+    "badge_position": "top left",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_registered.png",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#FFFFFF",
