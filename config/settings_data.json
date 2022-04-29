@@ -6,6 +6,7 @@
     "spacing_grid_vertical": 12,
     "card_text_alignment": "center",
     "badge_position": "top left",
+    "favicon": "shopify:\/\/shop_images\/favicon-32x32.png",
     "checkout_logo_image": "shopify:\/\/shop_images\/Logo_registered.png",
     "checkout_logo_size": "large",
     "checkout_sidebar_background_color": "#FFFFFF",
