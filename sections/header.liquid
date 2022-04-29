@@ -508,7 +508,7 @@
         </a>
       {%- endif -%}
 
-      <a href="{{ routes.cart_url }}" class="header__icon link focus-inset" id="cart-icon-bubble" style="position: relative">
+      <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart  link focus-inset" id="cart-icon-bubble">
         {%- if cart == empty -%}
           {%- liquid
               render 'icon-cart-empty-alt'
