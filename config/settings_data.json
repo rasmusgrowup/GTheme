@@ -17,15 +17,15 @@
         "blocks": {
           "241acc6c-9c30-4ca9-8f63-61c87d36150d": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome! 👏 Enjoy 15% off for a limited time period with the code: 15OFF",
+              "text": "⭐️ 4.6 in average rating on Amazon ✌️",
               "color_scheme": "accent-1",
               "link": ""
             }
           },
           "35e806db-2c75-4f74-b128-e75f7ce811a9": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Latest news: G-Sonic is finally here for a limited time, see more ... se more here",
               "color_scheme": "accent-2",
