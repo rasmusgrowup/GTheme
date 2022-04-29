@@ -508,16 +508,10 @@
         </a>
       {%- endif -%}
 
-      <a href="{{ routes.cart_url }}" class="header__icon header__icon--cart  link focus-inset" id="cart-icon-bubble">
-        {%- if cart == empty -%}
-          {%- liquid
-              render 'icon-cart-empty-alt'
-          -%}
-        {%- else -%}
-          {%- liquid
-              render 'icon-cart-alt'
-          -%}
-        {%- endif -%}
+      <a href="{{ routes.cart_url }}" class="header__icon  link focus-inset" id="cart-icon-bubble">
+        {%- liquid
+            render 'icon-cart-empty-alt'
+        -%}
         <span class="visually-hidden">{{ 'templates.cart.cart' | t }}</span>
         {%- if cart != empty -%}
           <div class="cart-count-bubble">
