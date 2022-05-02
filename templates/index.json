@@ -7,7 +7,7 @@
           "type": "text",
           "settings": {
             "text_title": "Save 20% on our products",
-            "text": "<p>We're celebrating Earth Day and Record Store Day this year with a flash sale. Save 20% until 1st of may<\/p>",
+            "text": "<p>We're celebrating Earth Day and Record Store Day this year with a flash sale. Save 20% until 15th of may<\/p>",
             "url": "shopify:\/\/collections\/our-products",
             "url_text": "Shop now",
             "center": false
