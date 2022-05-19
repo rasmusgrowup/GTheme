@@ -1,16 +1,33 @@
 {
   "sections": {
+    "165295923592caa572": {
+      "type": "hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg",
+        "small_title_text": "Offers and bundle products",
+        "title_text": "Welcome to our Outlet",
+        "button_label": "Buy Now",
+        "button_link": "",
+        "button_style_secondary": false
+      }
+    },
     "main": {
       "type": "flexSection",
       "blocks": {
         "text": {
           "type": "text",
           "settings": {
+            "text_title": "Top offer this month!",
+            "text": "<p>Our top offer this May is the Twelve Inch 4ECO + Groovewasher Walnut kit with Twelve inch logo engraved.<\/p>",
+            "url": "",
+            "url_text": "Link text",
+            "center": false
           }
         },
         "image": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/4eco-GWwalnut.jpg"
           }
         }
       },
@@ -19,11 +36,14 @@
         "image"
       ],
       "settings": {
-        "top_element": "true"
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
       }
     }
   },
   "order": [
+    "165295923592caa572",
     "main"
   ]
 }
