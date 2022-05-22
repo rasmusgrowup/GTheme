@@ -32,11 +32,20 @@
               "color_scheme": "accent-2",
               "link": "shopify:\/\/pages\/groovewasher"
             }
+          },
+          "87c46f37-3240-418c-8593-f776bdf581a2": {
+            "type": "announcement",
+            "settings": {
+              "text": "See our bundle offer and Groovewasher products in the Outlet",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/pages\/outlet"
+            }
           }
         },
         "block_order": [
           "241acc6c-9c30-4ca9-8f63-61c87d36150d",
-          "35e806db-2c75-4f74-b128-e75f7ce811a9"
+          "35e806db-2c75-4f74-b128-e75f7ce811a9",
+          "87c46f37-3240-418c-8593-f776bdf581a2"
         ],
         "settings": {
         }
