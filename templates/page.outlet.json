@@ -19,8 +19,8 @@
           "settings": {
             "text_title": "Top offer this month!",
             "text": "<p>Our top offer this May is the Twelve Inch 4ECO + Groovewasher Walnut kit with Twelve inch logo engraved.<\/p>",
-            "url": "shopify:\/\/pages\/outlet",
-            "url_text": "",
+            "url": "shopify:\/\/products\/twelve-inch-4eco-bundle-kit",
+            "url_text": "Yes, take me there!",
             "center": false
           }
         },
