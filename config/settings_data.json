@@ -26,6 +26,7 @@
           },
           "241acc6c-9c30-4ca9-8f63-61c87d36150d": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "⭐️ 4.6 in average rating on Amazon ✌️",
               "color_scheme": "accent-1",
