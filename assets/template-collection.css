@@ -19,6 +19,7 @@
 
 .collection {
   outline: 1px solid black;
+  padding-top: 1rem;
 }
 
 .collection .loading-overlay {
