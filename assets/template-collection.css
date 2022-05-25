@@ -17,6 +17,10 @@
   }
 }
 
+.collection {
+  outline: 1px solid black;
+}
+
 .collection .loading-overlay {
   top: 0;
   right: 0;
