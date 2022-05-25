@@ -2,6 +2,7 @@
   "sections": {
     "165295923592caa572": {
       "type": "hero",
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg",
         "small_title_text": "Offers and bundle products",
@@ -9,6 +10,36 @@
         "button_label": "",
         "button_link": "",
         "button_style_secondary": false
+      }
+    },
+    "1653471066bdb2eaea": {
+      "type": "flexSection",
+      "blocks": {
+        "16534710666ef75adf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg"
+          }
+        },
+        "16534710666ef75adf-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Welcome to our outlet",
+            "text": "<p>See our offers and bundle products below<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false
+          }
+        }
+      },
+      "block_order": [
+        "16534710666ef75adf-1",
+        "16534710666ef75adf-0"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "first_column_wider"
       }
     },
     "main": {
@@ -61,6 +92,7 @@
   },
   "order": [
     "165295923592caa572",
+    "1653471066bdb2eaea",
     "main",
     "1652963565e6414a88"
   ]
