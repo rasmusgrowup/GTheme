@@ -10,7 +10,9 @@
             "text": "<p>turn your Grizzly Bear record collection into an art gallery — or whoever you fancy<\/p>",
             "url": "shopify:\/\/collections\/our-products",
             "url_text": "Shop now",
-            "center": false
+            "center": false,
+            "social_proof": true,
+            "social_proof_text": "4.6 in average rating on amazon.com"
           }
         },
         "14c0df3d-2afa-4124-b0e4-2ca9dd2cb35c": {
@@ -58,7 +60,9 @@
             "text": "<p>USE YOUR FAVOURITE ALBUM COVERS TO CREATE BEAUTIFUL ART GALLERIES IN YOUR HOME. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
             "url": "shopify:\/\/pages\/original",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -82,7 +86,9 @@
             "text": "<p>Decorate your walls with your favourite special-edition vinyl records or picture discs<\/p>",
             "url": "shopify:\/\/pages\/adapter",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "image": {
@@ -118,7 +124,9 @@
             "text": "<p>BECAUSE OUR DESIGN IS FRAMELESS, YOU CAN CHANGE THE ALBUM on display in a moment. STORE THE RECORD INSIDE THE COVER FOR QUICK ACCESS<\/p>",
             "url": "shopify:\/\/collections\/our-products",
             "url_text": "Shop our products",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -142,7 +150,9 @@
             "text": "<p>Use a pair of Twelve Inch Original to showcase gatefolded albums opened up on the wall<\/p>",
             "url": "shopify:\/\/products\/twelve-inch-4eco",
             "url_text": "Buy Twelve Inch 4ECO",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "1647505550e3f5f10a-1": {
@@ -172,7 +182,9 @@
             "text": "<p>Your record collection is a treasure chest full of historical art work — decorate your home with your personal records<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -214,7 +226,9 @@
             "text": "<p>We are a small family owned company, that design and produce accessory products that can be used to display and store vinyl records in the home in exciting ways<\/p>",
             "url": "shopify:\/\/pages\/about",
             "url_text": "Read our story",
-            "center": true
+            "center": true,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "amazon": {
