@@ -2,6 +2,7 @@
   "sections": {
     "165788546632d31dc8": {
       "type": "vimeo-section",
+      "disabled": true,
       "settings": {
         "title": "With Twelve Inch, you can",
         "text": "Decorate your walls with the Black Keys, Grizzly Bear, Kings of Leon or whoever you fancy",
@@ -18,7 +19,6 @@
     },
     "hero": {
       "type": "flexSection",
-      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
@@ -32,14 +32,22 @@
         },
         "image": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Lifestyle-2020-28_d54a448f-8eec-4333-8ccf-02c906baad74.jpg"
+          }
+        },
+        "14c0df3d-2afa-4124-b0e4-2ca9dd2cb35c": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/vimeo.com\/730267491"
           }
         }
       },
       "block_order": [
         "text",
-        "image"
+        "image",
+        "14c0df3d-2afa-4124-b0e4-2ca9dd2cb35c"
       ],
       "settings": {
         "top_element": true,
