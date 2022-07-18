@@ -36,6 +36,14 @@
                   {% endunless %}
                 </a>
               {% endif%}
+              {% if block.settings.social_proof == true %}
+                <div class="top_element_amazon_score">
+                  <div class="stars_icon" style="text-align: center">
+                    {% render 'custom-icon-stars' %}
+                  </div>
+                  <h2>{{ block.settings.social_proof_text }}</h2>
+                </div>
+              {% endif %}
             </div>
           </div>
           {% when 'support' %}
@@ -126,7 +134,7 @@
 
 {% schema %}
 {
-  "name": "Flex section",
+  "name": "FlexSection",
   "tag": "section",
   "class": "section",
   "settings": [
@@ -170,7 +178,7 @@
   "blocks": [
     {
       "type": "text",
-      "name": "Text content",
+      "name": "Text block",
       "settings": [
         {
           "type": "text",
@@ -200,6 +208,18 @@
           "id": "center",
           "default": false,
           "label": "Check this box to center the content"
+        },
+        {
+          "type": "checkbox",
+          "id": "social_proof",
+          "default": false,
+          "label": "Add amazon.com average score"
+        },
+        {
+          "type": "text",
+          "id": "social_proof_text",
+          "label": "Text for Amazon score",
+          "default": "X.X in average rating on amazon.com"
         }
       ]
     },
@@ -297,7 +317,7 @@
     },
     {
       "type": "video",
-      "name": "Block video",
+      "name": "Video block",
       "settings": [
         {
           "type": "video_url",
@@ -317,7 +337,7 @@
   "max_blocks": 4,
   "presets": [
     {
-      "name": "Flexbox section",
+      "name": "FlexSection",
       "blocks": [
         {
           "type": "text"
