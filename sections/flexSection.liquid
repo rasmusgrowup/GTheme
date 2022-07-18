@@ -113,6 +113,12 @@
               {%- endif -%}
             </div>
           </div>
+          {% when 'video' %}
+            <div class="{{ columns }} column">
+              <div class="flex_video_wrapper media">
+                <iframe src="https://player.vimeo.com/video/{{ block.settings.video_url.id }}?background=1" class="js-vimeo" allow="autoplay; encrypted-media" allowfullscreen title="{{ section.settings.description | escape }}"></iframe>
+              </div>
+            </div>
         {% endcase %}
       {% endfor %}
   </div>
@@ -286,6 +292,24 @@
           "type": "image_picker",
           "id": "image",
           "label": "Flexbox image"
+        }
+      ]
+    },
+    {
+      "type": "video",
+      "name": "Block video",
+      "settings": [
+        {
+          "type": "video_url",
+          "id": "video_url",
+          "accept": [
+            "youtube",
+            "vimeo"
+          ],
+          "default": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "label": "t:sections.video.settings.video_url.label",
+          "placeholder": "t:sections.video.settings.video_url.placeholder",
+          "info": "t:sections.video.settings.video_url.info"
         }
       ]
     }
