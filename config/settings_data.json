@@ -70,7 +70,7 @@
           "logo": "shopify:\/\/shop_images\/Logo_registered.png",
           "logo_width": 100,
           "company_text": "<p>We are a small innovative family owned company with offices and production situated in the heart of Denmark. We design and produce what we think is the worlds greatest products for displaying records in the home like you do with art and paintings. You can read our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Return Policy<\/a> and <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">Cookie Policy<\/a> here.<\/p>",
-          "menu": "hovedmenu-v2",
+          "menu": "footer",
           "details": "<p><strong>Company Information<br\/><\/strong>Twelve Inch Aps<br\/>Borgervænget 14, Odense C<br\/><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a><\/p>",
           "color_scheme": "background-1",
           "show_social": true,
