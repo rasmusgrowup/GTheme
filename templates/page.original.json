@@ -10,7 +10,9 @@
             "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
             "url": "shopify:\/\/products\/twelve-inch-original",
             "url_text": "BUY THE ORIGINAL",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "image": {
@@ -46,7 +48,9 @@
             "text": "<p>ATTACH THE MAGNETIC DISC TO YOUR WALL, WITH THE INCLUDED SCREW. USE A SUITABLE RAW PLUG<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -70,7 +74,9 @@
             "text": "<p>CAREFULLY INSERT THE RING-DISC INTO THE BACK OF YOUR COVER.<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "164552076463403ed5-1": {
@@ -106,7 +112,9 @@
             "text": "<p>HOLD THE ALBUM UP AGAINST THE MAGNET. ADJUST AND CAREFULLY LET GO OF THE ALBUM. ET VOILA, YOUR ALBUM IS NOW DISPLAYED ON THE WALL<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -130,7 +138,9 @@
             "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES<\/strong><\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -162,33 +172,6 @@
         "column_ratio": "equal_widths"
       }
     },
-    "16455405851d48aad8": {
-      "type": "flexSection",
-      "disabled": true,
-      "blocks": {
-        "164554058555cfc07e-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
-          }
-        },
-        "aee86f5c-a43d-41b2-b511-844f70548eb8": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-94.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "164554058555cfc07e-1",
-        "aee86f5c-a43d-41b2-b511-844f70548eb8"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
-    },
     "16456904031bb6f786": {
       "type": "flexSection",
       "blocks": {
@@ -199,7 +182,9 @@
             "text": "<p><strong>DECORATE YOUR SPACE WITH YOUR RECORDS, IN A WAY THAT'S DYNAMIC AND BEAUTIFUL<\/strong><\/p>",
             "url": "shopify:\/\/products\/twelve-inch-adapter",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "164569040333e61e6c-1": {
@@ -239,7 +224,6 @@
     "164552081190d8790c",
     "1645609012f5ccfb78",
     "16455208905bfea052",
-    "16455405851d48aad8",
     "16456904031bb6f786",
     "1645609026a560cffd"
   ]
