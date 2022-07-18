@@ -2,7 +2,6 @@
   "sections": {
     "165788546632d31dc8": {
       "type": "vimeo-section",
-      "disabled": true,
       "settings": {
         "title": "With Twelve Inch, you can",
         "text": "Decorate your walls with the Black Keys, Grizzly Bear, Kings of Leon or whoever you fancy",
@@ -19,6 +18,7 @@
     },
     "hero": {
       "type": "flexSection",
+      "disabled": true,
       "blocks": {
         "text": {
           "type": "text",
