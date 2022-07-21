@@ -162,6 +162,11 @@
   text-transform: uppercase;
 }
 
+.top_section_button:hover {
+  color: white;
+  background-color: rgb(var(--color-base-accent-2));
+}
+
 .top_element_amazon_score {
   margin-top: 2rem;
 }
