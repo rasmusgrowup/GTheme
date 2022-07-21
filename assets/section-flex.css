@@ -139,6 +139,10 @@
   text-transform: uppercase;
 }
 
+.flex_link:hover {
+  color: rgb(var(--color-base-accent-2));
+}
+
 .flex_support .flex_link {
   margin: 0 auto;
 }
