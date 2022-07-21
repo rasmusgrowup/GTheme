@@ -238,11 +238,24 @@
             "text": "<p>“This did exactly what I needed it to. It displays my records subtly without marring my walls too much. It was easy to mount and use.”<br\/><br\/>— A. Flynn<\/p>",
             "center": true
           }
+        },
+        "e5108250-b905-4fac-a487-004c76788c47": {
+          "type": "text",
+          "settings": {
+            "text_title": "www.yoursoundmatter.com says",
+            "text": "<p>\"The Twelve Inch products are elegantly designed, simple to use and allow the individual to get creative in making stunning vinyl displays that make your listening space pop.\"<\/p>",
+            "url": "https:\/\/www.yoursoundmatters.com\/twelve-inch-magnet-vinyl-display-system-review\/",
+            "url_text": "Full review",
+            "center": true,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
         }
       },
       "block_order": [
         "story",
-        "amazon"
+        "amazon",
+        "e5108250-b905-4fac-a487-004c76788c47"
       ],
       "settings": {
         "top_element": false,
