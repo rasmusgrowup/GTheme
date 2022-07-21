@@ -28,7 +28,7 @@
       ],
       "settings": {
         "top_element": true,
-        "flip_direction": true,
+        "flip_direction": false,
         "column_ratio": "equal_widths"
       }
     },
