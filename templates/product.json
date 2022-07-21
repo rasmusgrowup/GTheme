@@ -42,6 +42,15 @@
           "settings": {
           }
         },
+        "7068e059-5cd9-4e10-a7a9-4f75eacf5942": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Return Policy",
+            "icon": "return",
+            "content": "<p>Return within 30 days of your purchase date and we'll send you a full refund.<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -62,6 +71,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Good to know",
             "icon": "heart",
@@ -71,6 +81,7 @@
         },
         "share": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
           }
@@ -84,6 +95,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "7068e059-5cd9-4e10-a7a9-4f75eacf5942",
         "collapsible-row-0",
         "collapsible-row-2",
         "collapsible-row-3",
