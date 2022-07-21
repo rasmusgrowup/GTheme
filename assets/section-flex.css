@@ -49,6 +49,7 @@
   .half_column {
     flex: 1;
     max-width: 50%;
+    min-height: 33vw;
     position: relative;
     width: 50%;
   }
