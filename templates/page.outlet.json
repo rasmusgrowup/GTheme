@@ -28,7 +28,9 @@
             "text": "<p>See our offers and bundle products below<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -52,7 +54,9 @@
             "text": "<p>Our top offer this June is the Twelve Inch 4ECO + Groovewasher Walnut kit with Twelve inch logo engraved.<\/p>",
             "url": "shopify:\/\/products\/twelve-inch-4eco-bundle-kit",
             "url_text": "Yes, take me there!",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "image": {
@@ -72,21 +76,16 @@
         "column_ratio": "equal_widths"
       }
     },
-    "1652963565e6414a88": {
-      "type": "featured-collection",
+    "16590022586da2afa0": {
+      "type": "flexCollection",
       "settings": {
-        "title": "Outlet collection",
+        "title": "Featured collection",
         "collection": "outlet",
-        "products_to_show": 12,
-        "color_scheme": "background-1",
-        "show_view_all": true,
+        "products_to_show": 6,
+        "show_view_all": false,
         "swipe_on_mobile": false,
-        "image_ratio": "square",
         "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 84,
-        "padding_bottom": 84
+        "show_rating": false
       }
     }
   },
@@ -94,6 +93,6 @@
     "165295923592caa572",
     "1653471066bdb2eaea",
     "main",
-    "1652963565e6414a88"
+    "16590022586da2afa0"
   ]
 }
