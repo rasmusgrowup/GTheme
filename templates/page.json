@@ -45,7 +45,7 @@
           "settings": {
             "text_title": "UK",
             "text": "<p>UK covers England, Scotland, Wales and Northern Ireland<\/p>",
-            "url": "",
+            "url": "shopify:\/\/collections\/uk",
             "url_text": "Yes, take me there...",
             "center": false,
             "social_proof": false,
@@ -57,7 +57,7 @@
           "settings": {
             "text_title": "North America",
             "text": "<p>Covers US, Canada and Mexico<\/p>",
-            "url": "",
+            "url": "shopify:\/\/collections\/us",
             "url_text": "Alright, let's go...",
             "center": false,
             "social_proof": false,
