@@ -2,8 +2,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -14,10 +15,10 @@
         "165945641644eeb16e-0": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_title": "Chose country",
+            "text": "<p>We ship world wide, so first we need to know on which continent you are living<\/p>",
             "url": "",
-            "url_text": "Link text",
+            "url_text": "",
             "center": false,
             "social_proof": false,
             "social_proof_text": "X.X in average rating on amazon.com"
