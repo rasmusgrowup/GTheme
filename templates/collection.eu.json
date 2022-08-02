@@ -1,0 +1,59 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "disabled": true,
+      "settings": {
+        "show_collection_description": false,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "1659456416d202bfc2": {
+      "type": "flexSection",
+      "blocks": {
+        "165945641644eeb16e-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Chose country",
+            "text": "<p>We ship world wide, so first we need to know on which continent you are living<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "165945641644eeb16e-0"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "disabled": true,
+      "settings": {
+        "products_per_page": 16,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_filtering": false,
+        "enable_sorting": false,
+        "collapse_on_larger_devices": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "1659456416d202bfc2",
+    "product-grid"
+  ]
+}
