@@ -6,24 +6,79 @@
         "text": {
           "type": "text",
           "settings": {
-          }
-        },
-        "image": {
-          "type": "image",
-          "settings": {
+            "text_title": "Choose Your Country",
+            "text": "<p>As we ship to most of the world, we need to know on which continent you are living...<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
       "block_order": [
-        "text",
-        "image"
+        "text"
       ],
       "settings": {
-        "top_element": "true"
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "16594580437164cde4": {
+      "type": "flexSection",
+      "blocks": {
+        "f4d88a2a-d2ab-44df-920b-eff074d871f5": {
+          "type": "text",
+          "settings": {
+            "text_title": "EU",
+            "text": "<p>EU covers all 26 countries in the EU <\/p>",
+            "url": "",
+            "url_text": "Merci Monsieur",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        },
+        "27cc5f53-c9e1-42dd-a7d0-cc534e182aa0": {
+          "type": "text",
+          "settings": {
+            "text_title": "UK",
+            "text": "<p>UK covers England, Scotland, Wales and Northern Ireland<\/p>",
+            "url": "",
+            "url_text": "Yes, take me there...",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        },
+        "54c9c29a-4c19-4ba8-a424-27e227ac368b": {
+          "type": "text",
+          "settings": {
+            "text_title": "North America",
+            "text": "<p>Covers US, Canada and Mexico<\/p>",
+            "url": "",
+            "url_text": "Alright, let's go...",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "f4d88a2a-d2ab-44df-920b-eff074d871f5",
+        "27cc5f53-c9e1-42dd-a7d0-cc534e182aa0",
+        "54c9c29a-4c19-4ba8-a424-27e227ac368b"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "16594580437164cde4"
   ]
 }
