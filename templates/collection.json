@@ -8,6 +8,31 @@
         "color_scheme": "background-1"
       }
     },
+    "1659456416d202bfc2": {
+      "type": "flexSection",
+      "blocks": {
+        "165945641644eeb16e-0": {
+          "type": "text",
+          "settings": {
+            "text_title": "Titel",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "url": "",
+            "url_text": "Link text",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "165945641644eeb16e-0"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "disabled": true,
@@ -27,6 +52,7 @@
   },
   "order": [
     "banner",
+    "1659456416d202bfc2",
     "product-grid"
   ]
 }
