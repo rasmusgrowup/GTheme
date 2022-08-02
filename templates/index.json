@@ -32,53 +32,6 @@
         "column_ratio": "equal_widths"
       }
     },
-    "16594553170c80193d": {
-      "type": "flexSection",
-      "blocks": {
-        "16594553175caa50c3-0": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "url": "",
-            "url_text": "Link text",
-            "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
-          }
-        },
-        "16594553175caa50c3-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Original_Content_Brown_greyBG_forWeb.png"
-          }
-        },
-        "04f331e4-2273-4032-a64f-2bd69e69fe27": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4ECO_Content_Natural_noBG_forWeb_98d587d6-7ae0-42b2-9d21-5a5a8271984f.png"
-          }
-        },
-        "c92db3dd-9143-445c-a91b-428f03a2c96a": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "16594553175caa50c3-0",
-        "16594553175caa50c3-1",
-        "04f331e4-2273-4032-a64f-2bd69e69fe27",
-        "c92db3dd-9143-445c-a91b-428f03a2c96a"
-      ],
-      "settings": {
-        "top_element": true,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
-    },
     "collection": {
       "type": "flexCollection",
       "disabled": true,
@@ -374,7 +327,6 @@
   },
   "order": [
     "hero",
-    "16594553170c80193d",
     "collection",
     "original",
     "adapter",
