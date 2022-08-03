@@ -8,9 +8,11 @@
           "settings": {
             "text_title": "With The Adapter, you can",
             "text": "<p>SHOW OFF YOUR PICTURE DISCS OR LIMITED-EDITION-BLOOD-INFUSED VINYL RECORDS<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-adapter",
+            "url": "shopify:\/\/pages\/pick-a-country-page",
             "url_text": "BUY THE ADAPTER",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "image": {
@@ -46,7 +48,9 @@
             "text": "<p>ATTACH THE MAGNETIC DISC TO YOUR WALL, WITH THE INCLUDED SCREW. USE A SUITABLE RAW PLUG<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -70,7 +74,9 @@
             "text": "<p>INSERT THE ADAPTER DISC INTO THE MIDDLE OF THE RECORD<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "164552076463403ed5-1": {
@@ -106,7 +112,9 @@
             "text": "<p>LOCK THE RECORD BY SCREWING ON THE ADAPTER-LOOKING GEAR<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -130,7 +138,9 @@
             "text": "<p>ALL THAT'S LEFT NOW, IS TO WALL MOUNT YOUR RECORD. THE MAGNETIC PULL FORCE WILL TAKE CARE OF HOLDING THE RECORD<\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "164552084558254ee7-1": {
@@ -160,7 +170,9 @@
             "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES<\/strong><\/p>",
             "url": "",
             "url_text": "",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -202,7 +214,9 @@
             "text": "<p><strong>The Original makes it easy to decorate with your album covers. Works with single wing jackets or gatefold albums<\/strong><\/p>",
             "url": "shopify:\/\/products\/twelve-inch-original",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "1645540724605d95aa-1": {
