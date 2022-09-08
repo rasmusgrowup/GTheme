@@ -216,6 +216,8 @@
     })(window,document,'script','dataLayer','GTM-TDKN78S');</script>
     <!-- End Google Tag Manager -->
   {% render 'wsg-custom' %}
+
+	{{ shop.metafields.loox["global_html_head"] }}
 </head>
 
   <body class="gradient">
@@ -271,5 +273,7 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  </body>
+  
+	{{ shop.metafields.loox["global_html_body"] }}
+</body>
 </html>

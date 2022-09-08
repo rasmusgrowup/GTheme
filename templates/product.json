@@ -85,12 +85,18 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "loox-rating": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "caption",
         "title",
         "price",
+        "loox-rating",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
@@ -143,12 +149,33 @@
         "show_secondary_image": false,
         "show_rating": false
       }
+    },
+    "loox-product-reviews-app-section": {
+      "type": "apps",
+      "blocks": {
+        "loox-product-reviews": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "loox-product-reviews"
+      ],
+      "settings": {
+        "include_margins": false
+      }
     }
   },
   "order": [
     "main",
     "product-recommendations",
     "1662474046d9686053",
-    "1646064250c7134bad"
+    "1646064250c7134bad",
+    "loox-product-reviews-app-section"
   ]
 }
