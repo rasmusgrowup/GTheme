@@ -18,6 +18,7 @@
         "blocks": {
           "87c46f37-3240-418c-8593-f776bdf581a2": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "⭐️ See our bundle offer and Groovewasher products in the Outlet ✌️",
               "color_scheme": "accent-1",
