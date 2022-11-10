@@ -16,15 +16,6 @@
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
-          "87c46f37-3240-418c-8593-f776bdf581a2": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "⭐️ See our bundle offer and Groovewasher products in the Outlet ✌️",
-              "color_scheme": "accent-1",
-              "link": "shopify:\/\/pages\/outlet"
-            }
-          },
           "241acc6c-9c30-4ca9-8f63-61c87d36150d": {
             "type": "announcement",
             "disabled": true,
@@ -34,20 +25,18 @@
               "link": ""
             }
           },
-          "35e806db-2c75-4f74-b128-e75f7ce811a9": {
+          "3b00b7bb-ba28-4dd8-872e-b079147ec3c6": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Latest news: G-Sonic is finally here for a limited time, see more ... se more here",
-              "color_scheme": "accent-2",
-              "link": "shopify:\/\/pages\/groovewasher"
+              "text": "Welcome to our store - please observe that we are doing web shop maintenance for a couple of hours, which means that some functions may not be working - so check in again later.",
+              "color_scheme": "accent-1",
+              "link": ""
             }
           }
         },
         "block_order": [
-          "87c46f37-3240-418c-8593-f776bdf581a2",
           "241acc6c-9c30-4ca9-8f63-61c87d36150d",
-          "35e806db-2c75-4f74-b128-e75f7ce811a9"
+          "3b00b7bb-ba28-4dd8-872e-b079147ec3c6"
         ],
         "settings": {
         }
