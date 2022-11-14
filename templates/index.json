@@ -11,7 +11,7 @@
             "url": "shopify:\/\/pages\/pick-a-country-page",
             "url_text": "Shop now",
             "center": false,
-            "social_proof": false,
+            "social_proof": true,
             "social_proof_text": "4.6 in average rating on amazon.com"
           }
         },
