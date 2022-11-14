@@ -27,9 +27,8 @@
           },
           "3b00b7bb-ba28-4dd8-872e-b079147ec3c6": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Welcome to our store - please observe that we are doing web shop maintenance for a couple of hours, which means that some functions may not be working - so check in again later.",
+              "text": "Welcome to our store - please be aware that we are doing web shop maintenance for a couple of hours, which means that some functions may not be working - so check in again later.",
               "color_scheme": "accent-1",
               "link": ""
             }
