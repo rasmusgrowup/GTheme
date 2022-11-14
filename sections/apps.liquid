@@ -1,4 +1,4 @@
-<div class="{% if section.settings.include_margins %}page-width{% endif %}">
+<div class="{% if section.settings.include_margins %}page-width{% endif %}{% if section.settings.include_padding %}app-padding{% endif %}">
   {%- for block in section.blocks -%}
     {% render block %}
   {%- endfor -%}
@@ -15,6 +15,12 @@
       "id": "include_margins",
       "default": true,
       "label": "t:sections.apps.settings.include_margins.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "include_padding",
+      "default": true,
+      "label": "Add extra padding for apps that work without padding"
     }
   ],
   "blocks": [
