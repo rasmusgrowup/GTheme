@@ -51,7 +51,7 @@
           "type": "text",
           "settings": {
             "text_title": "This is the content of the bundle",
-            "text": "<p>The Twelve Inch Original 4ECO contains four wall mounts in the new bamboo design. We have ditched the plastic and converted for a more sustainable product. You can now exhibit your favorite albums on the wall, <strong>without frames og visible support. <\/strong>And your can change the album in a matter of seconds, to another theme - like albums with the best female sing a song writers, or to a more blues mood.<\/p>"
+            "text": "<p>The Twelve Inch Original 4ECO contains four wall mounts in the new bamboo design. We have ditched the plastic and converted for a more sustainable product. You can now exhibit your favorite albums on the wall, <strong>without frames og visible support. <\/strong>And your can change the album in a matter of seconds, to another theme<\/p>"
           }
         },
         "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-2": {
@@ -81,8 +81,8 @@
         "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-1": {
           "type": "text",
           "settings": {
-            "text_title": "",
-            "text": ""
+            "text_title": "Are you in a Jazzy mood?",
+            "text": "<p>You can change themes quickly from jazz to heavy metal, or your four best female sing a song writer albums.<\/p>"
           }
         },
         "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-2": {
