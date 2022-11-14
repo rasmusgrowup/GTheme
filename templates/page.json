@@ -82,7 +82,7 @@
           "type": "text",
           "settings": {
             "text_title": "Are you in a Jazzy mood?",
-            "text": "<p>You can change themes quickly from jazz to heavy metal, or your four best female sing a song writer albums.<\/p>"
+            "text": "<p>You can change themes quickly from jazz to heavy metal, or your four best female sing a song writer albums - your choice!<\/p>"
           }
         },
         "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-2": {
@@ -130,12 +130,50 @@
       ],
       "settings": {
       }
+    },
+    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get your code now!",
+            "heading_size": "h1"
+          }
+        },
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visit Sound Matters web site for the exclusive offer<\/p>"
+          }
+        },
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Beam me up to Sound Matters",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-0",
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-1",
+        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "df8d6aa1-3459-4cd5-9d44-215472db8516",
     "c5b710c7-03e5-486f-ba3c-5f9856f4854d",
     "c3492bb1-c996-4952-94a7-3da21267c1c4",
-    "45a3e1ac-f369-4c75-a77c-0742e7b91b1b"
+    "45a3e1ac-f369-4c75-a77c-0742e7b91b1b",
+    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b"
   ]
 }
