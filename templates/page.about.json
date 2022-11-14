@@ -6,7 +6,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "WE ARE A SMALL INNOVATIVE FAMILY OWNED COMPANY WITH OFFICES SITUATED IN THE HEART OF DENMARK."
+            "title": "TEST"
           }
         },
         "text": {
@@ -70,7 +70,9 @@
             "text": "<p>Decorate your rooms with the art work from your favourite albums and artists<\/p>",
             "url": "shopify:\/\/products\/twelve-inch-original",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         }
       },
@@ -94,7 +96,9 @@
             "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful<\/p>",
             "url": "shopify:\/\/products\/twelve-inch-adapter",
             "url_text": "Learn more",
-            "center": false
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
           }
         },
         "1645691883d2f7807f-1": {
