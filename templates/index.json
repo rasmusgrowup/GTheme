@@ -76,7 +76,7 @@
       ],
       "settings": {
         "top_element": false,
-        "flip_direction": false,
+        "flip_direction": true,
         "column_ratio": "equal_widths"
       }
     },
@@ -336,8 +336,8 @@
             "imageRatio": "1",
             "reviewerNameColor": "#ffffff",
             "starsColor": "#ffffff",
-            "arrows_backgroundColor": "#FFFFFF",
-            "arrows_iconColor": "#9A9A9A",
+            "arrows_backgroundColor": "#ffffff",
+            "arrows_iconColor": "#9a9a9a",
             "shadow": "none",
             "border_active": false,
             "border_width": 2,
@@ -350,7 +350,8 @@
         "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": true,
+        "include_padding": true
       }
     }
   },
