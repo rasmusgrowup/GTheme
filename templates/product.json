@@ -135,7 +135,8 @@
     "1662474046d9686053": {
       "type": "apps",
       "settings": {
-        "include_margins": true
+        "include_margins": true,
+        "include_padding": true
       }
     },
     "loox-product-reviews-app-section": {
@@ -156,7 +157,8 @@
         "loox-product-reviews"
       ],
       "settings": {
-        "include_margins": true
+        "include_margins": false,
+        "include_padding": true
       }
     },
     "1646064250c7134bad": {
