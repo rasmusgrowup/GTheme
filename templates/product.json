@@ -135,7 +135,7 @@
     "1662474046d9686053": {
       "type": "apps",
       "settings": {
-        "include_margins": false,
+        "include_margins": true,
         "include_padding": true
       }
     },
