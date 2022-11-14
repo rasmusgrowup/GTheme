@@ -23,6 +23,12 @@
   flex: 1;
 }
 
+@media only screen and (min-width: 749px) {
+  .footer_column_two {
+    margin-top: -2em;
+  }
+}
+
 .footer_logo_Wrapper {
   display: flex;
 }
