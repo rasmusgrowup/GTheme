@@ -157,8 +157,8 @@
         "loox-product-reviews"
       ],
       "settings": {
-        "include_margins": false,
-        "include_padding": false
+        "include_margins": true,
+        "include_padding": true
       }
     },
     "1646064250c7134bad": {
