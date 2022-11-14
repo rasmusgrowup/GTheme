@@ -82,7 +82,6 @@
     },
     "collection": {
       "type": "flexCollection",
-      "disabled": true,
       "settings": {
         "title": "Our products",
         "collection": "our-products",
