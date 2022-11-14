@@ -88,6 +88,7 @@
         "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-2": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/cafe.jpg"
           }
         }
       },
