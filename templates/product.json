@@ -132,13 +132,6 @@
         "padding_bottom": 28
       }
     },
-    "1662474046d9686053": {
-      "type": "apps",
-      "settings": {
-        "include_margins": true,
-        "include_padding": true
-      }
-    },
     "loox-product-reviews-app-section": {
       "type": "apps",
       "blocks": {
@@ -177,7 +170,6 @@
   "order": [
     "main",
     "product-recommendations",
-    "1662474046d9686053",
     "loox-product-reviews-app-section",
     "1646064250c7134bad"
   ]
