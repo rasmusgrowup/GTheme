@@ -19,7 +19,7 @@
           "type": "text",
           "settings": {
             "text_title": "Exclusive for Sound Matters subscribers",
-            "text": "<p>Check out our bundle pack for this Black Friday and holiday season:<\/p><p>A Twelve Inch Original 4ECO bundled with our signature GrooveWasher Walnut Handle record cleaning brush - <em><strong>both now available at the sale price of €99 + free shipping (regular price 109 + shipping).<\/strong><\/em><\/p><p><\/p><p>This great offer is available exclusively for subscribers to our good friends over at Sound Matters - a leading vinyl record website where you get the best tips, tricks, and features to enhance your love of music on vinyl.<\/p><p><\/p><p>Visit them here and <strong>get your code<\/strong> for our offer: <a href=\"https:\/\/www.yoursoundmatters.com\/\" target=\"_blank\">https:\/\/www.yoursoundmatters.com<\/a> <\/p>"
+            "text": "<p>Check out our bundle pack for this Black Friday and holiday season:<\/p><p>A Twelve Inch Original 4ECO bundled with our signature GrooveWasher Walnut Handle record cleaning brush - <em><strong>both now available at the sale price of €99 + free shipping (regular price 109 + shipping).<\/strong><\/em><\/p><p><\/p><p>This great offer is available exclusively for subscribers to our good friends over at Sound Matters - a leading vinyl record website where you get the best tips, tricks, and features to enhance your love of music on vinyl.*<\/p><p><\/p><p>Visit them here and <strong>get your code<\/strong> for our offer: <a href=\"https:\/\/www.yoursoundmatters.com\/\" target=\"_blank\">https:\/\/www.yoursoundmatters.com<\/a> <\/p>"
           }
         },
         "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-2": {
@@ -57,7 +57,7 @@
         "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-2": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4ECO_Content_Natural_282e7fff-e16d-4c52-8953-46c2156207fa.png"
+            "image": "shopify:\/\/shop_images\/4ECO_Content_Brown_greyBG_forWeb.png"
           }
         }
       },
@@ -167,6 +167,34 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "40bf2019-693e-4624-a8ad-c3fc79a67492": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>*Offer will end 31st December 2022, or before if our inventory runs dry.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-0",
+        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -174,6 +202,7 @@
     "c5b710c7-03e5-486f-ba3c-5f9856f4854d",
     "c3492bb1-c996-4952-94a7-3da21267c1c4",
     "45a3e1ac-f369-4c75-a77c-0742e7b91b1b",
-    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b"
+    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b",
+    "40bf2019-693e-4624-a8ad-c3fc79a67492"
   ]
 }
