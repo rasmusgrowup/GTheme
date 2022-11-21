@@ -325,6 +325,7 @@
     },
     "16627387195a3a2a18": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c": {
           "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-gallery-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
