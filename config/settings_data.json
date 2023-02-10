@@ -27,9 +27,8 @@
           },
           "3b00b7bb-ba28-4dd8-872e-b079147ec3c6": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Problem solved - shipping prices show up now - no shipping price means the product is sold out for your region, try another variant.",
+              "text": "We are experiencing problem with our shipping prices and are working hard to solve this - stay tuned!!",
               "color_scheme": "accent-1",
               "link": ""
             }
