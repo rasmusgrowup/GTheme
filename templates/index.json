@@ -6,8 +6,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "With Twelve Inch, you can",
-            "text": "<p>turn your record collection into ever-changing art galleries<\/p>",
+            "text_title": "Elevate your space.",
+            "text": "<p>Transform Vinyl Records into Captivating Art Galleries with Twelve Inch<\/p>",
             "url": "shopify:\/\/collections\/our-products",
             "url_text": "Shop now",
             "center": false,
@@ -325,7 +325,6 @@
     },
     "16627387195a3a2a18": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c": {
           "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-gallery-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
@@ -349,6 +348,7 @@
       "block_order": [
         "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true,
         "include_padding": true
