@@ -148,7 +148,7 @@
 }
 
 .top_section_button {
-  background-color: rgb(var(--color-foreground));
+  background-color: rgb(var(--color-base-accent-1));
   border-radius: 50px;
   color: white;
   display: inline-block;
@@ -164,7 +164,7 @@
 
 .top_section_button:hover {
   color: white;
-  background-color: rgb(var(--color-base-accent-2));
+  background-color: rgb(var(--color-base-accent-3));
 }
 
 .top_element_amazon_score {
@@ -173,6 +173,10 @@
 
 .top_element_amazon_score h2 {
   margin: 0 auto;
+}
+
+.stars_icon {
+  fill: #fac107;
 }
 
 .full_column {

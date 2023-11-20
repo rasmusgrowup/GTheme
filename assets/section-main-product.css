@@ -273,6 +273,10 @@ fieldset.product-form__input .form__label {
   margin-bottom: 1rem;
 }
 
+.product-form__submit.available {
+  outline: 1px solid var(--color-base-accent-3) !important;
+}
+
 .no-js .product-form__submit.button--secondary {
   --color-button: var(--color-base-accent-1);
   --color-button-text: var(--color-base-solid-button-labels);
