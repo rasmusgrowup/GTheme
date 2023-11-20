@@ -4,8 +4,8 @@
     "theme_name": "GTheme",
     "theme_version": "1.0.0",
     "theme_author": "Growup Studio",
-    "theme_documentation_url": "https://help.shopify.com/en/manual/online-store/themes",
-    "theme_support_url": "https://growupstudio.dk/"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/en\/manual\/online-store\/themes",
+    "theme_support_url": "https:\/\/growupstudio.dk\/"
   },
   {
     "name": "t:settings_schema.colors.name",
