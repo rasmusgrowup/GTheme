@@ -53,7 +53,7 @@
           "logo_position": "center",
           "menu": "hovedmenu-v2",
           "show_line_separator": true,
-          "enable_sticky_header": false,
+          "enable_sticky_header": true,
           "margin_bottom": 0
         }
       },
