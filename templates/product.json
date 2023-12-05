@@ -20,6 +20,13 @@
           "settings": {
           }
         },
+        "ad87a4cd-2ca2-4291-941f-415588b89105": {
+          "type": "text",
+          "settings": {
+            "text": "Free shipping worldwide",
+            "text_style": "subtitle"
+          }
+        },
         "loox-rating": {
           "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-rating\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
@@ -38,13 +45,6 @@
           "type": "variant_picker",
           "settings": {
             "picker_type": "button"
-          }
-        },
-        "ad87a4cd-2ca2-4291-941f-415588b89105": {
-          "type": "text",
-          "settings": {
-            "text": "Free shipping worldwide",
-            "text_style": "subtitle"
           }
         },
         "quantity_selector": {
@@ -112,9 +112,9 @@
         "caption",
         "title",
         "price",
+        "ad87a4cd-2ca2-4291-941f-415588b89105",
         "loox-rating",
         "variant_picker",
-        "ad87a4cd-2ca2-4291-941f-415588b89105",
         "quantity_selector",
         "buy_buttons",
         "description",
