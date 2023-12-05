@@ -4,6 +4,7 @@
     "type_header_font": "assistant_n7",
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
+    "card_style": "standard",
     "card_text_alignment": "center",
     "badge_position": "top left",
     "social_pinterest_link": "https:\/\/www.pinterest.dk\/twelveinchofficial\/",
