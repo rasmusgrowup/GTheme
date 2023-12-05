@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_title": "Display your album covers with The Original",
-            "text": "<p>USE YOUR FAVOURITE ALBUM COVERS TO CREATE BEAUTIFUL ART GALLERIES IN YOUR HOME. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
+            "text": "<p>USE YOUR FAVOURITE ALBUM COVERS TO CREATE BEAUTIFUL ART GALLERIES IN YOUR HOME<\/p>",
             "url": "shopify:\/\/pages\/original",
             "url_text": "Learn more",
             "center": false,
@@ -134,6 +134,7 @@
         "image",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "top_element": false,
         "flip_direction": true,
@@ -143,6 +144,12 @@
     "16475055508970c092": {
       "type": "flexSection",
       "blocks": {
+        "1647505550e3f5f10a-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Overordnet-Session8718_b8f645d0-062f-4773-9114-675129cbad35.jpg"
+          }
+        },
         "1647505550e3f5f10a-0": {
           "type": "text",
           "settings": {
@@ -154,17 +161,11 @@
             "social_proof": false,
             "social_proof_text": "X.X in average rating on amazon.com"
           }
-        },
-        "1647505550e3f5f10a-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session8718_b8f645d0-062f-4773-9114-675129cbad35.jpg"
-          }
         }
       },
       "block_order": [
-        "1647505550e3f5f10a-0",
-        "1647505550e3f5f10a-1"
+        "1647505550e3f5f10a-1",
+        "1647505550e3f5f10a-0"
       ],
       "settings": {
         "top_element": false,
@@ -327,7 +328,7 @@
       "type": "apps",
       "blocks": {
         "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c": {
-          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-gallery-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-gallery-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
             "maxWidth": 1100,
             "borderRadius": 60,
