@@ -42,11 +42,17 @@
           "241acc6c-9c30-4ca9-8f63-61c87d36150d",
           "3b00b7bb-ba28-4dd8-872e-b079147ec3c6"
         ],
+        "custom_css": [
+          ".announcement-bar {position: fixed; width: 100%;}"
+        ],
         "settings": {
         }
       },
       "header": {
         "type": "header",
+        "custom_css": [
+          ".header {margin-top: 3rem}"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/Logo_registered.png",
