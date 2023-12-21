@@ -191,6 +191,7 @@
         "1647505550e3f5f10a-1",
         "1647505550e3f5f10a-0"
       ],
+      "disabled": true,
       "settings": {
         "top_element": false,
         "flip_direction": false,
