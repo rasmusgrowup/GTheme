@@ -13,7 +13,7 @@
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p>We’ll try to answer all of your questions below, but if we are unsuccessful, please do not hesitate to reach out to us on the mail below.<\/p><p><strong><br\/><\/strong>Twelve Inch Aps<br\/>Middelfartvej 414<br\/>5491 Blommenslyst<br\/>Denmark<br\/>Phone: +45 23 43 34 64<br\/><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a><\/p>"
+            "text": "<p>We’ll try to answer all of your questions below, but if we are unsuccessful, please do not hesitate to reach out to us on the mail below.<\/p><p><strong><br\/><\/strong>Twelve Inch Aps<br\/>Middelfartvej 414<br\/>5491 Blommenslyst<br\/>Denmark<br\/>Phone: <a href=\"tel:23433464\" title=\"tel:23433464\">+45 23 43 34 64<\/a><br\/><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com<\/a><\/p>"
           }
         }
       },
