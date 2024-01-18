@@ -43,7 +43,7 @@
           "3b00b7bb-ba28-4dd8-872e-b079147ec3c6"
         ],
         "custom_css": [
-          ".announcement-bar {position: fixed; width: 100%;}"
+
         ],
         "settings": {
         }
@@ -51,7 +51,7 @@
       "header": {
         "type": "header",
         "custom_css": [
-          ".header {margin-top: 3rem;}"
+
         ],
         "settings": {
           "color_scheme": "background-1",
