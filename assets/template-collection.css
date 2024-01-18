@@ -56,7 +56,7 @@
 
 .collection_title {
   text-align: center;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .collection_title h2 {

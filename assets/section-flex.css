@@ -58,7 +58,7 @@
 .flex_text_content {
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   height: 100%;
   padding: 3.6rem;
   width: 100%;
@@ -95,7 +95,7 @@
 .flex_text_content h1 strong {
   font-size: max(2.6vw, 24px);
   line-height: 1.2;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .flex_content_paragraph {
@@ -103,7 +103,7 @@
   font-size: max(2.4vw, 24px);
   font-weight: bold;
   line-height: 1.2;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .center_this_column {
@@ -134,7 +134,7 @@
   margin-bottom: 1.2rem;
   margin-top: 2.6rem;
   font-weight: bold;
-  text-align: right;
+  /*text-align: right;*/
   text-decoration: none;
   text-transform: uppercase;
 }
