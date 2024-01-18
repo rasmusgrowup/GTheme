@@ -326,14 +326,14 @@ a.product__text {
 }
 
 .product__text.caption-with-letter-spacing {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .product__title {
   font-size: 2.4rem;
   word-break: break-word;
   margin-bottom: 1.5rem;
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .product__title + .product__text.caption-with-letter-spacing {

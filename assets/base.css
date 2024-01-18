@@ -498,7 +498,7 @@ blockquote {
   font-size: 1rem;
   letter-spacing: 0.13rem;
   line-height: calc(1 + 0.2 / var(--font-body-scale));
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 
 .caption-with-letter-spacing--medium {
@@ -2126,7 +2126,7 @@ input[type='checkbox'] {
 }
 
 .shopify-section-header-hidden {
-  transform: translateY(-100%);
+  /*transform: translateY(-100%);*/
 }
 
 .shopify-section-header-hidden.menu-open {
