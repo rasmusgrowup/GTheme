@@ -2,7 +2,8 @@
   "current": {
     "colors_accent_1": "#00a32a",
     "colors_accent_2": "#ff6666",
-    "type_header_font": "assistant_n7",
+    "type_header_font": "source_sans_pro_n4",
+    "type_body_font": "source_sans_pro_n4",
     "spacing_grid_horizontal": 12,
     "spacing_grid_vertical": 12,
     "card_style": "standard",
