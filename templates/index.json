@@ -25,7 +25,7 @@
         "37dc0bd3-e0ac-4788-8270-870543d8d845": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_DSCF1938.jpg"
+            "image": "shopify:\/\/shop_images\/Hero_54_DSCF1938.jpg"
           }
         }
       },
@@ -57,13 +57,13 @@
       "blocks": {
         "image": {
           "type": "image",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_1d13900d-fc78-4734-b3ba-2a0297c7ab45.jpg"
+            "image": "shopify:\/\/shop_images\/Original_square_DSCF1664.jpg"
           }
         },
         "c51b983e-5cdb-4e43-b2e4-eb9bc75a6a33": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_url": "https:\/\/vimeo.com\/896875644"
           }
@@ -109,13 +109,13 @@
         },
         "image": {
           "type": "image",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Overordnet-Session1584.jpg"
           }
         },
         "8884c31f-b5a0-4619-91b9-4ad40ec74cfb": {
           "type": "video",
+          "disabled": true,
           "settings": {
             "video_url": "https:\/\/vimeo.com\/896876329"
           }
@@ -308,7 +308,7 @@
         "1658394827e24226a2-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_webshop_2.jpg"
+            "image": "shopify:\/\/shop_images\/EmptyName-60_xd_a286e3bd-f2f1-48a7-8f5b-1de98730c0af.jpg"
           }
         }
       },
