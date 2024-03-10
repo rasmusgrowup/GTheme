@@ -15,13 +15,6 @@
           "settings": {
           }
         },
-        "ad87a4cd-2ca2-4291-941f-415588b89105": {
-          "type": "text",
-          "settings": {
-            "text": "Free shipping worldwide",
-            "text_style": "subtitle"
-          }
-        },
         "price": {
           "type": "price",
           "settings": {
@@ -112,7 +105,6 @@
       "block_order": [
         "caption",
         "title",
-        "ad87a4cd-2ca2-4291-941f-415588b89105",
         "price",
         "loox-rating",
         "variant_picker",
@@ -160,7 +152,8 @@
             "aggregated": false,
             "limit": 20,
             "hide_thumbnails": false,
-            "maxwidth": 1080
+            "maxwidth": 1080,
+            "is_sample": true
           }
         }
       },
