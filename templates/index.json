@@ -6,7 +6,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Free shipping worldwide",
+            "text_title": "",
             "text": "<p>Transform Vinyl Records into Captivating Art Galleries with Twelve Inch<\/p>",
             "url": "shopify:\/\/collections\/our-products",
             "url_text": "Shop now",
@@ -308,7 +308,6 @@
         "1658394827e24226a2-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-60_xd_a286e3bd-f2f1-48a7-8f5b-1de98730c0af.jpg"
           }
         }
       },
