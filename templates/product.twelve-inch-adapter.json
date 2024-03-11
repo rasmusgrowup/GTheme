@@ -186,7 +186,7 @@
         "image_MaE9MG": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8597_xd.jpg"
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-11_xd_580c88a2-9504-4fe5-bc5e-4b07ddc5cd40.jpg"
           }
         }
       },
@@ -206,14 +206,14 @@
         "image_DPh78y": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8615_xd.jpg"
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-15_xd_40b791a7-05e3-4ed6-a5b0-6d8924fdf5e8.jpg"
           }
         },
         "text_UFz7Wp": {
           "type": "text",
           "settings": {
-            "text_title": "Slide the big disc inside the album ",
-            "text": "<p>Carefully insert the ring disc into the back of your album jacket.<\/p>",
+            "text_title": "Mount the adapter",
+            "text": "<p>Mount the adapter disc in the middle of the record.<\/p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -238,8 +238,8 @@
         "text_pKjzfW": {
           "type": "text",
           "settings": {
-            "text_title": "Attach to the wall",
-            "text": "<p>Hold the album up against the magnet. Adjust and carefully let go of the album. Et voila, your album is now displayed on the wall.<\/p>",
+            "text_title": "Lock the screw",
+            "text": "<p>Lock the mount to the record by screwing on the adapter-looking gear.<\/p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -250,13 +250,45 @@
         "image_mz86f3": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd_585fa6e7-6fc6-4052-a20d-ffd12af49303.jpg"
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-17_xd_baa1108f-a433-4ade-b153-5edb5749621a.jpg"
           }
         }
       },
       "block_order": [
         "text_pKjzfW",
         "image_mz86f3"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "flex_section_yDxmMm": {
+      "type": "flexSection",
+      "blocks": {
+        "image_YYXYWL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lifestyle-2020-18_xd.jpg"
+          }
+        },
+        "text_Yj9YDF": {
+          "type": "text",
+          "settings": {
+            "text_title": "Titel",
+            "text": "<p><strong>Hold the record up against the wall mounted disc. Adjust the record, ensure that it is fitted correctly, and carefully let go of the record. Easy-peasy!<\/strong><\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "image_YYXYWL",
+        "text_Yj9YDF"
       ],
       "settings": {
         "top_element": false,
@@ -284,6 +316,7 @@
     "flex_section_fEJFRz",
     "flex_section_BmyKt8",
     "flex_section_i4eG47",
+    "flex_section_yDxmMm",
     "1646064250c7134bad"
   ]
 }
