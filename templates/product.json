@@ -59,6 +59,7 @@
         },
         "7068e059-5cd9-4e10-a7a9-4f75eacf5942": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Return Policy",
             "icon": "return",
@@ -68,6 +69,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Materials",
             "icon": "leather",
@@ -77,6 +79,7 @@
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Packaging Dimensions",
             "icon": "ruler",
