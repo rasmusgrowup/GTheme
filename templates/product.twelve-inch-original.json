@@ -168,6 +168,102 @@
         "include_padding": true
       }
     },
+    "flex_section_fEJFRz": {
+      "type": "flexSection",
+      "blocks": {
+        "text_Kdz6Yf": {
+          "type": "text",
+          "settings": {
+            "text_title": "Fix the magnetic disc to the wall ",
+            "text": "<p>Attach the magnetic disc to your wall with the included screw. Use a suitable raw plug.<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        },
+        "image_MaE9MG": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8597_xd.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "text_Kdz6Yf",
+        "image_MaE9MG"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "flex_section_BmyKt8": {
+      "type": "flexSection",
+      "blocks": {
+        "image_DPh78y": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8615_xd.jpg"
+          }
+        },
+        "text_UFz7Wp": {
+          "type": "text",
+          "settings": {
+            "text_title": "Slide the big disc inside the album ",
+            "text": "<p>Carefully insert the ring disc into the back of your album jacket.<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "image_DPh78y",
+        "text_UFz7Wp"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
+    "flex_section_i4eG47": {
+      "type": "flexSection",
+      "blocks": {
+        "text_pKjzfW": {
+          "type": "text",
+          "settings": {
+            "text_title": "Attach to the wall",
+            "text": "<p>Hold the album up against the magnet. Adjust and carefully let go of the album. Et voila, your album is now displayed on the wall.<\/p>",
+            "url": "",
+            "url_text": "",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        },
+        "image_mz86f3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd_585fa6e7-6fc6-4052-a20d-ffd12af49303.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "text_pKjzfW",
+        "image_mz86f3"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "1646064250c7134bad": {
       "type": "flexCollection",
       "settings": {
@@ -185,6 +281,9 @@
     "main",
     "product-recommendations",
     "loox-product-reviews-app-section",
+    "flex_section_fEJFRz",
+    "flex_section_BmyKt8",
+    "flex_section_i4eG47",
     "1646064250c7134bad"
   ]
 }
