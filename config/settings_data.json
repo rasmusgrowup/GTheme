@@ -31,10 +31,19 @@
               "color_scheme": "inverse",
               "link": ""
             }
+          },
+          "announcement_L8DYqE": {
+            "type": "announcement",
+            "settings": {
+              "text": "We have added new languages - German, French and Danish | scroll to the bottom and select!",
+              "color_scheme": "accent-1",
+              "link": ""
+            }
           }
         },
         "block_order": [
-          "241acc6c-9c30-4ca9-8f63-61c87d36150d"
+          "241acc6c-9c30-4ca9-8f63-61c87d36150d",
+          "announcement_L8DYqE"
         ],
         "custom_css": [
 
