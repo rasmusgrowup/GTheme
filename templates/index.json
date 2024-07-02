@@ -199,6 +199,38 @@
         "column_ratio": "equal_widths"
       }
     },
+    "flex_section_yRjVN6": {
+      "type": "flexSection",
+      "blocks": {
+        "image_7wy3Tr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B01F3OY0K8.FRNT.jpg"
+          }
+        },
+        "text_yrGDzF": {
+          "type": "text",
+          "settings": {
+            "text_title": "New Blog Post",
+            "text": "<p>Vinyl records capture memories and stories through their artwork and sound. At Twelve Inch, we celebrate ...<\/p>",
+            "url": "shopify:\/\/blogs\/news\/why-a-wall-of-record-albums-is-a-good-idea",
+            "url_text": "Read more",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "image_7wy3Tr",
+        "text_yrGDzF"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "full_width_first": {
       "type": "flexSection",
       "blocks": {
@@ -352,6 +384,7 @@
     },
     "featured_blog_97jwpb": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "heading": "Read our blog...",
         "blog": "news",
@@ -364,38 +397,6 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "flex_section_yRjVN6": {
-      "type": "flexSection",
-      "blocks": {
-        "text_yrGDzF": {
-          "type": "text",
-          "settings": {
-            "text_title": "New Blog Post",
-            "text": "<p>Vinyl records capture memories and stories through their artwork and sound. At Twelve Inch, we celebrate ...<\/p>",
-            "url": "shopify:\/\/blogs\/news\/why-a-wall-of-record-albums-is-a-good-idea",
-            "url_text": "Read more",
-            "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
-          }
-        },
-        "image_7wy3Tr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/B01F3OY0K8.FRNT.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "text_yrGDzF",
-        "image_7wy3Tr"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
     }
   },
   "order": [
@@ -405,12 +406,12 @@
     "adapter",
     "frameless",
     "16475055508970c092",
+    "flex_section_yRjVN6",
     "full_width_first",
     "full_width_second",
     "story_and_amazon",
     "16583948278d116140",
     "support_and_image",
-    "featured_blog_97jwpb",
-    "flex_section_yRjVN6"
+    "featured_blog_97jwpb"
   ]
 }
