@@ -365,36 +365,36 @@
         "padding_bottom": 36
       }
     },
-    "16627387195a3a2a18": {
-      "type": "apps",
+    "flex_section_yRjVN6": {
+      "type": "flexSection",
       "blocks": {
-        "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c": {
-          "type": "shopify:\/\/apps\/loox-reviews\/blocks\/loox-gallery-carousel-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+        "text_yrGDzF": {
+          "type": "text",
           "settings": {
-            "maxWidth": 1100,
-            "borderRadius": 60,
-            "itemsPerView": 5,
-            "mobileItemsPerView": 1,
-            "imageRatio": "1",
-            "reviewerNameColor": "#ffffff",
-            "starsColor": "#ffffff",
-            "arrows_backgroundColor": "#ffffff",
-            "arrows_iconColor": "#9a9a9a",
-            "shadow": "none",
-            "border_active": false,
-            "border_width": 2,
-            "border_color": "#000000",
-            "productIds": ""
+            "text_title": "New Blog Post",
+            "text": "<p>Vinyl records capture memories and stories through their artwork and sound. At Twelve Inch, we celebrate ...<\/p>",
+            "url": "shopify:\/\/blogs\/news\/why-a-wall-of-record-albums-is-a-good-idea",
+            "url_text": "Read more",
+            "center": false,
+            "social_proof": false,
+            "social_proof_text": "X.X in average rating on amazon.com"
+          }
+        },
+        "image_7wy3Tr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/B01F3OY0K8.FRNT.jpg"
           }
         }
       },
       "block_order": [
-        "8ce7707d-e39a-4fbb-ba36-d9eaa5c3c49c"
+        "text_yrGDzF",
+        "image_7wy3Tr"
       ],
-      "disabled": true,
       "settings": {
-        "include_margins": true,
-        "include_padding": true
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
       }
     }
   },
@@ -411,6 +411,6 @@
     "16583948278d116140",
     "support_and_image",
     "featured_blog_97jwpb",
-    "16627387195a3a2a18"
+    "flex_section_yRjVN6"
   ]
 }
