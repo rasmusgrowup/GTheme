@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "colors_accent_1": "#00a32a",
@@ -40,11 +49,20 @@
               "color_scheme": "inverse",
               "link": ""
             }
+          },
+          "announcement_CLqgJU": {
+            "type": "announcement",
+            "settings": {
+              "text": "Great Summer Sales - save up till 30% on our Amazon UK site - read more here...",
+              "color_scheme": "accent-1",
+              "link": "shopify:\/\/blogs\/news\/summer-savings-alert-30-off-twelve-inch-4eco"
+            }
           }
         },
         "block_order": [
           "241acc6c-9c30-4ca9-8f63-61c87d36150d",
-          "announcement_L8DYqE"
+          "announcement_L8DYqE",
+          "announcement_CLqgJU"
         ],
         "custom_css": [
 
