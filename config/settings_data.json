@@ -54,7 +54,7 @@
             "type": "announcement",
             "settings": {
               "text": "Great Summer Sales - save up till 30% on our Amazon UK site - read more here...",
-              "color_scheme": "background-2",
+              "color_scheme": "accent-2",
               "link": "shopify:\/\/blogs\/news\/summer-savings-alert-30-off-twelve-inch-4eco"
             }
           }
