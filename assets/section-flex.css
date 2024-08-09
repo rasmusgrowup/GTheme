@@ -232,3 +232,38 @@
   margin: 0 auto 1rem;
   max-width: 100%;
 }
+
+/* !!! BLOG POST BLOCK STYLING !!! */
+
+.blog_post_image {
+  display: block;
+  height: 33vw;
+  object-fit: cover;
+  width: 100%;
+}
+
+.blog_post_header {
+  display: block;
+  font-size: max(1.5vw, 16px);
+  font-weight: normal;
+  margin: 0 0 1rem 0;
+}
+
+.blog_post_title {
+  color: rgb(var(--color-foreground));
+  font-size: max(2.4vw, 24px);
+  font-weight: bold;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.blog_content {
+  border-top: 1px solid rgba(var(--color-foreground), 1);
+  padding: 3.6rem 1.5rem;
+}
+
+@media only screen and (max-width: 749px) {
+  .blog_post_image {
+    height: 100vw;
+  }
+}
