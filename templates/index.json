@@ -202,28 +202,29 @@
     "flex_section_yRjVN6": {
       "type": "flexSection",
       "blocks": {
-        "image_7wy3Tr": {
-          "type": "image",
+        "article_BNBHtF": {
+          "type": "article",
           "settings": {
-            "image": "shopify:\/\/shop_images\/B01F3OY0K8.FRNT.jpg"
+            "article": "news\/outlet-blowout-massive-cut-on-twelve-inch-4eco"
           }
         },
-        "text_yrGDzF": {
-          "type": "text",
+        "article_fqHnMy": {
+          "type": "article",
           "settings": {
-            "text_title": "New Blog Post",
-            "text": "<p>Vinyl records capture memories and stories through their artwork and sound. At Twelve Inch, we celebrate ...<\/p>",
-            "url": "shopify:\/\/blogs\/news\/why-a-wall-of-record-albums-is-a-good-idea",
-            "url_text": "Read more",
-            "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
+            "article": "news\/why-a-wall-of-record-albums-is-a-good-idea"
+          }
+        },
+        "article_8hrT7j": {
+          "type": "article",
+          "settings": {
+            "article": "news\/summer-savings-alert-30-off-twelve-inch-4eco"
           }
         }
       },
       "block_order": [
-        "image_7wy3Tr",
-        "text_yrGDzF"
+        "article_BNBHtF",
+        "article_fqHnMy",
+        "article_8hrT7j"
       ],
       "settings": {
         "top_element": false,
