@@ -50,30 +50,19 @@
               "link": ""
             }
           },
-          "announcement_CLqgJU": {
+          "announcement_HKGzfC": {
             "type": "announcement",
-            "disabled": true,
             "settings": {
-              "text": "Great Summer Sales - save up till 30% on our Amazon UK site - read more here...",
-              "color_scheme": "background-2",
-              "link": "shopify:\/\/blogs\/news\/summer-savings-alert-30-off-twelve-inch-4eco"
-            }
-          },
-          "announcement_xJRMqQ": {
-            "type": "announcement",
-            "disabled": true,
-            "settings": {
-              "text": "Or, try our Outlet Deal on the US Amazon site - see more here",
-              "color_scheme": "background-2",
-              "link": "shopify:\/\/blogs\/news\/outlet-blowout-massive-cut-on-twelve-inch-4eco"
+              "text": "Our Twelve Inch Adapter is currently sold out, but we estimate new inventory start of October...",
+              "color_scheme": "accent-1",
+              "link": ""
             }
           }
         },
         "block_order": [
           "241acc6c-9c30-4ca9-8f63-61c87d36150d",
           "announcement_L8DYqE",
-          "announcement_CLqgJU",
-          "announcement_xJRMqQ"
+          "announcement_HKGzfC"
         ],
         "custom_css": [
 
