@@ -13,5 +13,12 @@
     "market": "japan"
   },
   "sections": {
+    "collection": {
+      "settings": {
+        "collection": "jp-collection"
+      },
+      "blocks": {
+      }
+    }
   }
 }
