@@ -13,5 +13,12 @@
     "market": "us"
   },
   "sections": {
+    "collection": {
+      "settings": {
+        "collection": "us-collection"
+      },
+      "blocks": {
+      }
+    }
   }
 }
