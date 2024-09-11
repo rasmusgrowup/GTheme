@@ -36,6 +36,7 @@
         "blocks": {
           "241acc6c-9c30-4ca9-8f63-61c87d36150d": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "⭐️ 4.6 in ratings on Amazon | Worldwide shipping | Easy return",
               "color_scheme": "inverse",
@@ -44,6 +45,7 @@
           },
           "announcement_L8DYqE": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "We have added new languages - German, French, Espanol and Danish | scroll to the bottom and select!",
               "color_scheme": "inverse",
@@ -52,6 +54,7 @@
           },
           "announcement_HKGzfC": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Our Twelve Inch Adapter is currently sold out, but we estimate new inventory start of October...",
               "color_scheme": "background-2",
