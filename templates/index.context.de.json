@@ -19,6 +19,13 @@
       },
       "blocks": {
       }
+    },
+    "collection": {
+      "settings": {
+        "collection": "eu-collection"
+      },
+      "blocks": {
+      }
     }
   }
 }
