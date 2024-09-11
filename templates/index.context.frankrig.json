@@ -13,5 +13,12 @@
     "market": "frankrig"
   },
   "sections": {
+    "collection": {
+      "settings": {
+        "collection": "eu-collection"
+      },
+      "blocks": {
+      }
+    }
   }
 }

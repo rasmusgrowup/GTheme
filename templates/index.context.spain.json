@@ -13,5 +13,12 @@
     "market": "spain"
   },
   "sections": {
+    "collection": {
+      "settings": {
+        "collection": "eu-collection"
+      },
+      "blocks": {
+      }
+    }
   }
 }

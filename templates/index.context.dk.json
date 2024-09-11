@@ -13,5 +13,12 @@
     "market": "dk"
   },
   "sections": {
+    "collection": {
+      "settings": {
+        "collection": "eu-collection"
+      },
+      "blocks": {
+      }
+    }
   }
 }
