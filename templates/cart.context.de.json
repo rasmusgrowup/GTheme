@@ -10,15 +10,8 @@
 {
   "parent": "cart.json",
   "context": {
-    "market": "frankrig"
+    "market": "de"
   },
   "sections": {
-    "1649169871512806c0": {
-      "settings": {
-        "collection": "eu-collection"
-      },
-      "blocks": {
-      }
-    }
   }
 }
