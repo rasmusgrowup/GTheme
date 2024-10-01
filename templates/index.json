@@ -45,7 +45,7 @@
       "type": "flexCollection",
       "settings": {
         "title": "Our products",
-        "collection": "eu-collection",
+        "collection": "our-products",
         "products_to_show": 3,
         "show_view_all": true,
         "swipe_on_mobile": true,
