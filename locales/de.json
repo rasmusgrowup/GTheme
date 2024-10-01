@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin language editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "general": {
     "password_page": {
@@ -410,6 +419,13 @@
       "expired": "Abgelaufen",
       "copy_code_success": "Code erfolgreich kopiert",
       "print_gift_card": "Drucken"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "field_errors": {
+        "split_cart_international_shipping_not_supported": "Beim internationalen Versand müssen alle Artikel mit derselben Versandmethode versendet werden. Aktualisieren Sie die Versandmethode oder erstellen Sie mehrere Bestellungen."
+      }
     }
   }
 }
