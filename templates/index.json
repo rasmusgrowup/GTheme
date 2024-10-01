@@ -16,8 +16,8 @@
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p>Transform Vinyl Records into Captivating Art Galleries with Twelve Inch<\/p>",
-            "url": "shopify:\/\/collections\/our-products",
+            "text": "<p>Transform Vinyl Records into Captivating Art Galleries with Twelve Inch</p>",
+            "url": "shopify://collections/our-products",
             "url_text": "Shop now",
             "center": false,
             "social_proof": true,
@@ -27,7 +27,7 @@
         "37dc0bd3-e0ac-4788-8270-870543d8d845": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_54_DSCF1938.jpg"
+            "image": "shopify://shop_images/Hero_54_DSCF1938.jpg"
           }
         }
       },
@@ -45,7 +45,7 @@
       "type": "flexCollection",
       "settings": {
         "title": "Our products",
-        "collection": "our-products",
+        "collection": "eu-collection",
         "products_to_show": 3,
         "show_view_all": true,
         "swipe_on_mobile": true,
@@ -59,22 +59,22 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Original_square_DSCF1664.jpg"
+            "image": "shopify://shop_images/Original_square_DSCF1664.jpg"
           }
         },
         "c51b983e-5cdb-4e43-b2e4-eb9bc75a6a33": {
           "type": "video",
           "disabled": true,
           "settings": {
-            "video_url": "https:\/\/vimeo.com\/896875644"
+            "video_url": "https://vimeo.com/896875644"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_title": "Display your album covers with The Original",
-            "text": "<p>Use your favourite album covers to create beautiful art galleries in your home<\/p>",
-            "url": "shopify:\/\/pages\/original",
+            "text": "<p>Use your favourite album covers to create beautiful art galleries in your home</p>",
+            "url": "shopify://pages/original",
             "url_text": "Learn how the original works",
             "center": false,
             "social_proof": false,
@@ -100,8 +100,8 @@
           "type": "text",
           "settings": {
             "text_title": "Display your vinyl records with The Adapter",
-            "text": "<p>Decorate your walls with your favourite special-edition vinyl records or picture discs<\/p>",
-            "url": "shopify:\/\/pages\/adapter",
+            "text": "<p>Decorate your walls with your favourite special-edition vinyl records or picture discs</p>",
+            "url": "shopify://pages/adapter",
             "url_text": "Learn how the Adapter works",
             "center": false,
             "social_proof": false,
@@ -111,14 +111,14 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1584.jpg"
+            "image": "shopify://shop_images/Overordnet-Session1584.jpg"
           }
         },
         "8884c31f-b5a0-4619-91b9-4ad40ec74cfb": {
           "type": "video",
           "disabled": true,
           "settings": {
-            "video_url": "https:\/\/vimeo.com\/896876329"
+            "video_url": "https://vimeo.com/896876329"
           }
         }
       },
@@ -139,15 +139,15 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21.jpg"
+            "image": "shopify://shop_images/Twelve-Inch-Lifestyle-2018-21.jpg"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_title": "Frameless and easy",
-            "text": "<p>BECAUSE OUR DESIGN IS FRAMELESS, YOU CAN CHANGE THE ALBUM on display in a moment. STORE THE RECORD INSIDE THE COVER FOR QUICK ACCESS<\/p>",
-            "url": "shopify:\/\/collections\/our-products",
+            "text": "<p>BECAUSE OUR DESIGN IS FRAMELESS, YOU CAN CHANGE THE ALBUM on display in a moment. STORE THE RECORD INSIDE THE COVER FOR QUICK ACCESS</p>",
+            "url": "shopify://collections/our-products",
             "url_text": "Shop our products",
             "center": false,
             "social_proof": false,
@@ -172,15 +172,15 @@
         "1647505550e3f5f10a-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session8718_b8f645d0-062f-4773-9114-675129cbad35.jpg"
+            "image": "shopify://shop_images/Overordnet-Session8718_b8f645d0-062f-4773-9114-675129cbad35.jpg"
           }
         },
         "1647505550e3f5f10a-0": {
           "type": "text",
           "settings": {
             "text_title": "Also works with gatefolded albums",
-            "text": "<p>Use a pair of Twelve Inch Original to showcase gatefolded albums opened up on the wall<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-4eco",
+            "text": "<p>Use a pair of Twelve Inch Original to showcase gatefolded albums opened up on the wall</p>",
+            "url": "shopify://products/twelve-inch-4eco",
             "url_text": "Buy Twelve Inch 4ECO",
             "center": false,
             "social_proof": false,
@@ -205,19 +205,19 @@
         "article_BNBHtF": {
           "type": "article",
           "settings": {
-            "article": "news\/outlet-blowout-massive-cut-on-twelve-inch-4eco"
+            "article": "news/outlet-blowout-massive-cut-on-twelve-inch-4eco"
           }
         },
         "article_fqHnMy": {
           "type": "article",
           "settings": {
-            "article": "news\/why-a-wall-of-record-albums-is-a-good-idea"
+            "article": "news/why-a-wall-of-record-albums-is-a-good-idea"
           }
         },
         "article_8hrT7j": {
           "type": "article",
           "settings": {
-            "article": "news\/summer-savings-alert-30-off-twelve-inch-4eco"
+            "article": "news/summer-savings-alert-30-off-twelve-inch-4eco"
           }
         }
       },
@@ -239,7 +239,7 @@
           "type": "text",
           "settings": {
             "text_title": "Turn your record collection into art galleries",
-            "text": "<p>Your record collection is a treasure chest full of historical art work — decorate your home with your personal records<\/p>",
+            "text": "<p>Your record collection is a treasure chest full of historical art work — decorate your home with your personal records</p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -263,7 +263,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_webshop_4_fd078bf4-0773-4dab-8953-2529301358c9.jpg"
+            "image": "shopify://shop_images/Hero_webshop_4_fd078bf4-0773-4dab-8953-2529301358c9.jpg"
           }
         }
       },
@@ -284,8 +284,8 @@
           "disabled": true,
           "settings": {
             "text_title": "What is Twelve Inch?",
-            "text": "<p>We are a small family owned company, that design and produce accessory products that can be used to display and store vinyl records in the home in exciting ways<\/p>",
-            "url": "shopify:\/\/pages\/about",
+            "text": "<p>We are a small family owned company, that design and produce accessory products that can be used to display and store vinyl records in the home in exciting ways</p>",
+            "url": "shopify://pages/about",
             "url_text": "Read our story",
             "center": true,
             "social_proof": false,
@@ -296,7 +296,7 @@
           "type": "review",
           "settings": {
             "text_title": "4.6 in average rating on amazon.com",
-            "text": "<p>“This did exactly what I needed it to. It displays my records subtly without marring my walls too much. It was easy to mount and use.”<br\/><br\/>— A. Flynn<\/p>",
+            "text": "<p>“This did exactly what I needed it to. It displays my records subtly without marring my walls too much. It was easy to mount and use.”<br/><br/>— A. Flynn</p>",
             "center": true
           }
         },
@@ -304,8 +304,8 @@
           "type": "text",
           "settings": {
             "text_title": "www.yoursoundmatter.com says",
-            "text": "<p>\"The Twelve Inch products are elegantly designed, simple to use and allow the individual to get creative in making stunning vinyl displays that make your listening space pop.\"<\/p>",
-            "url": "https:\/\/www.yoursoundmatters.com\/twelve-inch-magnet-vinyl-display-system-review\/",
+            "text": "<p>\"The Twelve Inch products are elegantly designed, simple to use and allow the individual to get creative in making stunning vinyl displays that make your listening space pop.\"</p>",
+            "url": "https://www.yoursoundmatters.com/twelve-inch-magnet-vinyl-display-system-review/",
             "url_text": "Full review",
             "center": true,
             "social_proof": false,
@@ -331,8 +331,8 @@
           "type": "text",
           "settings": {
             "text_title": "What is Twelve Inch",
-            "text": "<p>WE ARE A SMALL FAMILY OWNED COMPANY, THAT DESIGN AND PRODUCE ACCESSORY PRODUCTS THAT CAN BE USED TO DISPLAY AND STORE VINYL RECORDS IN THE HOME IN EXCITING WAYS<\/p>",
-            "url": "shopify:\/\/pages\/about",
+            "text": "<p>WE ARE A SMALL FAMILY OWNED COMPANY, THAT DESIGN AND PRODUCE ACCESSORY PRODUCTS THAT CAN BE USED TO DISPLAY AND STORE VINYL RECORDS IN THE HOME IN EXCITING WAYS</p>",
+            "url": "shopify://pages/about",
             "url_text": "Read more",
             "center": true,
             "social_proof": false,
@@ -342,7 +342,7 @@
         "1658394827e24226a2-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21.jpg"
+            "image": "shopify://shop_images/Twelve-Inch-Lifestyle-2018-21.jpg"
           }
         }
       },
@@ -363,10 +363,10 @@
           "type": "support",
           "settings": {
             "text_title": "Support",
-            "text": "<p>Do you need help? Check out the resources below or contact us directly<\/p>",
-            "first_url": "shopify:\/\/pages\/faq",
+            "text": "<p>Do you need help? Check out the resources below or contact us directly</p>",
+            "first_url": "shopify://pages/faq",
             "first_link_text": "see frequently asked questions",
-            "second_url": "shopify:\/\/pages\/contact",
+            "second_url": "shopify://pages/contact",
             "second_link_text": "get in contact",
             "third_url": "#",
             "third_link_text": "",
