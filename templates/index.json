@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "hero": {
@@ -219,12 +219,19 @@
           "settings": {
             "article": "news/summer-savings-alert-30-off-twelve-inch-4eco"
           }
+        },
+        "article_McmDWE": {
+          "type": "article",
+          "settings": {
+            "article": ""
+          }
         }
       },
       "block_order": [
         "article_BNBHtF",
         "article_fqHnMy",
-        "article_8hrT7j"
+        "article_8hrT7j",
+        "article_McmDWE"
       ],
       "settings": {
         "top_element": false,
