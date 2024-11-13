@@ -202,10 +202,10 @@
     "flex_section_yRjVN6": {
       "type": "flexSection",
       "blocks": {
-        "article_BNBHtF": {
+        "article_McmDWE": {
           "type": "article",
           "settings": {
-            "article": "news/autumn-sales"
+            "article": ""
           }
         },
         "article_fqHnMy": {
@@ -214,24 +214,17 @@
             "article": "news/why-a-wall-of-record-albums-is-a-good-idea"
           }
         },
-        "article_8hrT7j": {
+        "article_BNBHtF": {
           "type": "article",
           "settings": {
-            "article": "news/summer-savings-alert-30-off-twelve-inch-4eco"
-          }
-        },
-        "article_McmDWE": {
-          "type": "article",
-          "settings": {
-            "article": ""
+            "article": "news/autumn-sales"
           }
         }
       },
       "block_order": [
-        "article_BNBHtF",
+        "article_McmDWE",
         "article_fqHnMy",
-        "article_8hrT7j",
-        "article_McmDWE"
+        "article_BNBHtF"
       ],
       "settings": {
         "top_element": false,
