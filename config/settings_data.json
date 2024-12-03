@@ -47,7 +47,7 @@
             "type": "announcement",
             "settings": {
               "text": "News news! - The new Adapter in cork is here - read more here...",
-              "color_scheme": "accent-1",
+              "color_scheme": "inverse",
               "link": ""
             }
           }
