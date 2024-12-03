@@ -202,6 +202,12 @@
     "flex_section_yRjVN6": {
       "type": "flexSection",
       "blocks": {
+        "article_Pj4AnL": {
+          "type": "article",
+          "settings": {
+            "article": "news/introducing-the-new-twelve-inch-adapter"
+          }
+        },
         "article_McmDWE": {
           "type": "article",
           "settings": {
@@ -222,6 +228,7 @@
         }
       },
       "block_order": [
+        "article_Pj4AnL",
         "article_McmDWE",
         "article_fqHnMy",
         "article_BNBHtF"
