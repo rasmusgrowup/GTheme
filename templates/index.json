@@ -41,6 +41,38 @@
         "column_ratio": "equal_widths"
       }
     },
+    "flex_section_mdDcxM": {
+      "type": "flexSection",
+      "blocks": {
+        "image_mXiqUY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Vinyl-Christmas_Adapter.png"
+          }
+        },
+        "text_bY6LR3": {
+          "type": "text",
+          "settings": {
+            "text_title": "Get it before Christmas...",
+            "text": "<p>The new Adapter is here, with stronger pullforce and made in cork - all to protect your vinyl record when displayed on the wall</p>",
+            "url": "shopify://blogs/news/introducing-the-new-twelve-inch-adapter",
+            "url_text": "See our blogpost on the new Adapter",
+            "center": false,
+            "social_proof": true,
+            "social_proof_text": "4.5 in average rating on amazon.com"
+          }
+        }
+      },
+      "block_order": [
+        "image_mXiqUY",
+        "text_bY6LR3"
+      ],
+      "settings": {
+        "top_element": false,
+        "flip_direction": false,
+        "column_ratio": "equal_widths"
+      }
+    },
     "collection": {
       "type": "flexCollection",
       "settings": {
@@ -405,42 +437,11 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "flex_section_mdDcxM": {
-      "type": "flexSection",
-      "blocks": {
-        "image_mXiqUY": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Vinyl-Christmas_Adapter.png"
-          }
-        },
-        "text_bY6LR3": {
-          "type": "text",
-          "settings": {
-            "text_title": "Perfect gift under the tree",
-            "text": "<p>The new Adapter is here, with stronger pullforce and made in cork - all to protect your vinyl record when displayed on the wall</p>",
-            "url": "shopify://blogs/news/introducing-the-new-twelve-inch-adapter",
-            "url_text": "See our blogpost on the new Adapter",
-            "center": false,
-            "social_proof": true,
-            "social_proof_text": "4.5 in average rating on amazon.com"
-          }
-        }
-      },
-      "block_order": [
-        "image_mXiqUY",
-        "text_bY6LR3"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
     }
   },
   "order": [
     "hero",
+    "flex_section_mdDcxM",
     "collection",
     "original",
     "adapter",
@@ -452,7 +453,6 @@
     "story_and_amazon",
     "16583948278d116140",
     "support_and_image",
-    "featured_blog_97jwpb",
-    "flex_section_mdDcxM"
+    "featured_blog_97jwpb"
   ]
 }
