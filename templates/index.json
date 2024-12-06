@@ -412,19 +412,19 @@
         "image_mXiqUY": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/B07BL5B7QK.FRNT.jpg"
+            "image": "shopify://shop_images/Vinyl-Christmas_Adapter.png"
           }
         },
         "text_bY6LR3": {
           "type": "text",
           "settings": {
-            "text_title": "Titel",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "url": "",
-            "url_text": "Link text",
+            "text_title": "Perfect gift under the tree",
+            "text": "<p>The new Adapter is here, with stronger pullforce and made in cork - all to protect your vinyl record when displayed on the wall</p>",
+            "url": "shopify://blogs/news/introducing-the-new-twelve-inch-adapter",
+            "url_text": "See our blogpost on the new Adapter",
             "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
+            "social_proof": true,
+            "social_proof_text": "4.5 in average rating on amazon.com"
           }
         }
       },
@@ -432,7 +432,6 @@
         "image_mXiqUY",
         "text_bY6LR3"
       ],
-      "disabled": true,
       "settings": {
         "top_element": false,
         "flip_direction": false,
