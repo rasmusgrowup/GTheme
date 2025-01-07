@@ -1,10 +1,19 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "165295923592caa572": {
       "type": "hero",
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg",
+        "image": "shopify://shop_images/Lifestyle-2020-2_xd.jpg",
         "small_title_text": "Offers and bundle products",
         "title_text": "Welcome to our Outlet",
         "button_label": "",
@@ -18,14 +27,14 @@
         "16534710666ef75adf-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg"
+            "image": "shopify://shop_images/Lifestyle-2020-2_xd.jpg"
           }
         },
         "16534710666ef75adf-0": {
           "type": "text",
           "settings": {
             "text_title": "Welcome to our outlet",
-            "text": "<p>See our offers and bundle products below<\/p>",
+            "text": "<p>See our offers and bundle products below for each country</p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -50,9 +59,9 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "Top offer this month!",
-            "text": "<p>Our top offer this June is the Twelve Inch 4ECO + Groovewasher Walnut kit with Twelve inch logo engraved.<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-4eco-bundle-kit",
+            "text_title": "Top offer this month! - Danish Market Only",
+            "text": "<h3>We have some extra Twelve Inch Original in brown and white in our warehouse in Odense.</h3>",
+            "url": "shopify://products/twelve-inch-4eco-bundle-kit",
             "url_text": "Yes, take me there!",
             "center": false,
             "social_proof": false,
@@ -62,7 +71,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4eco-GWwalnut.jpg"
+            "image": "shopify://shop_images/ThreeSmallDiscs.jpg"
           }
         }
       },
