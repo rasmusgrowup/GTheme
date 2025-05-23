@@ -199,46 +199,6 @@
         "column_ratio": "equal_widths"
       }
     },
-    "flex_section_yRjVN6": {
-      "type": "flexSection",
-      "blocks": {
-        "article_Pj4AnL": {
-          "type": "article",
-          "settings": {
-            "article": "news/introducing-the-new-twelve-inch-adapter"
-          }
-        },
-        "article_McmDWE": {
-          "type": "article",
-          "settings": {
-            "article": "news/more-than-just-a-display-why-twelve-inch-redefines-vinyl-decor-for-true-collectors"
-          }
-        },
-        "article_fqHnMy": {
-          "type": "article",
-          "settings": {
-            "article": "news/why-a-wall-of-record-albums-is-a-good-idea"
-          }
-        },
-        "article_BNBHtF": {
-          "type": "article",
-          "settings": {
-            "article": "news/autumn-sales"
-          }
-        }
-      },
-      "block_order": [
-        "article_Pj4AnL",
-        "article_McmDWE",
-        "article_fqHnMy",
-        "article_BNBHtF"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
-    },
     "full_width_first": {
       "type": "flexSection",
       "blocks": {
@@ -414,7 +374,6 @@
     "adapter",
     "frameless",
     "16475055508970c092",
-    "flex_section_yRjVN6",
     "full_width_first",
     "full_width_second",
     "story_and_amazon",
