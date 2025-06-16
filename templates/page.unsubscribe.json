@@ -11,6 +11,17 @@
   "sections": {
     "40bf2019-693e-4624-a8ad-c3fc79a67492": {
       "type": "rich-text",
+      "blocks": {
+        "text_cJPFVw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thank you for the time, we have removed you from the email list.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_cJPFVw"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
