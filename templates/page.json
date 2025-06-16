@@ -1,194 +1,16 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
-    "df8d6aa1-3459-4cd5-9d44-215472db8516": {
-      "type": "flexPage",
-      "blocks": {
-        "e6bc6419-9265-4606-81e2-7da2446afa53": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/SM-bundle-image.jpg"
-          }
-        },
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-0": {
-          "type": "title",
-          "settings": {
-            "title": "special offer"
-          }
-        },
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-1": {
-          "type": "text",
-          "settings": {
-            "text_title": "Exclusive for Sound Matters subscribers",
-            "text": "<p>Check out our bundle pack for this Black Friday and holiday season:<\/p><p>A Twelve Inch Original 4ECO bundled with our signature GrooveWasher Walnut Handle record cleaning brush - <em><strong>both now available at the sale price of €99 + free shipping (regular price 109 + shipping average of €20).<\/strong><\/em><\/p><p><\/p><p>This great offer is available exclusively for subscribers to our good friends over at Sound Matters - a leading vinyl record website where you get the best tips, tricks, and features to enhance your love of music on vinyl.*<\/p><p><\/p><p>Visit them here and <strong>get your code<\/strong> for our offer: <a href=\"https:\/\/www.yoursoundmatters.com\/twelve-inch-groovewasher-holiday-bundle\/\" target=\"_blank\" title=\"https:\/\/www.yoursoundmatters.com\/twelve-inch-groovewasher-holiday-bundle\/\">https:\/\/www.yoursoundmatters.com <\/a><\/p>"
-          }
-        },
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4eco-GWwalnut.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "e6bc6419-9265-4606-81e2-7da2446afa53",
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-0",
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-1",
-        "template--14904660525103__df8d6aa1-3459-4cd5-9d44-215472db8516-1668421200ac7cb335-2"
-      ],
-      "settings": {
-      }
-    },
-    "c5b710c7-03e5-486f-ba3c-5f9856f4854d": {
-      "type": "flexPage",
-      "blocks": {
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-0": {
-          "type": "title",
-          "settings": {
-            "title": ""
-          }
-        },
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-1": {
-          "type": "text",
-          "settings": {
-            "text_title": "What's in the bundle?",
-            "text": "<p>The Twelve Inch Original 4ECO contains four record wall mounts made from sustainable bamboo. We have ditched the plastic in favour of a more environmentally friendly product.<\/p><p><\/p><p>You can now showcase your favorite albums on the wall <strong>without needing frames or visible support. <\/strong>And you can change the albums to another theme in a matter of seconds. <\/p>"
-          }
-        },
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/4ECO_Content_Brown_greyBG_forWeb.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-0",
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-1",
-        "template--14904660525103__c5b710c7-03e5-486f-ba3c-5f9856f4854d-1668422434bf196555-2"
-      ],
-      "settings": {
-      }
-    },
-    "c3492bb1-c996-4952-94a7-3da21267c1c4": {
-      "type": "flexPage",
-      "blocks": {
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-0": {
-          "type": "title",
-          "settings": {
-            "title": ""
-          }
-        },
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-1": {
-          "type": "text",
-          "settings": {
-            "text_title": "Express your musical mood!",
-            "text": "<p>Choose a theme and express yourself through beautiful album art. <\/p><p><\/p><p>Feeling in a jazzy mood? Great! Display your choice of the jazz greats. Time for heavy metal? That's easy; make the switch in seconds and turn it up to eleven. The creative possibilities are endless.<\/p>"
-          }
-        },
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cafe.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-0",
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-1",
-        "template--14904660525103__c3492bb1-c996-4952-94a7-3da21267c1c4-1668422434bf196555-2"
-      ],
-      "settings": {
-      }
-    },
-    "45a3e1ac-f369-4c75-a77c-0742e7b91b1b": {
-      "type": "flexPage",
-      "blocks": {
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-0": {
-          "type": "title",
-          "settings": {
-            "title": ""
-          }
-        },
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-1": {
-          "type": "text",
-          "settings": {
-            "text_title": "Limited Edition: GrooveWasher Record Cleaning Kit",
-            "text": "<p>Your records deserve the best. We've included a GrooveWasher record cleaning kit complete with their walnut record cleaning handle. As a limited edition, this G2 cleaning kit comes with a Twelve Inch signature logo etched into the beautiful solid American walnut.<\/p><p><\/p><p>GrooveWasher's renowned G2 cleaning fluid makes <a href=\"https:\/\/www.yoursoundmatters.com\/clean-vinyl-records\/\" target=\"_blank\">cleaning vinyl records<\/a> safe and simple. <\/p>"
-          }
-        },
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/GW-TIedition-800.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-0",
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-1",
-        "template--14904660525103__45a3e1ac-f369-4c75-a77c-0742e7b91b1b-1668422434bf196555-2"
-      ],
-      "settings": {
-      }
-    },
-    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get your code now!",
-            "heading_size": "h1"
-          }
-        },
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Visit Sound Matters web site for the exclusive offer<\/p>"
-          }
-        },
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Beam me up to Sound Matters",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-0",
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-1",
-        "template--14904660525103__cb8d41fa-2cdb-4c89-9834-58d496a7df0b-16684232352d03c59b-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "40bf2019-693e-4624-a8ad-c3fc79a67492": {
       "type": "rich-text",
-      "blocks": {
-        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>*Offer will end 31st December 2022, or before if our inventory runs dry.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-0",
-        "template--14904660525103__40bf2019-693e-4624-a8ad-c3fc79a67492-1668531424a27fd64c-1"
-      ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
@@ -198,11 +20,6 @@
     }
   },
   "order": [
-    "df8d6aa1-3459-4cd5-9d44-215472db8516",
-    "c5b710c7-03e5-486f-ba3c-5f9856f4854d",
-    "c3492bb1-c996-4952-94a7-3da21267c1c4",
-    "45a3e1ac-f369-4c75-a77c-0742e7b91b1b",
-    "cb8d41fa-2cdb-4c89-9834-58d496a7df0b",
     "40bf2019-693e-4624-a8ad-c3fc79a67492"
   ]
 }
