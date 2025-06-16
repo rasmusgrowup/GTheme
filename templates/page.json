@@ -17,20 +17,9 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "page_GeGit4": {
-      "type": "page",
-      "name": "t:sections.page.presets.name",
-      "settings": {
-        "page": "",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "40bf2019-693e-4624-a8ad-c3fc79a67492",
-    "page_GeGit4"
+    "40bf2019-693e-4624-a8ad-c3fc79a67492"
   ]
 }
