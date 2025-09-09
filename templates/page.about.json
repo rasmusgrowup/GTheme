@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -6,40 +15,40 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "WE ARE A SMALL INNOVATIVE FAMILY OWNED COMPANY WITH OFFICES SITUATED IN THE HEART OF DENMARK."
+            "title": "Record Store Portal"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p><strong>We set out to create a product, that could help revive old and new record collections the world over.<\/strong><\/p><p>We are a family-owned design company based in Denmark in the heart of Odense. The concept of a frameless display system for vinyl records came out of our passion for music and vinyl records, and because of the fact we had a lot of old records hanging around in our basements.<\/p><p>Our mission is to nurture and grow the love for vinyl records, by providing a flexible and elegant way to display your vinyl records on the wall. We believe that caring for and listening to vinyl records contribute positively to life quality. The almost ceremonial act of playing a record can itself be quite meditative, and listening to music this way demands focus and time, forcing one to wind down completely.<\/p>"
+            "text": "<p><strong>We set out to create a product, that could help revive old and new record collections the world over.</strong></p><p>We are a family-owned design company based in Denmark in the heart of Odense. The concept of a frameless display system for vinyl records came out of our passion for music and vinyl records, and because of the fact we had a lot of old records hanging around in our basements.</p><p>Our mission is to nurture and grow the love for vinyl records, by providing a flexible and elegant way to display your vinyl records on the wall. We believe that caring for and listening to vinyl records contribute positively to life quality. The almost ceremonial act of playing a record can itself be quite meditative, and listening to music this way demands focus and time, forcing one to wind down completely.</p>"
           }
         },
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lifestyle-2020-2_xd.jpg"
+            "image": "shopify://shop_images/Lifestyle-2020-2_xd.jpg"
           }
         },
         "e60fe416-279f-474e-a09c-3fe3779f0c40": {
           "type": "text",
           "settings": {
             "text_title": "A wish to bring back life to our old records, inspirered us to design a simple solution for displaying records on the wall",
-            "text": "<p>Vinyl records are probably one of the most sustainable products ever made. The records that you or your parents bought back in the 70s still last today. Invented decades ago and deemed obsolete, vinyl records now resurfaces with a remarkable comeback and actually trumps digital media downloads in a lot of countries. No wonder, records are superior to digital media in every sense. But more on that later.<\/p><p>Back in 2013 we dusted off our old vinyl record collections. As the memories came pouring down on us, an idea came to life.<\/p><p>We thought that it was a shame, that these records had been sentenced to a life of solitude in the basement of my home. How could we bring back life to these old records, if they were not to be played on a record player? Could they be displayed in our homes in such a way, that they would remind us of our passion for music? <\/p><p>It was clear. The records could be displayed on the wall, just as we do with paintings and other artwork. We searched the web and the local record stores for solutions to our problem, but only found unappealing and pricy products. Thus the desire to come up with the perfect solution for displaying records on the wall.<\/p>"
+            "text": "<p>Vinyl records are probably one of the most sustainable products ever made. The records that you or your parents bought back in the 70s still last today. Invented decades ago and deemed obsolete, vinyl records now resurfaces with a remarkable comeback and actually trumps digital media downloads in a lot of countries. No wonder, records are superior to digital media in every sense. But more on that later.</p><p>Back in 2013 we dusted off our old vinyl record collections. As the memories came pouring down on us, an idea came to life.</p><p>We thought that it was a shame, that these records had been sentenced to a life of solitude in the basement of my home. How could we bring back life to these old records, if they were not to be played on a record player? Could they be displayed in our homes in such a way, that they would remind us of our passion for music? </p><p>It was clear. The records could be displayed on the wall, just as we do with paintings and other artwork. We searched the web and the local record stores for solutions to our problem, but only found unappealing and pricy products. Thus the desire to come up with the perfect solution for displaying records on the wall.</p>"
           }
         },
         "c7553697-4ee0-4aa9-acd4-2239d0c33c27": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/kim_andersen_incolor.jpg"
+            "image": "shopify://shop_images/kim_andersen_incolor.jpg"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
             "text_title": "Simple danish design",
-            "text": "<p>The initial ideas for the design of the products came together over long talks, while listening to records and drinking coffee with our friends, going through the pros and cons of displaying records on the wall. We all agreed on several critical design features the finished product should include.<br\/><br\/>No frames or visible brackets.<\/p><p>It should be very simple and quite natural to want to change the records on display.<\/p><p>Simple but flexible design - a lot of ways to display your records.<br\/><br\/>Through a lot of trial and error, and a proof of concept with strict self-imposed goals, we settled on the current design. And we really think we have come up with the ultimate solution for displaying records and their covers on the wall. In a simple way, we use magnetism to keep the records and albums on the wall without the need for frames and visible brackets. We think, this is one of the best parts of our design.<\/p><p>It allows you to display your records on the wall and swiftly change them out, always keeping your display setup fresh with your latest acquired records. You can display the records in a gallery side by side, with their cover still on, gatefolds can be opened up to display the front or back cover artwork, you can display the vinyl only, or half inserted into the cover. It’s really up to you and your imagination.<br\/><br\/>We are very proud of the versatility and flexible design of our products. We hope that you agree, that Twelve Inch products offers the best way to display records on the wall. And that our solutions pays great respect to the art of making great records.<\/p>"
+            "text": "<p>The initial ideas for the design of the products came together over long talks, while listening to records and drinking coffee with our friends, going through the pros and cons of displaying records on the wall. We all agreed on several critical design features the finished product should include.<br/><br/>No frames or visible brackets.</p><p>It should be very simple and quite natural to want to change the records on display.</p><p>Simple but flexible design - a lot of ways to display your records.<br/><br/>Through a lot of trial and error, and a proof of concept with strict self-imposed goals, we settled on the current design. And we really think we have come up with the ultimate solution for displaying records and their covers on the wall. In a simple way, we use magnetism to keep the records and albums on the wall without the need for frames and visible brackets. We think, this is one of the best parts of our design.</p><p>It allows you to display your records on the wall and swiftly change them out, always keeping your display setup fresh with your latest acquired records. You can display the records in a gallery side by side, with their cover still on, gatefolds can be opened up to display the front or back cover artwork, you can display the vinyl only, or half inserted into the cover. It’s really up to you and your imagination.<br/><br/>We are very proud of the versatility and flexible design of our products. We hope that you agree, that Twelve Inch products offers the best way to display records on the wall. And that our solutions pays great respect to the art of making great records.</p>"
           }
         }
       },
@@ -51,8 +60,7 @@
         "c7553697-4ee0-4aa9-acd4-2239d0c33c27",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
       ],
-      "settings": {
-      }
+      "settings": {}
     },
     "1645689719e47e8bde": {
       "type": "flexSection",
@@ -60,15 +68,15 @@
         "1645689719d4d32802-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
+            "image": "shopify://shop_images/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
           }
         },
         "27856c95-8c85-4f35-9c9f-9ca572b72aa4": {
           "type": "text",
           "settings": {
             "text_title": "Twelve Inch Original",
-            "text": "<p>Decorate your rooms with the art work from your favourite albums and artists<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-original",
+            "text": "<p>Decorate your rooms with the art work from your favourite albums and artists</p>",
+            "url": "shopify://products/twelve-inch-original",
             "url_text": "Learn more",
             "center": false,
             "social_proof": false,
@@ -93,8 +101,8 @@
           "type": "text",
           "settings": {
             "text_title": "Twelve Inch Apater",
-            "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-adapter",
+            "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful</p>",
+            "url": "shopify://products/twelve-inch-adapter",
             "url_text": "Learn more",
             "center": false,
             "social_proof": false,
@@ -104,7 +112,7 @@
         "1645691883d2f7807f-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-46_tall.jpg"
+            "image": "shopify://shop_images/EmptyName-46_tall.jpg"
           }
         }
       },
