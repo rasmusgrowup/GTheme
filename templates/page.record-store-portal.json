@@ -35,7 +35,7 @@
           "type": "text",
           "settings": {
             "text_title": "1. Start here",
-            "text": "<p>Star by entering your Store details here...</p>"
+            "text": "<p>Start by enter your Store details <a href=\"https://twelve-inch.com/account/registerering your Store details here...\" target=\"_blank\" title=\"https://twelve-inch.com/account/registerering your Store details here...\">here...</a></p>"
           }
         },
         "c7553697-4ee0-4aa9-acd4-2239d0c33c27": {
