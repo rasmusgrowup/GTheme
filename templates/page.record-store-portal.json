@@ -22,7 +22,7 @@
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as a physical product on display in the Store, or as Drop Shipping on the stores own web shop.</strong></p><p>We need to register your store, so it can be eligible for the whole sale prices. </p><p>After registering you will receive further information about these topics:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.<br/><br/></li></ul>"
+            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as a physical product on display in the Store, or as Drop Shipping on the stores own web shop.</strong></p><p>We need to register your store, so it can be eligible for the whole sale prices. <br/></p>"
           }
         },
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
@@ -41,8 +41,8 @@
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
-            "text_title": "2. After confirmation and receiving product details",
-            "text": "<p>Find the products below you want to order, and use the wholesale code we have sendt to you.</p>"
+            "text_title": "2. After confirmation",
+            "text": "<p>When we have registered and confirmed your store, you can access the detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul>"
           }
         },
         "text_h9yMzM": {
