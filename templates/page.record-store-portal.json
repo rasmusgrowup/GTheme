@@ -42,7 +42,7 @@
           "type": "text",
           "settings": {
             "text_title": "2. After confirmation",
-            "text": "<p>When we have registered and confirmed your store, you can access the detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>Go to detail page here...</p>"
+            "text": "<p>When we have registered and confirmed your Store, you can access the detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>Go to detail page here...</p>"
           }
         }
       },
