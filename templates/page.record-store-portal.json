@@ -35,14 +35,14 @@
           "type": "text",
           "settings": {
             "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p></p>"
+            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com</a></p>"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
-            "text_title": "2. After login",
-            "text": "<p>Explore the detail page here...</p>"
+            "text_title": "2. After confirmation",
+            "text": "<p>Find the products below you want to order, and use the wholesale code we have sendt to you.</p>"
           }
         },
         "text_h9yMzM": {
