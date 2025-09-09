@@ -38,17 +38,11 @@
             "text": "<p>Start by enter your Store details <a href=\"https://twelve-inch.com/account/registerering your Store details here...\" target=\"_blank\" title=\"https://twelve-inch.com/account/registerering your Store details here...\">here...</a></p>"
           }
         },
-        "c7553697-4ee0-4aa9-acd4-2239d0c33c27": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/kim_andersen_incolor.jpg"
-          }
-        },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
-            "text_title": "Simple danish design",
-            "text": "<p>The initial ideas for the design of the products came together over long talks, while listening to records and drinking coffee with our friends, going through the pros and cons of displaying records on the wall. We all agreed on several critical design features the finished product should include.<br/><br/>No frames or visible brackets.</p><p>It should be very simple and quite natural to want to change the records on display.</p><p>Simple but flexible design - a lot of ways to display your records.<br/><br/>Through a lot of trial and error, and a proof of concept with strict self-imposed goals, we settled on the current design. And we really think we have come up with the ultimate solution for displaying records and their covers on the wall. In a simple way, we use magnetism to keep the records and albums on the wall without the need for frames and visible brackets. We think, this is one of the best parts of our design.</p><p>It allows you to display your records on the wall and swiftly change them out, always keeping your display setup fresh with your latest acquired records. You can display the records in a gallery side by side, with their cover still on, gatefolds can be opened up to display the front or back cover artwork, you can display the vinyl only, or half inserted into the cover. It’s really up to you and your imagination.<br/><br/>We are very proud of the versatility and flexible design of our products. We hope that you agree, that Twelve Inch products offers the best way to display records on the wall. And that our solutions pays great respect to the art of making great records.</p>"
+            "text_title": "2. After login",
+            "text": "<p>Explore the detail page here...</p>"
           }
         }
       },
@@ -57,7 +51,6 @@
         "text",
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
-        "c7553697-4ee0-4aa9-acd4-2239d0c33c27",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
       ],
       "settings": {}
