@@ -44,6 +44,13 @@
             "text_title": "2. After login",
             "text": "<p>Explore the detail page here...</p>"
           }
+        },
+        "text_h9yMzM": {
+          "type": "text",
+          "settings": {
+            "text_title": "3. Or start ordering",
+            "text": "<p>Go to the products below and start ordering</p>"
+          }
         }
       },
       "block_order": [
@@ -51,73 +58,10 @@
         "text",
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
-        "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
+        "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
+        "text_h9yMzM"
       ],
       "settings": {}
-    },
-    "1645689719e47e8bde": {
-      "type": "flexSection",
-      "blocks": {
-        "1645689719d4d32802-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Twelve-Inch-Lifestyle-2018-21_xd.jpg"
-          }
-        },
-        "27856c95-8c85-4f35-9c9f-9ca572b72aa4": {
-          "type": "text",
-          "settings": {
-            "text_title": "Twelve Inch Original",
-            "text": "<p>Decorate your rooms with the art work from your favourite albums and artists</p>",
-            "url": "shopify://products/twelve-inch-original",
-            "url_text": "Learn more",
-            "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
-          }
-        }
-      },
-      "block_order": [
-        "1645689719d4d32802-1",
-        "27856c95-8c85-4f35-9c9f-9ca572b72aa4"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": true,
-        "column_ratio": "equal_widths"
-      }
-    },
-    "16456918831bd68dce": {
-      "type": "flexSection",
-      "blocks": {
-        "1645691883d2f7807f-0": {
-          "type": "text",
-          "settings": {
-            "text_title": "Twelve Inch Apater",
-            "text": "<p>Show off your colored vinyl records in a way that's dynamic, easy to change and beautiful</p>",
-            "url": "shopify://products/twelve-inch-adapter",
-            "url_text": "Learn more",
-            "center": false,
-            "social_proof": false,
-            "social_proof_text": "X.X in average rating on amazon.com"
-          }
-        },
-        "1645691883d2f7807f-1": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/EmptyName-46_tall.jpg"
-          }
-        }
-      },
-      "block_order": [
-        "1645691883d2f7807f-0",
-        "1645691883d2f7807f-1"
-      ],
-      "settings": {
-        "top_element": false,
-        "flip_direction": false,
-        "column_ratio": "equal_widths"
-      }
     },
     "1645689696ddeaf14c": {
       "type": "flexCollection",
@@ -134,8 +78,6 @@
   },
   "order": [
     "main",
-    "1645689719e47e8bde",
-    "16456918831bd68dce",
     "1645689696ddeaf14c"
   ]
 }
