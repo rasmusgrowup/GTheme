@@ -66,8 +66,8 @@
     "1645689696ddeaf14c": {
       "type": "flexCollection",
       "settings": {
-        "title": "Our products",
-        "collection": "our-products",
+        "title": "Products",
+        "collection": "eu-collection",
         "products_to_show": 4,
         "show_view_all": true,
         "swipe_on_mobile": true,
