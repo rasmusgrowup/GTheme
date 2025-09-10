@@ -1,5 +1,10 @@
 {%- assign w_continue = 'no' -%}
-{% assign wlmHideItem_Product = false %}
+{% assign wlmHideItem_Product = false %}{% assign wlmLockedTags326475 = false %}
+{% for tag in customer.tags %}
+{% if tag == 'B2B_APPROVED' %}{% assign wlmLockedTags326475 = true %}{% endif %}
+{% endfor %}
+
+
 
 {% if wlmHideItem_Product == true %}{% continue %}{% endif %}
 
