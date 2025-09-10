@@ -52,6 +52,13 @@
             "text_title": "Shipping methods and prices.",
             "text": "<p>We use a flat rate shipping charge depending on the weight of the package and the country you are in.<br/><br/>At the moment we have free shipping if the package weights over 4 kg.<br/><br/>How much you charge for the shipping is up to you, but be sure to cover you shipping cost from our shop to your Store.<br/><br/>We are working on a solution for reduced shipping cost if you are ordering to the Store front as a pickup station</p>"
           }
+        },
+        "text_ryTbCd": {
+          "type": "text",
+          "settings": {
+            "text_title": "Marketing / Samples",
+            "text": "<p>We offer free samples of our products to use on display in the Store. Get in contact for more information and how to promote our products.<br/><br/>Read this blog about how to sell Twelve Inch products</p>"
+          }
         }
       },
       "block_order": [
@@ -60,7 +67,8 @@
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
         "text_PU7gUm",
-        "text_GX8TTE"
+        "text_GX8TTE",
+        "text_ryTbCd"
       ],
       "custom_css": [
         ".flex_page_text_wrapper {padding-bottom: 30px;}"
