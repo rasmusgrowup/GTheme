@@ -15,27 +15,21 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "Record Store Portal"
+            "title": "Record Store Portal Detail Page"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as physical products on display in the Store, or as Drop Shipping on the Stores own web shop.</strong></p><p>We need to register your Store, so it can be eligible for the whole sale prices. <br/></p>"
-          }
-        },
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Twelve_Inch_4ECO_-_brown_disc_on_the_wall.jpg"
+            "text": "<p>This page contains information about:<br/><br/>Product data, description and images to list on your own web shop</p><p>Whole sales prices and recommended retail prices</p><p>How to order</p><p>Shipping methods and prices.<br/></p>"
           }
         },
         "e60fe416-279f-474e-a09c-3fe3779f0c40": {
           "type": "text",
           "settings": {
-            "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com</a></p>"
+            "text_title": "Product data",
+            "text": "<h3>Product data is delivered via our Google Drive link and contains all relevant information to create product listings on your own web shop.<br/><br/>It also contains links to our high res. product images.<br/><br/>So, just copy and paste.<br/></h3><h3><a href=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\" target=\"_blank\" title=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\">Twelve Inch B2B Retail Kit</a></h3><h3></h3><h3></h3>"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
@@ -49,7 +43,6 @@
       "block_order": [
         "title",
         "text",
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
       ],
