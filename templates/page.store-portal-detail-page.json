@@ -32,6 +32,13 @@
             "text": "<p>Product details are accessible via the Google Drive link, offering essential information for generating product listings on your website.</p><p> Additionally, high-resolution product images are included. Just copy and paste.</p>"
           }
         },
+        "text_GW7xmr": {
+          "type": "text",
+          "settings": {
+            "text_title": "Make a title for the text. Delete if undesired",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+          }
+        },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
@@ -58,6 +65,7 @@
         "title",
         "text",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
+        "text_GW7xmr",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
         "text_PU7gUm",
         "text_GX8TTE"
