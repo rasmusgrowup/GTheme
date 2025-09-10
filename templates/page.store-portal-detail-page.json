@@ -57,7 +57,7 @@
           "type": "text",
           "settings": {
             "text_title": "Marketing / Samples",
-            "text": "<p>We offer free samples of our products to use on display in the Store. Get in contact for more information and how to promote our products.<br/><br/>Read this blog about how to sell Twelve Inch products</p>"
+            "text": "<p>We offer free samples of our products to use on display in the Store. Get in contact for more information and how to promote our products.<br/><br/>Read this blog about <a href=\"/blogs/b2b/are-you-the-new-dealer-in-town\" target=\"_blank\" title=\"🎶 Are You the New Dealer in Town?\">how to sell Twelve Inch products</a></p>"
           }
         }
       },
