@@ -70,7 +70,9 @@
         "text_PU7gUm",
         "text_GX8TTE"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".flex_page_text_wrapper {padding-bottom: 30px;}"
+      ],
       "settings": {}
     },
     "1645689696ddeaf14c": {
