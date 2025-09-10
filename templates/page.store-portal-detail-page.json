@@ -29,35 +29,28 @@
           "type": "text",
           "settings": {
             "text_title": "Product data",
-            "text": "<p>Product details are accessible via the Google Drive link, offering essential information for generating product listings on your website.</p><p> Additionally, high-resolution product images are included. Just copy and paste.</p>"
-          }
-        },
-        "text_GW7xmr": {
-          "type": "text",
-          "settings": {
-            "text_title": "Make a title for the text. Delete if undesired",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>"
+            "text": "<p>Product details are accessible via the Google Drive link, offering essential information for generating product listings on your website.</p><p>Additionally, high-resolution product images are included. Open the link to the spreadsheet and copy/ paste the information you want<br/><br/><a href=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\" target=\"_blank\" title=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\">B2B Retail Kit</a></p><p>The Google sheet is multi language.</p>"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
             "text_title": "Prices and recommended retail prices",
-            "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price visible on our web shop is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.</p><p></p>"
+            "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price, visible on our web shop, is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.<br/><br/><em>**Please note, this code can only be used by eligible B2B customers and will not work if your Store is not approved by us**</em></p><p></p>"
           }
         },
         "text_PU7gUm": {
           "type": "text",
           "settings": {
             "text_title": "How to order",
-            "text": "<p>You order the products through the main web shop and use the discount code at checkout.<br/><br/>To make this like dropshipping, be sure to enter the delivery address of your customer.<br/><br/>You can use your Store address as a pickup station. This method will get your customer into the Store, with a good chance of up-sell</p>"
+            "text": "<p>You order the products through the main web shop and use the discount code at checkout.<br/><br/>To make this like dropshipping, be sure to enter the delivery address of your customer.<br/><br/>You can also use your Store address as a pickup station. This method works like a <strong>Foot Traffic Generator:</strong></p><ul><li>Customers physically come to the shop to pick up their order.</li><li>While in-store, they’re more likely to browse and buy vinyl, accessories, or other items.</li></ul>"
           }
         },
         "text_GX8TTE": {
           "type": "text",
           "settings": {
             "text_title": "Shipping methods and prices.",
-            "text": "<p>We use a flat rate shipping charge depending on the weight of the package.<br/><br/>At the moment we have free shipping if the package weights over 4 kg.<br/><br/>How much you charge for the shipping is up to you, but be sure to cover our shipping cost at the least.<br/><br/>We are working on a solution for reduced shipping cost if you are ordering to the Store front as a pickup station</p>"
+            "text": "<p>We use a flat rate shipping charge depending on the weight of the package and the country you are in.<br/><br/>At the moment we have free shipping if the package weights over 4 kg.<br/><br/>How much you charge for the shipping is up to you, but be sure to cover you shipping cost from our shop to your Store.<br/><br/>We are working on a solution for reduced shipping cost if you are ordering to the Store front as a pickup station</p>"
           }
         }
       },
@@ -65,7 +58,6 @@
         "title",
         "text",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
-        "text_GW7xmr",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
         "text_PU7gUm",
         "text_GX8TTE"
