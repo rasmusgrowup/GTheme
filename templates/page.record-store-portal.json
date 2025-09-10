@@ -53,6 +53,9 @@
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
       ],
+      "custom_css": [
+        ".flex_page_text_wrapper {padding-bottom: 30px;}"
+      ],
       "settings": {}
     },
     "1645689696ddeaf14c": {
