@@ -35,7 +35,7 @@
           "type": "text",
           "settings": {
             "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com</a></p>"
+            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com</a></p><p>or, if still in doubt, read this blog post <a href=\"/blogs/b2b/are-you-the-new-dealer-in-town\" target=\"_blank\" title=\"🎶 Are You the New Dealer in Town?\">about becoming a dealer</a></p>"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
