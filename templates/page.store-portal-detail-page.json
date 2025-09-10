@@ -35,8 +35,22 @@
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
           "type": "text",
           "settings": {
-            "text_title": "2. After confirmation",
-            "text": "<p>When we have registered and confirmed your Store, you can access the detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>Go to detail page here...</p>"
+            "text_title": "Prices and recommended retail prices",
+            "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price visible on our web shop is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.<br/></p>"
+          }
+        },
+        "text_PU7gUm": {
+          "type": "text",
+          "settings": {
+            "text_title": "How to order",
+            "text": "<p>You order the products through the main web shop and use the discount code at checkout.<br/><br/>To make this like dropshipping, be sure to enter the delivery address of your customer.<br/><br/>You can use your Store address as a pickup station. This method will get your customer into the Store, with a good chance of up-sell</p>"
+          }
+        },
+        "text_GX8TTE": {
+          "type": "text",
+          "settings": {
+            "text_title": "Shipping methods and prices.",
+            "text": "<p>We use a flat rate shipping charge depending on the weight of the package.<br/><br/>At the moment we have free shipping if the package weights over 4 kg.<br/><br/>How much you charge for the shipping is up to you, but be sure to cover our shipping cost at the least.<br/><br/>We are working on a solution for reduced shipping cost if you are ordering to the Store front as a pickup station</p>"
           }
         }
       },
@@ -44,7 +58,9 @@
         "title",
         "text",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
-        "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
+        "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
+        "text_PU7gUm",
+        "text_GX8TTE"
       ],
       "settings": {}
     },
