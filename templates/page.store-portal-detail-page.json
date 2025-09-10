@@ -22,14 +22,14 @@
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p>This page contains information about:<br/><br/>Product data, description and images to list on your own web shop</p><p>Whole sales prices and recommended retail prices</p><p>How to order</p><p>Shipping methods and prices.</p><p></p><p><br/></p>"
+            "text": "<p><strong>This page contains information about:</strong><br/><br/>Product data, description and images to list on your own web shop</p><p>Whole sales prices and recommended retail prices</p><p>How to order</p><p>Shipping methods and prices.</p><p></p><p><br/></p>"
           }
         },
         "e60fe416-279f-474e-a09c-3fe3779f0c40": {
           "type": "text",
           "settings": {
             "text_title": "Product data",
-            "text": "<h3>Product details are accessible via the Google Drive link, offering essential information for generating product listings on your website.</h3><h3> Additionally, high-resolution product images are included. Just copy and paste.</h3><h3><a href=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\" target=\"_blank\" title=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\">Twelve Inch B2B Retail Kit</a></h3>"
+            "text": "<p>Product details are accessible via the Google Drive link, offering essential information for generating product listings on your website.</p><p> Additionally, high-resolution product images are included. Just copy and paste.</p><h3><a href=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\" target=\"_blank\" title=\"https://docs.google.com/spreadsheets/d/13GwMBisaje4VWRgYSO6cxlpHQyqUPrbzRgfE9Kk78NE/edit?usp=sharing\">Twelve Inch B2B Retail Kit</a></h3><p></p>"
           }
         },
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
