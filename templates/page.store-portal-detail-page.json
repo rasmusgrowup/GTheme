@@ -36,7 +36,7 @@
           "type": "text",
           "settings": {
             "text_title": "Prices and recommended retail prices",
-            "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price visible on our web shop is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.<br/></p>"
+            "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price visible on our web shop is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.</p><p></p>"
           }
         },
         "text_PU7gUm": {
