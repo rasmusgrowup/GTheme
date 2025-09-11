@@ -1,6 +1,381 @@
+{% doc %}
+  @prompt
+    Create a customer login/account profile icon for the header that shows a login link when customers are not logged in and an account link when they are logged in. The icon should be styled to match the header design and include proper hover states.
+
+{% enddoc %}
+{% assign ai_gen_id = block.id | replace: '_', '' | downcase %}
+
+{% style %}
+  .ai-account-icon-{{ ai_gen_id }} {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    text-decoration: none;
+    color: {{ block.settings.icon_color }};
+    padding: {{ block.settings.padding }}px;
+    border-radius: {{ block.settings.border_radius }}px;
+    transition: all 0.3s ease;
+    background-color: {{ block.settings.background_color }};
+    border: {{ block.settings.border_width }}px solid {{ block.settings.border_color }};
+  }
+
+  .ai-account-icon-{{ ai_gen_id }}:hover {
+    color: {{ block.settings.icon_hover_color }};
+    background-color: {{ block.settings.background_hover_color }};
+    border-color: {{ block.settings.border_hover_color }};transform: translateY(-1px);
+  }
+
+  .ai-account-icon-{{ ai_gen_id }}:focus {
+    outline: 2px solid {{ block.settings.icon_color }};
+    outline-offset: 2px;
+  }
+
+  .ai-account-icon-svg-{{ ai_gen_id }} {
+    width: {{ block.settings.icon_size }}px;
+    height: {{ block.settings.icon_size }}px;stroke-width: {{ block.settings.stroke_width }};
+  }
+
+  .ai-account-text-{{ ai_gen_id }} {
+    margin-left: 8px;
+    font-size: {{ block.settings.text_size }}px;
+    font-weight: {{ block.settings.text_weight }};
+    white-space: nowrap;
+  }
+
+  @media screen and (max-width: 749px) {
+    .ai-account-text-{{ ai_gen_id }} {
+      {% if block.settings.hide_text_mobile %}
+        display: none;
+      {% endif %}
+    }
+    .ai-account-icon-{{ ai_gen_id }} {
+      padding: {{ block.settings.padding | times: 0.8 }}px;
+    }
+    
+    .ai-account-icon-svg-{{ ai_gen_id }} {
+      width: {{ block.settings.icon_size | times: 0.9 }}px;
+      height: {{ block.settings.icon_size | times: 0.9 }}px;
+    }
+  }
+
+  {% if block.settings.show_tooltip %}
+    .ai-account-tooltip-{{ ai_gen_id }} {
+      position: absolute;
+      bottom: calc(100% + 8px);
+      left: 50%;
+      transform: translateX(-50%);
+      background-color: {{ block.settings.tooltip_bg_color }};
+      color: {{ block.settings.tooltip_text_color }};
+      padding:6px 12px;
+      border-radius: 4px;
+      font-size: 12px;
+      white-space: nowrap;
+      opacity: 0;
+      visibility: hidden;
+      transition: opacity 0.3s ease, visibility 0.3s ease;
+      pointer-events: none;
+      z-index: 1000;
+    }
+
+    .ai-account-tooltip-{{ ai_gen_id }}::after {
+      content: '';
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      border: 4px solid transparent;
+      border-top-color: {{ block.settings.tooltip_bg_color }};
+    }
+
+    .ai-account-icon-{{ ai_gen_id }}:hover .ai-account-tooltip-{{ ai_gen_id }} {
+      opacity: 1;
+      visibility: visible;
+    }
+  {% endif %}
+{% endstyle %}
+
+{% if customer %}
+  <a
+    href="{{ routes.account_url }}"
+    class="ai-account-icon-{{ ai_gen_id }}"
+    aria-label="My account"
+    {{ block.shopify_attributes }}
+  >
+    <svg
+      class="ai-account-icon-svg-{{ ai_gen_id }}"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round">
+      <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+      <circle cx="12" cy="7" r="4"></circle>
+    </svg>
+    {% if block.settings.show_text %}
+      <span class="ai-account-text-{{ ai_gen_id }}">
+        {% if block.settings.logged_in_text != blank %}
+          {{ block.settings.logged_in_text }}
+        {% else %}
+          Account
+        {% endif %}
+      </span>
+    {% endif %}
+    {% if block.settings.show_tooltip %}
+      <span class="ai-account-tooltip-{{ ai_gen_id }}">
+        {% if block.settings.logged_in_tooltip != blank %}
+          {{ block.settings.logged_in_tooltip }}
+        {% else %}
+          View account details
+        {% endif %}
+      </span>
+    {% endif %}
+  </a>
+{% else %}
+  <a
+    href="{{ routes.account_login_url }}"
+    class="ai-account-icon-{{ ai_gen_id }}"
+    aria-label="Login"
+    {{ block.shopify_attributes }}
+  >
+    <svg
+      class="ai-account-icon-svg-{{ ai_gen_id }}"
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    >
+      <path d="M15 3h4a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2h-4"></path>
+      <polyline points="10,17 15,12 10,7"></polyline>
+      <line x1="15" y1="12" x2="3" y2="12"></line>
+    </svg>
+    {% if block.settings.show_text %}
+      <span class="ai-account-text-{{ ai_gen_id }}">
+        {% if block.settings.login_text != blank %}
+          {{ block.settings.login_text }}
+        {% else %}
+          Login
+        {% endif %}
+      </span>
+    {% endif %}
+    {% if block.settings.show_tooltip %}
+      <span class="ai-account-tooltip-{{ ai_gen_id }}">
+        {% if block.settings.login_tooltip != blank %}
+          {{ block.settings.login_tooltip }}
+        {% else %}
+          Sign in to your account
+        {% endif %}
+      </span>
+    {% endif %}
+  </a>
+{% endif %}
+
 {% schema %}
- {
-   "name": "AI_Block",
-   "tag": "shopify-ai-generated-block"
- }
+{
+  "name": "Account icon",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Display options"
+    },
+    {
+      "type": "checkbox",
+      "id": "show_text",
+      "label": "Show text",
+      "default": false
+    },
+    {
+      "type": "checkbox",
+      "id": "hide_text_mobile",
+      "label": "Hide text on mobile",
+      "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_tooltip",
+      "label": "Show tooltip on hover",
+      "default": true
+    },
+    {
+      "type": "header",
+      "content": "Text content"
+    },
+    {
+      "type": "text",
+      "id": "login_text",
+      "label": "Login text",
+      "default": "Login"
+    },
+    {
+      "type": "text",
+      "id": "logged_in_text",
+      "label": "Logged in text",
+      "default": "Account"
+    },
+    {
+      "type": "text",
+      "id": "login_tooltip",
+      "label": "Login tooltip",
+      "default": "Sign in to your account"
+    },
+    {
+      "type": "text",
+      "id": "logged_in_tooltip",
+      "label": "Logged in tooltip",
+      "default": "View account details"
+    },
+    {
+      "type": "header",
+      "content": "Icon style"
+    },
+    {
+      "type": "range",
+      "id": "icon_size",
+      "min": 16,
+      "max": 32,
+      "step": 2,
+      "unit": "px",
+      "label": "Icon size",
+      "default": 20
+    },
+    {
+      "type": "range",
+      "id": "stroke_width",
+      "min": 1,
+      "max": 3,
+      "step": 0.5,
+      "label": "Icon stroke width",
+      "default": 1.5
+    },
+    {
+      "type": "range",
+      "id": "padding",
+      "min": 4,
+      "max": 16,
+      "step": 2,
+      "unit": "px",
+      "label": "Padding",
+      "default": 8
+    },
+    {
+      "type": "range",
+      "id": "border_radius",
+      "min": 0,
+      "max": 20,
+      "step": 2,
+      "unit": "px",
+      "label": "Border radius",
+      "default": 4
+    },
+    {
+      "type": "range",
+      "id": "border_width",
+      "min": 0,
+      "max": 3,
+      "step": 1,
+      "unit": "px",
+      "label": "Border width",
+      "default": 0
+    },
+    {
+      "type": "header",
+      "content": "Text style"
+    },
+    {
+      "type": "range",
+      "id": "text_size",
+      "min": 12,
+      "max": 18,
+      "step": 1,
+      "unit": "px",
+      "label": "Text size",
+      "default": 14
+    },
+    {
+      "type": "select",
+      "id": "text_weight",
+      "label": "Text weight",
+      "options": [
+        {
+          "value": "400",
+          "label": "Normal"
+        },
+        {
+          "value": "500",
+          "label": "Medium"
+        },
+        {
+          "value": "600",
+          "label": "Semi bold"
+        },
+        {
+          "value": "700",
+          "label": "Bold"
+        }
+      ],
+      "default": "400"
+    },
+    {
+      "type": "header",
+      "content": "Colors"
+    },
+    {
+      "type": "color",
+      "id": "icon_color",
+      "label": "Icon color",
+      "default": "#000000"
+    },
+    {
+      "type": "color",
+      "id": "icon_hover_color",
+      "label": "Icon hover color",
+      "default": "#666666"
+    },
+    {
+      "type": "color",
+      "id": "background_color",
+      "label": "Background color",
+      "default": "rgba(0,0,0,0)"
+    },
+    {
+      "type": "color",
+      "id": "background_hover_color",
+      "label": "Background hover color",
+      "default": "#f5f5f5"
+    },
+    {
+      "type": "color",
+      "id": "border_color",
+      "label": "Border color",
+      "default": "rgba(0,0,0,0)"
+    },
+    {
+      "type": "color",
+      "id": "border_hover_color",
+      "label": "Border hover color",
+      "default": "#cccccc"
+    },
+    {
+      "type": "color",
+      "id": "tooltip_bg_color",
+      "label": "Tooltip background",
+      "default": "#333333"
+    },
+    {
+      "type": "color",
+      "id": "tooltip_text_color",
+      "label": "Tooltip text",
+      "default": "#ffffff"
+    }
+  ],
+  "presets": [
+    {
+      "name": "Account icon"
+    }
+  ],
+  "tag": null
+}
 {% endschema %}
