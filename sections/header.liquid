@@ -516,6 +516,15 @@
       {%- endif -%}
       {% endcomment %}
       <ul class="list list-social list-unstyled small-hide" role="list">
+        {% if customer %}
+          <li class="list-social__item">
+            <a href="{{ routes.account_url }}">Account</a>
+          </li>
+        {% else %}
+          <li class="list-social__item">
+            <a href="{{ routes.account_login_url }}">Login</a>
+          </li>
+        {% endif %}
         {%- if settings.social_twitter_link != blank -%}
           <li class="list-social__item">
             <a href="{{ settings.social_twitter_link }}" target="_blank" class="list-social__link link">
