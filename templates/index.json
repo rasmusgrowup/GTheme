@@ -381,6 +381,43 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1757586248581b2fc4": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_7c779bf_DRneUm": {
+          "type": "ai_gen_block_7c779bf",
+          "settings": {
+            "show_text": false,
+            "hide_text_mobile": true,
+            "show_tooltip": true,
+            "login_text": "Login",
+            "logged_in_text": "Account",
+            "login_tooltip": "Sign in to your account",
+            "logged_in_tooltip": "View account details",
+            "icon_size": 20,
+            "stroke_width": 1.5,
+            "padding": 8,
+            "border_radius": 4,
+            "border_width": 0,
+            "text_size": 14,
+            "text_weight": "400",
+            "icon_color": "#000000",
+            "icon_hover_color": "#666666",
+            "background_color": "rgba(0,0,0,0)",
+            "background_hover_color": "#f5f5f5",
+            "border_color": "rgba(0,0,0,0)",
+            "border_hover_color": "#cccccc",
+            "tooltip_bg_color": "#333333",
+            "tooltip_text_color": "#ffffff"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_7c779bf_DRneUm"
+      ],
+      "settings": {}
     }
   },
   "order": [
@@ -396,6 +433,7 @@
     "story_and_amazon",
     "16583948278d116140",
     "support_and_image",
-    "featured_blog_97jwpb"
+    "featured_blog_97jwpb",
+    "1757586248581b2fc4"
   ]
 }
