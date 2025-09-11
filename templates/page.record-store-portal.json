@@ -67,7 +67,7 @@
           "type": "text",
           "settings": {
             "text_title": "2. After confirmation",
-            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>This link takes you to an easy login, and once you are logged in, you find the Portal Detail Page in the top main menu...<a href=\"/pages/rescord-store-detail-page\" target=\"_blank\" title=\"Rescord Store Detail Page\">start here</a></p>"
+            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p></p><p>Go to login  </p>"
           }
         }
       },
