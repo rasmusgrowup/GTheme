@@ -35,14 +35,7 @@
           "type": "text",
           "settings": {
             "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address:</p><p><a href=\"mailto:info@twelve-inch.com\" title=\"mailto:info@twelve-inch.com\">info@twelve-inch.com</a></p><p>or, if still in doubt, read this blog post <a href=\"/blogs/b2b/are-you-the-new-dealer-in-town\" target=\"_blank\" title=\"🎶 Are You the New Dealer in Town?\">about becoming a dealer</a></p>"
-          }
-        },
-        "d8ac7aa8-977d-4448-bd08-1902bb5c6880": {
-          "type": "text",
-          "settings": {
-            "text_title": "2. After confirmation",
-            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>This link takes you to an easy login, and once you are logged in, you find the Portal Detail Page in the top main menu...<a href=\"/pages/rescord-store-detail-page\" target=\"_blank\" title=\"Rescord Store Detail Page\">start here</a></p>"
+            "text": "<p>Start by sending an email to us requesting access on this email address, use this form below.</p>"
           }
         }
       },
@@ -50,8 +43,7 @@
         "title",
         "text",
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
-        "e60fe416-279f-474e-a09c-3fe3779f0c40",
-        "d8ac7aa8-977d-4448-bd08-1902bb5c6880"
+        "e60fe416-279f-474e-a09c-3fe3779f0c40"
       ],
       "custom_css": [
         ".flex_page_text_wrapper {padding-bottom: 30px;}"
@@ -67,6 +59,22 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "flex_page_FBHC8E": {
+      "type": "flexPage",
+      "blocks": {
+        "text_kE3wmb": {
+          "type": "text",
+          "settings": {
+            "text_title": "2. After confirmation",
+            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p>This link takes you to an easy login, and once you are logged in, you find the Portal Detail Page in the top main menu...<a href=\"/pages/rescord-store-detail-page\" target=\"_blank\" title=\"Rescord Store Detail Page\">start here</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kE3wmb"
+      ],
+      "settings": {}
     },
     "1645689696ddeaf14c": {
       "type": "flexCollection",
@@ -84,6 +92,7 @@
   "order": [
     "main",
     "contact_form_nR8K7z",
+    "flex_page_FBHC8E",
     "1645689696ddeaf14c"
   ]
 }
