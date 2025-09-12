@@ -9,6 +9,22 @@
  */
 {
   "sections": {
+    "flex_page_ar9DXC": {
+      "type": "flexPage",
+      "blocks": {
+        "text_d7geDM": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p>We need to register your record store to make it eligible for wholesale prices.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_d7geDM"
+      ],
+      "settings": {}
+    },
     "contact_form_nR8K7z": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
@@ -49,6 +65,7 @@
     }
   },
   "order": [
+    "flex_page_ar9DXC",
     "contact_form_nR8K7z",
     "flex_page_FBHC8E",
     "1645689696ddeaf14c"
