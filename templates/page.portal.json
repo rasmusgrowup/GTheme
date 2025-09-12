@@ -1,0 +1,98 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "flexPage",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title": "Record Store Portal"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as physical products on display in the Store, or as Drop Shipping on the Stores own web shop.</strong></p><p>We need to register your Store, so it can be eligible for the whole sale prices. <br/></p>"
+          }
+        },
+        "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Twelve_Inch_4ECO_-_brown_disc_on_the_wall.jpg"
+          }
+        },
+        "e60fe416-279f-474e-a09c-3fe3779f0c40": {
+          "type": "text",
+          "settings": {
+            "text_title": "1. Start here",
+            "text": "<p>Start by sending an email to us requesting access on this email address, use this form below.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "text",
+        "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
+        "e60fe416-279f-474e-a09c-3fe3779f0c40"
+      ],
+      "custom_css": [
+        ".flex_page_text_wrapper {padding-bottom: 30px;}"
+      ],
+      "settings": {}
+    },
+    "contact_form_nR8K7z": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Contact form",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "flex_page_FBHC8E": {
+      "type": "flexPage",
+      "blocks": {
+        "text_kE3wmb": {
+          "type": "text",
+          "settings": {
+            "text_title": "2. After confirmation",
+            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p></p><p><a href=\"/pages/rescord-store-detail-page\" target=\"_blank\" title=\"Rescord Store Detail Page\">Go to login  -&gt;</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_kE3wmb"
+      ],
+      "settings": {}
+    },
+    "1645689696ddeaf14c": {
+      "type": "flexCollection",
+      "settings": {
+        "title": "Products",
+        "collection": "eu-collection",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": true,
+        "show_secondary_image": false,
+        "show_rating": false
+      }
+    }
+  },
+  "order": [
+    "main",
+    "contact_form_nR8K7z",
+    "flex_page_FBHC8E",
+    "1645689696ddeaf14c"
+  ]
+}
