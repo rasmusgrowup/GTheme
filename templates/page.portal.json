@@ -12,17 +12,24 @@
     "main": {
       "type": "flexPage",
       "blocks": {
+        "text_Gwkmfi": {
+          "type": "text",
+          "settings": {
+            "text_title": "Twelve Inch Business",
+            "text": ""
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
-            "title": "Record Store Portal"
+            "title": "Expand Your business with easy dropshipping"
           }
         },
         "text": {
           "type": "text",
           "settings": {
             "text_title": "",
-            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as physical products on display in the Store, or as Drop Shipping on the Stores own web shop.</strong></p><p>We need to register your Store, so it can be eligible for the whole sale prices. <br/></p>"
+            "text": "<p><strong>Include the best vinyl record display to your catalogue, with minimum inventory or just dropshipping.</strong></p><p><strong>Get your customers to collect at your store and have a better chance of making up-sell.</strong><br/></p>"
           }
         },
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
@@ -40,13 +47,16 @@
         }
       },
       "block_order": [
+        "text_Gwkmfi",
         "title",
         "text",
         "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
         "e60fe416-279f-474e-a09c-3fe3779f0c40"
       ],
       "custom_css": [
-        ".flex_page_text_wrapper {padding-bottom: 30px;}"
+        ".flex_page_text_wrapper {padding-bottom: 30px;}",
+        "h1 {font-size: 50px; text-transform: none; text-align: center;}",
+        "h2 {text-align: center;}"
       ],
       "settings": {}
     },
@@ -74,6 +84,7 @@
       "block_order": [
         "text_kE3wmb"
       ],
+      "custom_css": [],
       "settings": {}
     },
     "1645689696ddeaf14c": {
