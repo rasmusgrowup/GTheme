@@ -22,36 +22,13 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "Expand Your business with easy dropshipping"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_title": "",
-            "text": "<p><strong>Include the best vinyl record display to your catalogue, with minimum inventory or just dropshipping.</strong></p><p><strong>Get your customers to collect at your store and have a better chance of making up-sell.</strong><br/></p>"
-          }
-        },
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Twelve_Inch_4ECO_-_brown_disc_on_the_wall.jpg"
-          }
-        },
-        "e60fe416-279f-474e-a09c-3fe3779f0c40": {
-          "type": "text",
-          "settings": {
-            "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address, use this form below.</p>"
+            "title": "Expand Your store with easy dropshipping"
           }
         }
       },
       "block_order": [
         "text_Gwkmfi",
-        "title",
-        "text",
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
-        "e60fe416-279f-474e-a09c-3fe3779f0c40"
+        "title"
       ],
       "custom_css": [
         ".flex_page_text_wrapper {padding-bottom: 30px;}",
@@ -60,32 +37,16 @@
       ],
       "settings": {}
     },
-    "contact_form_nR8K7z": {
-      "type": "contact-form",
-      "name": "t:sections.contact-form.presets.name",
+    "hero_pVpDWt": {
+      "type": "hero",
+      "name": "Hero-sektion",
       "settings": {
-        "heading": "Contact form",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "small_title_text": "",
+        "title_text": "",
+        "button_label": "Get started",
+        "button_link": "",
+        "button_style_secondary": false
       }
-    },
-    "flex_page_FBHC8E": {
-      "type": "flexPage",
-      "blocks": {
-        "text_kE3wmb": {
-          "type": "text",
-          "settings": {
-            "text_title": "2. After confirmation",
-            "text": "<p>When we have registered and confirmed your Store, you can access the Portal Detail page with information about:</p><ul><li>Product data, description and images to list on your own web shop</li><li>Whole sales prices and recommended retail prices</li><li>How to order</li><li>Shipping methods and prices.</li></ul><p></p><p><a href=\"/pages/rescord-store-detail-page\" target=\"_blank\" title=\"Rescord Store Detail Page\">Go to login  -&gt;</a></p>"
-          }
-        }
-      },
-      "block_order": [
-        "text_kE3wmb"
-      ],
-      "custom_css": [],
-      "settings": {}
     },
     "1645689696ddeaf14c": {
       "type": "flexCollection",
@@ -102,8 +63,7 @@
   },
   "order": [
     "main",
-    "contact_form_nR8K7z",
-    "flex_page_FBHC8E",
+    "hero_pVpDWt",
     "1645689696ddeaf14c"
   ]
 }
