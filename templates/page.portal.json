@@ -22,13 +22,21 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "Expand Your store with easy dropshipping"
+            "title": "Boost Your Record Store with Effortless Dropshipping"
+          }
+        },
+        "text_GY3anT": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p>Add the most innovative vinyl record display system to your store — with zero upfront investment. Whether you prefer dropshipping or holding minimal stock, we make it easy to offer something your customers haven’t seen before.</p><p><br/></p><p>Prefer foot traffic? Let customers order online and <strong>pick up in your store</strong> — giving you a golden opportunity for <strong>upselling and stronger customer engagement.</strong></p>"
           }
         }
       },
       "block_order": [
         "text_Gwkmfi",
-        "title"
+        "title",
+        "text_GY3anT"
       ],
       "custom_css": [
         ".flex_page_text_wrapper {padding-bottom: 30px;}",
@@ -47,23 +55,10 @@
         "button_link": "",
         "button_style_secondary": false
       }
-    },
-    "1645689696ddeaf14c": {
-      "type": "flexCollection",
-      "settings": {
-        "title": "Products",
-        "collection": "eu-collection",
-        "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "show_secondary_image": false,
-        "show_rating": false
-      }
     }
   },
   "order": [
     "main",
-    "hero_pVpDWt",
-    "1645689696ddeaf14c"
+    "hero_pVpDWt"
   ]
 }
