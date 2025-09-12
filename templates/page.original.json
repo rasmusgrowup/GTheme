@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -7,8 +16,8 @@
           "type": "text",
           "settings": {
             "text_title": "With The Original, you can",
-            "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS<\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-original",
+            "text": "<p>CREATE AN EPIC ART GALLERY BY DISPLAYING YOUR ALBUM COVERS ON THE WALL. WORKS WITH SINGLE AND GATEFOLD ALBUMS</p>",
+            "url": "shopify://products/twelve-inch-original",
             "url_text": "BUY THE ORIGINAL",
             "center": false,
             "social_proof": false,
@@ -18,7 +27,7 @@
         "image": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/ny7841_xd.jpg"
+            "image": "shopify://shop_images/ny7841_xd.jpg"
           }
         }
       },
@@ -38,14 +47,14 @@
         "16455206713bf15783-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8597_xd.jpg"
+            "image": "shopify://shop_images/BambusShoppet_Overordnet-Session8597_xd.jpg"
           }
         },
         "16455206713bf15783-0": {
           "type": "text",
           "settings": {
             "text_title": "First",
-            "text": "<p>ATTACH THE MAGNETIC DISC TO YOUR WALL, WITH THE INCLUDED SCREW. USE A SUITABLE RAW PLUG<\/p>",
+            "text": "<p>ATTACH THE MAGNETIC DISC TO YOUR WALL, WITH THE INCLUDED SCREW. USE A SUITABLE RAW PLUG</p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -71,7 +80,7 @@
           "type": "text",
           "settings": {
             "text_title": "Second",
-            "text": "<p>CAREFULLY INSERT THE RING-DISC INTO THE BACK OF YOUR COVER.<\/p>",
+            "text": "<p>CAREFULLY INSERT THE RING-DISC INTO THE BACK OF YOUR COVER.</p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -82,7 +91,7 @@
         "164552076463403ed5-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_Overordnet-Session8615_xd.jpg"
+            "image": "shopify://shop_images/BambusShoppet_Overordnet-Session8615_xd.jpg"
           }
         }
       },
@@ -102,14 +111,14 @@
         "1645520811849b9b21-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BambusShoppet_-Overordnet-Session8624_xd_585fa6e7-6fc6-4052-a20d-ffd12af49303.jpg"
+            "image": "shopify://shop_images/BambusShoppet_-Overordnet-Session8624_xd_585fa6e7-6fc6-4052-a20d-ffd12af49303.jpg"
           }
         },
         "1645520811849b9b21-0": {
           "type": "text",
           "settings": {
             "text_title": "LASTLY",
-            "text": "<p>HOLD THE ALBUM UP AGAINST THE MAGNET. ADJUST AND CAREFULLY LET GO OF THE ALBUM. ET VOILA, YOUR ALBUM IS NOW DISPLAYED ON THE WALL<\/p>",
+            "text": "<p>HOLD THE ALBUM UP AGAINST THE MAGNET. ADJUST AND CAREFULLY LET GO OF THE ALBUM. ET VOILA, YOUR ALBUM IS NOW DISPLAYED ON THE WALL</p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -135,7 +144,7 @@
           "type": "text",
           "settings": {
             "text_title": "Show the full art work of any album",
-            "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES<\/strong><\/p>",
+            "text": "<p><strong>COMBINE THE ADAPTER WITH THE ORIGINAL TO CREATE TRULY UNIQUE VINYL RECORD ART GALLERIES</strong></p>",
             "url": "",
             "url_text": "",
             "center": false,
@@ -159,7 +168,7 @@
         "1645520890f05c0f6d-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/EmptyName-60_xd.jpg"
+            "image": "shopify://shop_images/EmptyName-60_xd.jpg"
           }
         }
       },
@@ -179,8 +188,8 @@
           "type": "text",
           "settings": {
             "text_title": "Haven't checked out The Adapter yet?",
-            "text": "<p><strong>DECORATE YOUR SPACE WITH YOUR RECORDS, IN A WAY THAT'S DYNAMIC AND BEAUTIFUL<\/strong><\/p>",
-            "url": "shopify:\/\/products\/twelve-inch-adapter",
+            "text": "<p><strong>DECORATE YOUR SPACE WITH YOUR RECORDS, IN A WAY THAT'S DYNAMIC AND BEAUTIFUL</strong></p>",
+            "url": "shopify://products/twelve-inch-adapter",
             "url_text": "Learn more",
             "center": false,
             "social_proof": false,
@@ -190,7 +199,7 @@
         "164569040333e61e6c-1": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Overordnet-Session1584_xd.jpg"
+            "image": "shopify://shop_images/Overordnet-Session1584_xd.jpg"
           }
         }
       },
@@ -203,18 +212,6 @@
         "flip_direction": false,
         "column_ratio": "equal_widths"
       }
-    },
-    "1645609026a560cffd": {
-      "type": "flexCollection",
-      "settings": {
-        "title": "Our products",
-        "collection": "our-products",
-        "products_to_show": 3,
-        "show_view_all": true,
-        "swipe_on_mobile": true,
-        "show_secondary_image": false,
-        "show_rating": false
-      }
     }
   },
   "order": [
@@ -224,7 +221,6 @@
     "164552081190d8790c",
     "1645609012f5ccfb78",
     "16455208905bfea052",
-    "16456904031bb6f786",
-    "1645609026a560cffd"
+    "16456904031bb6f786"
   ]
 }
