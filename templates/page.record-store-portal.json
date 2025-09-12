@@ -9,47 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "flexPage",
-      "blocks": {
-        "title": {
-          "type": "title",
-          "settings": {
-            "title": "Record Store Portal"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text_title": "",
-            "text": "<p><strong>This portal is for the Record Store that wants to sell Twelve Inch products as physical products on display in the Store, or as Drop Shipping on the Stores own web shop.</strong></p><p>We need to register your Store, so it can be eligible for the whole sale prices. <br/></p>"
-          }
-        },
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/Twelve_Inch_4ECO_-_brown_disc_on_the_wall.jpg"
-          }
-        },
-        "e60fe416-279f-474e-a09c-3fe3779f0c40": {
-          "type": "text",
-          "settings": {
-            "text_title": "1. Start here",
-            "text": "<p>Start by sending an email to us requesting access on this email address, use this form below.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "title",
-        "text",
-        "b2dc9d9b-72ec-4849-b155-a78b16cf982b",
-        "e60fe416-279f-474e-a09c-3fe3779f0c40"
-      ],
-      "custom_css": [
-        ".flex_page_text_wrapper {padding-bottom: 30px;}"
-      ],
-      "settings": {}
-    },
     "contact_form_nR8K7z": {
       "type": "contact-form",
       "name": "t:sections.contact-form.presets.name",
@@ -90,7 +49,6 @@
     }
   },
   "order": [
-    "main",
     "contact_form_nR8K7z",
     "flex_page_FBHC8E",
     "1645689696ddeaf14c"
