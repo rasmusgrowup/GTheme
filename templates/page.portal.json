@@ -55,10 +55,27 @@
         "button_link": "https://twelve-inch.com/da/pages/retailer-portal-page",
         "button_style_secondary": false
       }
+    },
+    "flex_page_f4WjhJ": {
+      "type": "flexPage",
+      "blocks": {
+        "text_tUVzzy": {
+          "type": "text",
+          "settings": {
+            "text_title": "",
+            "text": "<p>...or do you want read more about our products first? ...-&gt; <a href=\"/blogs/b2b/are-you-the-new-dealer-in-town\" target=\"_blank\" title=\"🎶 Are You the New Dealer in Town?\">go here</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_tUVzzy"
+      ],
+      "settings": {}
     }
   },
   "order": [
     "main",
-    "hero_pVpDWt"
+    "hero_pVpDWt",
+    "flex_page_f4WjhJ"
   ]
 }
