@@ -39,6 +39,12 @@
             "text": "<p>Our B2B prices (wholesale price) is calculated as a percentage on the retail price.<br/><br/>That means, when you buy and check out, you have to enter a discount code that gives you the relevant discount as a retailer.<br/><br/>Code to use: B2B-WHOLESALE<br/><br/>This code gives you a <strong>gross margin of 30%</strong> on the retail price exclusive of VAT.<br/><br/>Our retail price, visible on our web shop, is the recommended retail price and we will try and keep that steady. If we do any campaigns, we will inform you beforehand.<br/><br/><em>**Please note, this code can only be used by eligible B2B customers and will not work if your Store is not approved by us**</em></p><p></p>"
           }
         },
+        "image_7BhfkT": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/UK-prices.png"
+          }
+        },
         "text_PU7gUm": {
           "type": "text",
           "settings": {
@@ -66,6 +72,7 @@
         "text",
         "e60fe416-279f-474e-a09c-3fe3779f0c40",
         "d8ac7aa8-977d-4448-bd08-1902bb5c6880",
+        "image_7BhfkT",
         "text_PU7gUm",
         "text_GX8TTE",
         "text_ryTbCd"
