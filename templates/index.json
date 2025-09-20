@@ -41,6 +41,39 @@
         "column_ratio": "equal_widths"
       }
     },
+    "17583608242d3a0c00": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_carousel_c34Nbr": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "corner-radius": 40,
+            "items-per-view": 2,
+            "items-per-view-mobile": 3,
+            "max-characters": 180,
+            "autoplay": true,
+            "autoplay-delay": 5,
+            "main-color": "#AE8868",
+            "stars-color": "#FF8D00",
+            "show-review-text": true,
+            "text-color": "",
+            "reviewer-name-color": "",
+            "verified-badge-color": "",
+            "quote-marks-icon": "style-1",
+            "quote-marks-icon-color": "",
+            "review-background-color": "",
+            "product-ids": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_carousel_c34Nbr"
+      ],
+      "settings": {
+        "include_margins": true,
+        "include_padding": true
+      }
+    },
     "collection": {
       "type": "flexCollection",
       "settings": {
@@ -380,39 +413,6 @@
         "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "17583608242d3a0c00": {
-      "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_dynamic_carousel_c34Nbr": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "corner-radius": 40,
-            "items-per-view": 2,
-            "items-per-view-mobile": 3,
-            "max-characters": 180,
-            "autoplay": false,
-            "autoplay-delay": 5,
-            "main-color": "#AE8868",
-            "stars-color": "#FF8D00",
-            "show-review-text": true,
-            "text-color": "",
-            "reviewer-name-color": "",
-            "verified-badge-color": "",
-            "quote-marks-icon": "style-1",
-            "quote-marks-icon-color": "",
-            "review-background-color": "",
-            "product-ids": ""
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_dynamic_carousel_c34Nbr"
-      ],
-      "settings": {
-        "include_margins": true,
-        "include_padding": true
       }
     }
   },
