@@ -382,46 +382,43 @@
         "padding_bottom": 36
       }
     },
-    "1757586248581b2fc4": {
-      "type": "_blocks",
+    "17583608242d3a0c00": {
+      "type": "apps",
       "blocks": {
-        "ai_gen_block_7c779bf_DRneUm": {
-          "type": "ai_gen_block_7c779bf",
+        "loox_reviews_loox_dynamic_carousel_c34Nbr": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
-            "show_text": false,
-            "hide_text_mobile": true,
-            "show_tooltip": true,
-            "login_text": "Login",
-            "logged_in_text": "Account",
-            "login_tooltip": "Sign in to your account",
-            "logged_in_tooltip": "View account details",
-            "icon_size": 20,
-            "stroke_width": 1.5,
-            "padding": 8,
-            "border_radius": 4,
-            "border_width": 0,
-            "text_size": 14,
-            "text_weight": "400",
-            "icon_color": "#000000",
-            "icon_hover_color": "#666666",
-            "background_color": "rgba(0,0,0,0)",
-            "background_hover_color": "#f5f5f5",
-            "border_color": "rgba(0,0,0,0)",
-            "border_hover_color": "#cccccc",
-            "tooltip_bg_color": "#333333",
-            "tooltip_text_color": "#ffffff"
-          },
-          "blocks": {}
+            "corner-radius": 40,
+            "items-per-view": 2,
+            "items-per-view-mobile": 3,
+            "max-characters": 180,
+            "autoplay": false,
+            "autoplay-delay": 5,
+            "main-color": "#AE8868",
+            "stars-color": "#FF8D00",
+            "show-review-text": true,
+            "text-color": "",
+            "reviewer-name-color": "",
+            "verified-badge-color": "",
+            "quote-marks-icon": "style-1",
+            "quote-marks-icon-color": "",
+            "review-background-color": "",
+            "product-ids": ""
+          }
         }
       },
       "block_order": [
-        "ai_gen_block_7c779bf_DRneUm"
+        "loox_reviews_loox_dynamic_carousel_c34Nbr"
       ],
-      "settings": {}
+      "settings": {
+        "include_margins": true,
+        "include_padding": true
+      }
     }
   },
   "order": [
     "hero",
+    "17583608242d3a0c00",
     "collection",
     "featured_blog_j78ak9",
     "original",
@@ -433,7 +430,6 @@
     "story_and_amazon",
     "16583948278d116140",
     "support_and_image",
-    "featured_blog_97jwpb",
-    "1757586248581b2fc4"
+    "featured_blog_97jwpb"
   ]
 }
