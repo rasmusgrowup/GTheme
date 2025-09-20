@@ -22,7 +22,7 @@
         "title": {
           "type": "title",
           "settings": {
-            "title": "Boost Your Record Store with Effortless Dropshipping"
+            "title": "You Want To Sell?"
           }
         },
         "text_GY3anT": {
@@ -56,6 +56,39 @@
         "button_style_secondary": false
       }
     },
+    "17583617437f105f63": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_dynamic_carousel_88Hw3D": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-dynamic-carousel/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "corner-radius": 40,
+            "items-per-view": 2,
+            "items-per-view-mobile": 3,
+            "max-characters": 180,
+            "autoplay": true,
+            "autoplay-delay": 5,
+            "main-color": "#AE8868",
+            "stars-color": "#FF8D00",
+            "show-review-text": true,
+            "text-color": "",
+            "reviewer-name-color": "",
+            "verified-badge-color": "",
+            "quote-marks-icon": "style-1",
+            "quote-marks-icon-color": "",
+            "review-background-color": "",
+            "product-ids": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_dynamic_carousel_88Hw3D"
+      ],
+      "settings": {
+        "include_margins": true,
+        "include_padding": true
+      }
+    },
     "flex_page_f4WjhJ": {
       "type": "flexPage",
       "blocks": {
@@ -76,6 +109,7 @@
   "order": [
     "main",
     "hero_pVpDWt",
+    "17583617437f105f63",
     "flex_page_f4WjhJ"
   ]
 }
