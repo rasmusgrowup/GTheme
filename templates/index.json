@@ -36,7 +36,7 @@
         "37dc0bd3-e0ac-4788-8270-870543d8d845"
       ],
       "custom_css": [
-        "h1 small {font-size: 40px; font-weight: 800;}"
+        "h1 small {font-size: 48px; font-weight: 800;}"
       ],
       "settings": {
         "top_element": true,
