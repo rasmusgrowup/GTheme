@@ -15,8 +15,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "text_title": "",
-            "text": "<h1><strong>Transform Vinyl Records into Captivating Art Galleries with Twelve Inch</strong></h1>",
+            "text_title": "Transform Vinyl Records into Captivating Art Galleries with Twelve Inch",
+            "text": "",
             "url": "shopify://collections",
             "url_text": "Shop now",
             "center": false,
@@ -36,7 +36,7 @@
         "37dc0bd3-e0ac-4788-8270-870543d8d845"
       ],
       "custom_css": [
-        "h1 {font-size: 32px}"
+        "h1 {font-size: 32px;}"
       ],
       "settings": {
         "top_element": true,
