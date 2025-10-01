@@ -49,8 +49,8 @@
           "announcement_m6meCN": {
             "type": "announcement",
             "settings": {
-              "text": "Are you a store owner? Join our B2B channel and start dropshipping today - start here...->",
-              "color_scheme": "accent-1",
+              "text": "Are you a store owner? Join our B2B channel and start dropshipping today - start here...",
+              "color_scheme": "background-2",
               "link": "shopify://pages/portal"
             }
           }
