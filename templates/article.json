@@ -37,20 +37,27 @@
       ],
       "settings": {}
     },
-    "rich_text_PxXjHT": {
+    "rich_text_jzrqjC": {
       "type": "rich-text",
       "blocks": {
-        "button_xQM4BQ": {
+        "text_iY4PzN": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Create Your Own Vinyl Art with the Twelve Inch Adapter</strong></p><p>With the Twelve Inch Adapter, you can elevate your vinyl collection from the shelf to the wall, creating an aesthetic and functional centerpiece. Whether it’s in the living room, office, or music room, our products give you the freedom to express your passion for vinyl in a sustainable way.</p>"
+          }
+        },
+        "button_HU7RiN": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify://collections/eu-collection",
+            "button_label": "Button label",
+            "button_link": "",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "button_xQM4BQ"
+        "text_iY4PzN",
+        "button_HU7RiN"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -63,6 +70,6 @@
   },
   "order": [
     "main",
-    "rich_text_PxXjHT"
+    "rich_text_jzrqjC"
   ]
 }
