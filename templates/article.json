@@ -37,20 +37,20 @@
       ],
       "settings": {}
     },
-    "rich_text_KAUhFY": {
+    "rich_text_PxXjHT": {
       "type": "rich-text",
       "blocks": {
-        "button_3RfJWA": {
+        "button_xQM4BQ": {
           "type": "button",
           "settings": {
-            "button_label": "Get Started",
-            "button_link": "shopify://pages/retailer-portal-page",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/eu-collection",
             "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "button_3RfJWA"
+        "button_xQM4BQ"
       ],
       "name": "t:sections.rich-text.presets.name",
       "settings": {
@@ -63,6 +63,6 @@
   },
   "order": [
     "main",
-    "rich_text_KAUhFY"
+    "rich_text_PxXjHT"
   ]
 }
